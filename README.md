@@ -2,6 +2,12 @@
 This is a place where i put my CodeWars solutions.
 
 
+## Level 7 Katas
+| Katas | Subject | CW Link
+| --- | --- | ---|
+| [Beginner Series #3 Sum of Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Beginer_series_3_sum_of_numbers)| `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)|
+
+
 ## Level 8 Katas
 | Katas | Subject | CW Link
 | --- | --- | ---|
