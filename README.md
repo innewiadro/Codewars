@@ -13,5 +13,5 @@ This is a place where i put my CodeWars solutions.
 | --- | --- | ---|
 | [Odd Or Even](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Even_or_Odd)| `int`|[Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)|
 | [Convert a Number to a String!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_a_Number_to_a_String) |`int` |[Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)|
-
+| [Opposite number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Opposite_number) |`Fundamentals` |[Link](https://www.codewars.com/kata/56dec885c54a926dcd001095/)|
 
