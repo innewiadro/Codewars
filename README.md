@@ -1,6 +1,11 @@
 # CodeWars Python Solutions
 This is a place where i put my CodeWars solutions.
 
+## Level 6 Katas
+| Katas | Subject | CW Link
+| --- | --- | ---|
+| [Find the odd int](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the_odd_int)| `Fundamentals`|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836)|
+
 
 ## Level 7 Katas
 | Katas | Subject | CW Link
