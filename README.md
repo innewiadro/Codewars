@@ -12,7 +12,7 @@ This is a place where i put my CodeWars solutions.
 | --- | --- | ---|
 | [Beginner Series #3 Sum of Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Beginer_series_3_sum_of_numbers)| `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)|
 | [Highest and Lowest](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hights_and_lowest)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/554b4ac871d6813a03000035/)|
-
+| [Descending Order](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Descending_Order)| `Fundamentals`|[Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/)|
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
