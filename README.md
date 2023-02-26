@@ -25,6 +25,9 @@ This is a place where i put my CodeWars solutions.
 | [Sum a list but ignore any duplicates](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Suma_list_but_ignore_any_duplicates)|`Algorithms` `Fundamentals`|[Link](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2/)
 | [Number of People in the Bus](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_people_in_the_bus)| `Fundamentals`|[Link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 | [Odd or Even](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Odd_or_even)| `Fundamentals`|[Link](https://www.codewars.com/kata/5949481f86420f59480000e7/)
+| [The highest profit wins!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_highest_profit_wins)| `Lists` `Array` `Fundamentals`|[Link](https://www.codewars.com/kata/559590633066759614000063/)
+| [Regex validate PIN code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regex_validate_PIN_code)| `Fundamentals``Regular Expressions`|[Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/)
+| [Get the Middle Character](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Get_the_Middle_Character)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/56747fd5cb988479af000028/)
 
 
 ## Level 8 Katas
@@ -36,6 +39,7 @@ This is a place where i put my CodeWars solutions.
 | [Fake Binary](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fake_binary) |`Fundamentals` `Strings` `Arrays`|[Link](https://www.codewars.com/kata/57eae65a4321032ce000002d/)|
 | [Square(n) Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Square(n)_Sum) |`Fundamentals` `Strings` `Arrays`|[Link](https://www.codewars.com/kata/515e271a311df0350d00000f/python)|
 | [Beginner - Lost Without a Map](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_Lost_Without%20_a_Map) |`Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/)|
+| [Sum of positive](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_of_positive)| `Arrays` `Fundamentals`|[Link](https://www.codewars.com/kata/5715eaedb436cf5606000381/)
 
 
 
