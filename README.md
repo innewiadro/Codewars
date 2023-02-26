@@ -1,6 +1,11 @@
 # CodeWars Python Solutions
 This is a place where i put my CodeWars solutions.
 
+## Level 5 Katas
+| Katas | Subject | CW Link
+| --- | --- | ---|
+| [Tic-Tac-Toe Checker](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Tic-Tac-Toe-Checker)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
+
 ## Level 6 Katas
 | Katas | Subject | CW Link
 | --- | --- | ---|
@@ -17,6 +22,9 @@ This is a place where i put my CodeWars solutions.
 | [Sum of the first nth term of Series](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_the_first_nth_term_of_Series)| `Fundamentals`|[Link](https://www.codewars.com/kata/555eded1ad94b00403000071)|
 | [Find the stray number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_stray_number)| `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/57f609022f4d534f05000024/)|
 | [Sum of odd numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_odd_numbers)| `Fundamentals` `Mathematic` `Lists` `Arrays`|[Link](https://www.codewars.com/kata/57f609022f4d534f05000024/)|
+| [Sum a list but ignore any duplicates](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Suma_list_but_ignore_any_duplicates)|`Algorithms` `Fundamentals`|[Link](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2/)
+| [Number of People in the Bus](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_people_in_the_bus)| `Fundamentals`|[Link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
+| [Odd or Even](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Odd_or_even)| `Fundamentals`|[Link](https://www.codewars.com/kata/5949481f86420f59480000e7/)
 
 
 ## Level 8 Katas
