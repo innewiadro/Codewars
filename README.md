@@ -11,6 +11,7 @@ This is a place where i put my CodeWars solutions.
 | --- | --- | ---|
 | [Find the odd int](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the_odd_int)| `Fundamentals`|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836)|
 | [Multiples of 3 or 5](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Multiples_of_3_or_5)| `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/514b92a657cdc65150000006/)|
+| [Dashatize it](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Dashatize_it)| `Fundamentals` `Algorithms` `Strings` `Arrays` `Regular Expressions`|[Link](https://www.codewars.com/kata/58223370aef9fc03fd000071/)|
 
 
 ## Level 7 Katas
@@ -26,7 +27,7 @@ This is a place where i put my CodeWars solutions.
 | [Number of People in the Bus](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_people_in_the_bus)| `Fundamentals`|[Link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 | [Odd or Even](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Odd_or_even)| `Fundamentals`|[Link](https://www.codewars.com/kata/5949481f86420f59480000e7/)
 | [The highest profit wins!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_highest_profit_wins)| `Lists` `Array` `Fundamentals`|[Link](https://www.codewars.com/kata/559590633066759614000063/)
-| [Regex validate PIN code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regex_validate_PIN_code)| `Fundamentals``Regular Expressions`|[Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/)
+| [Regex validate PIN code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regex_validate_PIN_code)| `Fundamentals` `Regular Expressions`|[Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/)
 | [Get the Middle Character](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Get_the_Middle_Character)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/56747fd5cb988479af000028/)
 
 
@@ -40,10 +41,5 @@ This is a place where i put my CodeWars solutions.
 | [Square(n) Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Square(n)_Sum) |`Fundamentals` `Strings` `Arrays`|[Link](https://www.codewars.com/kata/515e271a311df0350d00000f/python)|
 | [Beginner - Lost Without a Map](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_Lost_Without%20_a_Map) |`Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/)|
 | [Sum of positive](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_of_positive)| `Arrays` `Fundamentals`|[Link](https://www.codewars.com/kata/5715eaedb436cf5606000381/)
-
-
-
-
-
-
+| [Grasshopper - Summation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_Summation)| `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/)
 
