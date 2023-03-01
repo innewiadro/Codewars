@@ -29,6 +29,7 @@ This is a place where i put my CodeWars solutions.
 | [The highest profit wins!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_highest_profit_wins)| `Lists` `Array` `Fundamentals`|[Link](https://www.codewars.com/kata/559590633066759614000063/)
 | [Regex validate PIN code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regex_validate_PIN_code)| `Fundamentals` `Regular Expressions`|[Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/)
 | [Get the Middle Character](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Get_the_Middle_Character)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/56747fd5cb988479af000028/)
+| [Vowel Count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Vowel_Count)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/)
 
 
 ## Level 8 Katas
@@ -42,4 +43,5 @@ This is a place where i put my CodeWars solutions.
 | [Beginner - Lost Without a Map](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_Lost_Without%20_a_Map) |`Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/)|
 | [Sum of positive](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_of_positive)| `Arrays` `Fundamentals`|[Link](https://www.codewars.com/kata/5715eaedb436cf5606000381/)
 | [Grasshopper - Summation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_Summation)| `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/)
+| [Reversed sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reversed_sequence)|  `Fundamentals`|[Link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
 
