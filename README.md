@@ -13,6 +13,7 @@ This is a place where i put my CodeWars solutions.
 | [Multiples of 3 or 5](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Multiples_of_3_or_5)| `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/514b92a657cdc65150000006/)|
 | [Dashatize it](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Dashatize_it)| `Fundamentals` `Algorithms` `Strings` `Arrays` `Regular Expressions`|[Link](https://www.codewars.com/kata/58223370aef9fc03fd000071/)|
 | [Take a Number And Sum Its Digits Raised To ...](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Take_a_Number_And_Sum_Its_Digits_Raised)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/)
+| [Jungerstein's Math Training Room: 1](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Jungersteins_Math_Training_Room_1)| `Puzzles` `Mathematics` `Number Theory` `Discrete Mathematics`|[Link](https://www.codewars.com/kata/58cbfe2516341cce1e000001/)
 
 
 ## Level 7 Katas
@@ -33,6 +34,7 @@ This is a place where i put my CodeWars solutions.
 | [Vowel Count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Vowel_Count)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/)
 | [Categorize New Member](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Categorize_New_Member)|`Fundamentals`|[Link](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 | [List Filtering](https://github.com/innewiadro/Codewars/tree/master/kata_level7/List_Filtering)| `Strings` `Fundamentals` `lists`|[Link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+| [You're a square!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Youre_a%20_square)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 
 
 ## Level 8 Katas
