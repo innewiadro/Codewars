@@ -5,6 +5,7 @@ This is a place where i put my CodeWars solutions.
 | Katas | Subject | CW Link
 | --- | --- | ---|
 | [Tic-Tac-Toe Checker](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Tic-Tac-Toe-Checker)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
+| [Moving Zeros To The End](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Moving_Zeros_To_The_End)| `Arrays` `Sorting` `Algorithms`|[Link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -50,4 +51,5 @@ This is a place where i put my CodeWars solutions.
 | [Grasshopper - Summation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_Summation)| `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/)
 | [Reversed sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reversed_sequence)|  `Fundamentals`|[Link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
 | [Total amount of points](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Total_amount_of_points)| `Strings` `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/)
+| [Powers of 2](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Powers_of_2)| `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
 
