@@ -6,6 +6,8 @@ This is a place where i put my CodeWars solutions.
 | --- | --- | ---|
 | [Tic-Tac-Toe Checker](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Tic-Tac-Toe-Checker)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
 | [Moving Zeros To The End](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Moving_Zeros_To_The_End)| `Arrays` `Sorting` `Algorithms`|[Link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/)
+| [Simple Pig Latin](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Simple_Pig_Latin)| `Regular Expressions` `Algorithms`|[Link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+| [Maximum subarray sum](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Maximum_subarray_sum)| `Algorithms` `Lists` `Dynamic Programming` `Fundamentals`|[Link](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
