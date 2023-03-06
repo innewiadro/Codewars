@@ -18,6 +18,7 @@ This is a place where i put my CodeWars solutions.
 | [Take a Number And Sum Its Digits Raised To ...](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Take_a_Number_And_Sum_Its_Digits_Raised)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/)
 | [Jungerstein's Math Training Room: 1](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Jungersteins_Math_Training_Room_1)| `Puzzles` `Mathematics` `Number Theory` `Discrete Mathematics`|[Link](https://www.codewars.com/kata/58cbfe2516341cce1e000001/)
 | [Break camelCase](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Break_camelCase)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/5208f99aee097e6552000148)
+| [Unique In Order](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Unique_In_Order)| `Fundamentals`|[Link](https://www.codewars.com/kata/54e6533c92449cc251001667)
 
 
 ## Level 7 Katas
