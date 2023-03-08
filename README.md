@@ -19,6 +19,8 @@ This is a place where i put my CodeWars solutions.
 | [Jungerstein's Math Training Room: 1](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Jungersteins_Math_Training_Room_1)| `Puzzles` `Mathematics` `Number Theory` `Discrete Mathematics`|[Link](https://www.codewars.com/kata/58cbfe2516341cce1e000001/)
 | [Break camelCase](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Break_camelCase)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/5208f99aee097e6552000148)
 | [Unique In Order](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Unique_In_Order)| `Fundamentals`|[Link](https://www.codewars.com/kata/54e6533c92449cc251001667)
+| [The Supermarket Queue](https://github.com/innewiadro/Codewars/tree/master/kata_level6/The_supermarket_Queue)|`Arrays` `Fundamentals`|[Link](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/)
+| [Stop gninnipS My sdroW!](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Stop_gninnipS_My_sdroW)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/5264d2b162488dc400000001/)
 
 
 ## Level 7 Katas
