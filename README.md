@@ -1,6 +1,11 @@
 # CodeWars Python Solutions
 This is a place where i put my CodeWars solutions.
 
+## Level 4 Katas
+| Katas | Subject | CW Link
+| --- | --- | ---|
+| [Snail](https://github.com/innewiadro/Codewars/tree/master/kata_level4/snail)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
+
 ## Level 5 Katas
 | Katas | Subject | CW Link
 | --- | --- | ---|
@@ -24,6 +29,9 @@ This is a place where i put my CodeWars solutions.
 | [Find The Parity Outlier](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the_parity_outlier)| `Algorithms`|[Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/)
 | [Create Phone Number](https://github.com/innewiadro/Codewars/tree/master/kata_level6/create_phone_number)| `Arrays` `Strings` `Regular Expressions` `Algorithms`|[Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/)
 | [Who likes it?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/who_like_it)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/)
+| [Bit Counting](https://github.com/innewiadro/Codewars/tree/master/kata_level6/bit_counting)| `Algorithms` `Bits`|[Link](https://www.codewars.com/kata/526571aae218b8ee490006f4/)
+| [Your order, please](https://github.com/innewiadro/Codewars/tree/master/kata_level6/your_order_please)| `Strings` `Lists` `Dynamic Programming` `Fundamentals`|[Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+
 
 
 
@@ -63,4 +71,5 @@ This is a place where i put my CodeWars solutions.
 | [Reversed sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reversed_sequence)|  `Fundamentals`|[Link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
 | [Total amount of points](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Total_amount_of_points)| `Strings` `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/)
 | [Powers of 2](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Powers_of_2)| `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
+| [Cat years, Dog years](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Cat_years_Dog_years)| `Fundamentals`|[Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
 
