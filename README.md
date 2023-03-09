@@ -21,6 +21,10 @@ This is a place where i put my CodeWars solutions.
 | [Unique In Order](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Unique_In_Order)| `Fundamentals`|[Link](https://www.codewars.com/kata/54e6533c92449cc251001667)
 | [The Supermarket Queue](https://github.com/innewiadro/Codewars/tree/master/kata_level6/The_supermarket_Queue)|`Arrays` `Fundamentals`|[Link](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/)
 | [Stop gninnipS My sdroW!](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Stop_gninnipS_My_sdroW)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/5264d2b162488dc400000001/)
+| [Find The Parity Outlier](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the_parity_outlier)| `Algorithms`|[Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/)
+| [Create Phone Number](https://github.com/innewiadro/Codewars/tree/master/kata_level6/create_phone_number)| `Arrays` `Strings` `Regular Expressions` `Algorithms`|[Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/)
+| [Who likes it?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/who_like_it)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/)
+
 
 
 ## Level 7 Katas
