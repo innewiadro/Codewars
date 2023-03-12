@@ -33,6 +33,8 @@ This is a place where i put my CodeWars solutions.
 | [Your order, please](https://github.com/innewiadro/Codewars/tree/master/kata_level6/your_order_please)| `Strings` `Lists` `Dynamic Programming` `Fundamentals`|[Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 | [Bulid Tower](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Bulid_Tower)| `Strings` `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/)
 | [Detect Pangram](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Decect_pangram)| `Strings` `Data Structures` `Fundamentals` |[Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+| [Does my number look big in this?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Does_my_number_look_big_in_this)| `Algorithms` |[Link](https://www.codewars.com/kata/5287e858c6b5a9678200083c/)
+
 
 
 
@@ -57,6 +59,7 @@ This is a place where i put my CodeWars solutions.
 | [List Filtering](https://github.com/innewiadro/Codewars/tree/master/kata_level7/List_Filtering)| `Strings` `Fundamentals` `lists`|[Link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 | [You're a square!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Youre_a%20_square)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 | [Alphabet war](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabet_war)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/59377c53e66267c8f6000027)
+ [Mumbling](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Mumbling)| `Fundamentals` `Strings` `Puzzles` |[Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/)
 
 
 ## Level 8 Katas
@@ -74,4 +77,5 @@ This is a place where i put my CodeWars solutions.
 | [Total amount of points](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Total_amount_of_points)| `Strings` `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/)
 | [Powers of 2](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Powers_of_2)| `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
 | [Cat years, Dog years](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Cat_years_Dog_years)| `Fundamentals`|[Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
+ [How good are you really](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_good_are_you_really)| `Fundamentals` |[Link](https://www.codewars.com/kata/5601409514fc93442500010b/)
 
