@@ -31,6 +31,8 @@ This is a place where i put my CodeWars solutions.
 | [Who likes it?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/who_like_it)| `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/)
 | [Bit Counting](https://github.com/innewiadro/Codewars/tree/master/kata_level6/bit_counting)| `Algorithms` `Bits`|[Link](https://www.codewars.com/kata/526571aae218b8ee490006f4/)
 | [Your order, please](https://github.com/innewiadro/Codewars/tree/master/kata_level6/your_order_please)| `Strings` `Lists` `Dynamic Programming` `Fundamentals`|[Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+| [Bulid Tower](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Bulid_Tower)| `Strings` `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/)
+| [Detect Pangram](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Decect_pangram)| `Strings` `Data Structures` `Fundamentals` |[Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 
 
 
