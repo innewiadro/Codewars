@@ -13,6 +13,7 @@ This is a place where i put my CodeWars solutions.
 | [Moving Zeros To The End](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Moving_Zeros_To_The_End)| `Arrays` `Sorting` `Algorithms`|[Link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/)
 | [Simple Pig Latin](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Simple_Pig_Latin)| `Regular Expressions` `Algorithms`|[Link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 | [Maximum subarray sum](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Maximum_subarray_sum)| `Algorithms` `Lists` `Dynamic Programming` `Fundamentals`|[Link](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/)
+| [Valid Parentheses](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Valid_Parentheses)| `Algorithms`|[Link](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -34,6 +35,7 @@ This is a place where i put my CodeWars solutions.
 | [Bulid Tower](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Bulid_Tower)| `Strings` `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/)
 | [Detect Pangram](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Decect_pangram)| `Strings` `Data Structures` `Fundamentals` |[Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 | [Does my number look big in this?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Does_my_number_look_big_in_this)| `Algorithms` |[Link](https://www.codewars.com/kata/5287e858c6b5a9678200083c/)
+| [Duplicate Encoder]()| `Strings` `Arrays` `Fundamental`|[Link](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 
 
 
@@ -60,6 +62,7 @@ This is a place where i put my CodeWars solutions.
 | [You're a square!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Youre_a%20_square)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 | [Alphabet war](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabet_war)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/59377c53e66267c8f6000027)
  [Mumbling](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Mumbling)| `Fundamentals` `Strings` `Puzzles` |[Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/)
+ | [Find the divisors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find%20_the_divisors)| `Mathematics` `Algorithms`|[Link](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
 
 
 ## Level 8 Katas
