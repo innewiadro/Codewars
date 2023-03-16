@@ -37,6 +37,8 @@ This is a place where i put my CodeWars solutions.
 | [Does my number look big in this?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Does_my_number_look_big_in_this)| `Algorithms` |[Link](https://www.codewars.com/kata/5287e858c6b5a9678200083c/)
 | [Duplicate Encoder](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Duplicate_encoder)| `Strings` `Arrays` `Fundamental`|[Link](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 | [Convert string to camel case](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Convert_string_to_camel_case)| `Regular Expressions` `Algorithms` `Strings`|[Link](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
+| [Array.diff](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Array.diff)| `Arrays` `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009/)
+
 
 
 
