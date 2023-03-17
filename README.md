@@ -5,6 +5,7 @@ This is a place where i put my CodeWars solutions.
 | Katas | Subject | CW Link
 | --- | --- | ---|
 | [Snail](https://github.com/innewiadro/Codewars/tree/master/kata_level4/snail)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
+| [Human readable duration format](https://github.com/innewiadro/Codewars/tree/master/kata_level4/Human_readable_duration_format)| `Strings` `Date Time` `Algorithms` |[Link](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python)
 
 ## Level 5 Katas
 | Katas | Subject | CW Link
@@ -38,6 +39,7 @@ This is a place where i put my CodeWars solutions.
 | [Duplicate Encoder](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Duplicate_encoder)| `Strings` `Arrays` `Fundamental`|[Link](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 | [Convert string to camel case](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Convert_string_to_camel_case)| `Regular Expressions` `Algorithms` `Strings`|[Link](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
 | [Array.diff](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Array.diff)| `Arrays` `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009/)
+| [Split Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Split_strings)| `Regular Expressions` `Strings` `Algorithms`|[Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 
 
 
@@ -66,6 +68,7 @@ This is a place where i put my CodeWars solutions.
 | [Alphabet war](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabet_war)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/59377c53e66267c8f6000027)
  [Mumbling](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Mumbling)| `Fundamentals` `Strings` `Puzzles` |[Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/)
  | [Find the divisors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find%20_the_divisors)| `Mathematics` `Algorithms`|[Link](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
+ | [Two to One](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_to_One)| `Fundamentals`|[Link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 
 
 ## Level 8 Katas
