@@ -15,6 +15,8 @@ This is a place where i put my CodeWars solutions.
 | [Simple Pig Latin](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Simple_Pig_Latin)| `Regular Expressions` `Algorithms`|[Link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 | [Maximum subarray sum](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Maximum_subarray_sum)| `Algorithms` `Lists` `Dynamic Programming` `Fundamentals`|[Link](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/)
 | [Valid Parentheses](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Valid_Parentheses)| `Algorithms`|[Link](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+| [Rot13](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Rot13)| `Ciphers` `Fundamentals` |[Link](https://www.codewars.com/kata/530e15517bc88ac656000716)
+| [Calculating with Functions](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Calculating_with_Functions)| `Functional Programming` |[Link](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -69,7 +71,7 @@ This is a place where i put my CodeWars solutions.
  [Mumbling](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Mumbling)| `Fundamentals` `Strings` `Puzzles` |[Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/)
  | [Find the divisors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find%20_the_divisors)| `Mathematics` `Algorithms`|[Link](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
  | [Two to One](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_to_One)| `Fundamentals`|[Link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
-
+| [Isograms](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Isograms)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
