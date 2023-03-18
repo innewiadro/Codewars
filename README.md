@@ -42,6 +42,7 @@ This is a place where i put my CodeWars solutions.
 | [Convert string to camel case](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Convert_string_to_camel_case)| `Regular Expressions` `Algorithms` `Strings`|[Link](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
 | [Array.diff](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Array.diff)| `Arrays` `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009/)
 | [Split Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Split_strings)| `Regular Expressions` `Strings` `Algorithms`|[Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+| [Sum of Digits / Digital Root](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sum_of_Digits_Digital_Root)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/541c8630095125aba6000c00)
 
 
 
@@ -72,6 +73,7 @@ This is a place where i put my CodeWars solutions.
  | [Find the divisors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find%20_the_divisors)| `Mathematics` `Algorithms`|[Link](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
  | [Two to One](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_to_One)| `Fundamentals`|[Link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 | [Isograms](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Isograms)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+| [Shortest Word](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shortest_word)| `Fundamentals` |[Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
