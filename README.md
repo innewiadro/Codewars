@@ -17,6 +17,7 @@ This is a place where i put my CodeWars solutions.
 | [Valid Parentheses](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Valid_Parentheses)| `Algorithms`|[Link](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 | [Rot13](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Rot13)| `Ciphers` `Fundamentals` |[Link](https://www.codewars.com/kata/530e15517bc88ac656000716)
 | [Calculating with Functions](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Calculating_with_Functions)| `Functional Programming` |[Link](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
+| [Human Readable Time](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Human_Readable_Time)| `Date Time` `Mathematics``Algorithms` |[Link](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -74,6 +75,7 @@ This is a place where i put my CodeWars solutions.
  | [Two to One](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_to_One)| `Fundamentals`|[Link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 | [Isograms](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Isograms)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 | [Shortest Word](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shortest_word)| `Fundamentals` |[Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+| [Jaden Casing Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jaden_casing_strings)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
