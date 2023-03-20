@@ -18,6 +18,7 @@ This is a place where i put my CodeWars solutions.
 | [Rot13](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Rot13)| `Ciphers` `Fundamentals` |[Link](https://www.codewars.com/kata/530e15517bc88ac656000716)
 | [Calculating with Functions](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Calculating_with_Functions)| `Functional Programming` |[Link](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 | [Human Readable Time](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Human_Readable_Time)| `Date Time` `Mathematics``Algorithms` |[Link](https://www.codewars.com/kata/52685f7382004e774f0001f7)
+| [Pete, the baker](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Pate_the_baker)| `Algorithms` `Dict` |[Link](https://www.codewars.com/kata/525c65e51bf619685c000059)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -44,6 +45,7 @@ This is a place where i put my CodeWars solutions.
 | [Array.diff](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Array.diff)| `Arrays` `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009/)
 | [Split Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Split_strings)| `Regular Expressions` `Strings` `Algorithms`|[Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 | [Sum of Digits / Digital Root](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sum_of_Digits_Digital_Root)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/541c8630095125aba6000c00)
+| [Sort the odd](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sort_the_odd)| `Fundamentals` `Arrays` `Sorting` |[Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/)
 
 
 
@@ -93,4 +95,5 @@ This is a place where i put my CodeWars solutions.
 | [Powers of 2](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Powers_of_2)| `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
 | [Cat years, Dog years](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Cat_years_Dog_years)| `Fundamentals`|[Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
  [How good are you really](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_good_are_you_really)| `Fundamentals` |[Link](https://www.codewars.com/kata/5601409514fc93442500010b/)
+ | [Simple multiplication](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_multiplication)| `Fundamentals` |[Link](https://www.codewars.com/kata/583710ccaa6717322c000105)
 
