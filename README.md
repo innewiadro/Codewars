@@ -46,6 +46,8 @@ This is a place where i put my CodeWars solutions.
 | [Split Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Split_strings)| `Regular Expressions` `Strings` `Algorithms`|[Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 | [Sum of Digits / Digital Root](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sum_of_Digits_Digital_Root)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/541c8630095125aba6000c00)
 | [Sort the odd](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sort_the_odd)| `Fundamentals` `Arrays` `Sorting` |[Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/)
+| [Find the missing letter](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the%20missing_letter)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+| [Decode the Morse code](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Decode_the_Morse_code)| `Algorithms` |[Link](https://www.codewars.com/kata/54b724efac3d5402db00065e/)
 
 
 
@@ -78,6 +80,8 @@ This is a place where i put my CodeWars solutions.
 | [Isograms](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Isograms)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 | [Shortest Word](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shortest_word)| `Fundamentals` |[Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 | [Jaden Casing Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jaden_casing_strings)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+| [Credit Card Mask](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_mask)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5412509bd436bd33920011bc/)
+
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
