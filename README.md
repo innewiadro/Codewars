@@ -20,6 +20,7 @@ This is a place where i put my CodeWars solutions.
 | [Human Readable Time](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Human_Readable_Time)| `Date Time` `Mathematics``Algorithms` |[Link](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 | [Pete, the baker](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Pate_the_baker)| `Algorithms` `Dict` |[Link](https://www.codewars.com/kata/525c65e51bf619685c000059)
 | [The Hashtag Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level5/The_hashtag_generator)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52449b062fb80683ec000024)
+| [Weight for weight](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Weight_for_weight)| `Algorithms` |[Link](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -50,6 +51,7 @@ This is a place where i put my CodeWars solutions.
 | [Find the missing letter](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the%20missing_letter)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
 | [Decode the Morse code](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Decode_the_Morse_code)| `Algorithms` |[Link](https://www.codewars.com/kata/54b724efac3d5402db00065e/)
 | [Playing with digits](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Playing_with_digits)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5552101f47fc5178b1000050)
+| [Highest Scoring Word](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Highest_Scoring_Word)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 
 
 
@@ -103,4 +105,5 @@ This is a place where i put my CodeWars solutions.
 | [Cat years, Dog years](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Cat_years_Dog_years)| `Fundamentals`|[Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
  [How good are you really](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_good_are_you_really)| `Fundamentals` |[Link](https://www.codewars.com/kata/5601409514fc93442500010b/)
  | [Simple multiplication](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_multiplication)| `Fundamentals` |[Link](https://www.codewars.com/kata/583710ccaa6717322c000105)
+ | [Century From Year](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Century_from_year)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
 
