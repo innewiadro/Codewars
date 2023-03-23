@@ -19,6 +19,7 @@ This is a place where i put my CodeWars solutions.
 | [Calculating with Functions](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Calculating_with_Functions)| `Functional Programming` |[Link](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 | [Human Readable Time](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Human_Readable_Time)| `Date Time` `Mathematics``Algorithms` |[Link](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 | [Pete, the baker](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Pate_the_baker)| `Algorithms` `Dict` |[Link](https://www.codewars.com/kata/525c65e51bf619685c000059)
+| [The Hashtag Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level5/The_hashtag_generator)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52449b062fb80683ec000024)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -48,6 +49,7 @@ This is a place where i put my CodeWars solutions.
 | [Sort the odd](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sort_the_odd)| `Fundamentals` `Arrays` `Sorting` |[Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/)
 | [Find the missing letter](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the%20missing_letter)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
 | [Decode the Morse code](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Decode_the_Morse_code)| `Algorithms` |[Link](https://www.codewars.com/kata/54b724efac3d5402db00065e/)
+| [Playing with digits](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Playing_with_digits)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 
 
 
@@ -81,6 +83,7 @@ This is a place where i put my CodeWars solutions.
 | [Shortest Word](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shortest_word)| `Fundamentals` |[Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 | [Jaden Casing Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jaden_casing_strings)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 | [Credit Card Mask](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_mask)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5412509bd436bd33920011bc/)
+| [Exes and Ohs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exes_and_Ohs)| `Fundamentals` |[Link](https://www.codewars.com/kata/55908aad6620c066bc00002a/)
 
 
 ## Level 8 Katas
