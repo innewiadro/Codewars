@@ -52,6 +52,8 @@ This is a place where i put my CodeWars solutions.
 | [Decode the Morse code](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Decode_the_Morse_code)| `Algorithms` |[Link](https://www.codewars.com/kata/54b724efac3d5402db00065e/)
 | [Playing with digits](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Playing_with_digits)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 | [Highest Scoring Word](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Highest_Scoring_Word)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
+| [Find the unique number](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the_unique_number)| `Fundamentals` `Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/)
+
 
 
 
@@ -86,6 +88,8 @@ This is a place where i put my CodeWars solutions.
 | [Jaden Casing Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jaden_casing_strings)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 | [Credit Card Mask](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_mask)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5412509bd436bd33920011bc/)
 | [Exes and Ohs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exes_and_Ohs)| `Fundamentals` |[Link](https://www.codewars.com/kata/55908aad6620c066bc00002a/)
+| [Growth of a Population](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Growth_of_Population)| `Fundamentals` |[Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6/)
+
 
 
 ## Level 8 Katas
