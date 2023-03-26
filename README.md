@@ -21,6 +21,7 @@ This is a place where i put my CodeWars solutions.
 | [Pete, the baker](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Pate_the_baker)| `Algorithms` `Dict` |[Link](https://www.codewars.com/kata/525c65e51bf619685c000059)
 | [The Hashtag Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level5/The_hashtag_generator)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52449b062fb80683ec000024)
 | [Weight for weight](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Weight_for_weight)| `Algorithms` |[Link](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
+| [What's a Perfect Power anyway?](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Whats_a_Perfect_Power_anyway)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -89,6 +90,7 @@ This is a place where i put my CodeWars solutions.
 | [Credit Card Mask](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_mask)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5412509bd436bd33920011bc/)
 | [Exes and Ohs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exes_and_Ohs)| `Fundamentals` |[Link](https://www.codewars.com/kata/55908aad6620c066bc00002a/)
 | [Growth of a Population](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Growth_of_Population)| `Fundamentals` |[Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6/)
+| [Ones and Zeros](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ones_and_zeros)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/)
 
 
 
