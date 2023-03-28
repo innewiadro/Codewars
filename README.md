@@ -55,9 +55,7 @@ This is a place where i put my CodeWars solutions.
 | [Highest Scoring Word](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Highest_Scoring_Word)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 | [Find the unique number](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Find_the_unique_number)| `Fundamentals` `Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/)
 | [Is a number prime?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Is_a_number_prime)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5262119038c0985a5b00029f/)
-
-
-
+| [Which are in?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Which_are_in)| `Arrays` `Lists` `Strings` `Refactoring` |[Link](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
 
 
 
@@ -93,6 +91,8 @@ This is a place where i put my CodeWars solutions.
 | [Growth of a Population](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Growth_of_Population)| `Fundamentals` |[Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6/)
 | [Ones and Zeros](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ones_and_zeros)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/)
 | [Find the next perfect square!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_next_perfect_square)| `Algebra` `Fundamental` |[Link](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/)
+| [Friend or Foe?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Friend_or_foe)| `Fundamentals` |[Link](https://www.codewars.com/kata/55b42574ff091733d900002f)
+
 
 
 
