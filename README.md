@@ -22,6 +22,8 @@ This is a place where i put my CodeWars solutions.
 | [The Hashtag Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level5/The_hashtag_generator)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52449b062fb80683ec000024)
 | [Weight for weight](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Weight_for_weight)| `Algorithms` |[Link](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
 | [What's a Perfect Power anyway?](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Whats_a_Perfect_Power_anyway)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
+| [Directions Reduction](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Directions_reduction)| `Fundamentals` |[Link](https://www.codewars.com/kata/550f22f4d758534c1100025a/)
+
 
 ## Level 6 Katas
 | Katas | Subject | CW Link
@@ -92,6 +94,8 @@ This is a place where i put my CodeWars solutions.
 | [Ones and Zeros](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ones_and_zeros)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/)
 | [Find the next perfect square!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_next_perfect_square)| `Algebra` `Fundamental` |[Link](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/)
 | [Friend or Foe?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Friend_or_foe)| `Fundamentals` |[Link](https://www.codewars.com/kata/55b42574ff091733d900002f)
+| [Testing 1-2-3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Testing_1-2-3)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/)
+
 
 
 
