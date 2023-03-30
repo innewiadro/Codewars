@@ -23,6 +23,7 @@ This is a place where i put my CodeWars solutions.
 | [Weight for weight](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Weight_for_weight)| `Algorithms` |[Link](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
 | [What's a Perfect Power anyway?](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Whats_a_Perfect_Power_anyway)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
 | [Directions Reduction](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Directions_reduction)| `Fundamentals` |[Link](https://www.codewars.com/kata/550f22f4d758534c1100025a/)
+| [Build a pile of Cubes](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Build_a_pile_of_Cubes)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/)
 
 
 ## Level 6 Katas
@@ -118,4 +119,6 @@ This is a place where i put my CodeWars solutions.
  [How good are you really](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_good_are_you_really)| `Fundamentals` |[Link](https://www.codewars.com/kata/5601409514fc93442500010b/)
  | [Simple multiplication](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_multiplication)| `Fundamentals` |[Link](https://www.codewars.com/kata/583710ccaa6717322c000105)
  | [Century From Year](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Century_from_year)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
+ | [Welcome!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome)| 'Fundamentals' |[Link](https://www.codewars.com/kata/577ff15ad648a14b780000e7/)
+
 
