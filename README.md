@@ -60,6 +60,8 @@ This is a place where i put my CodeWars solutions.
 | [Is a number prime?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Is_a_number_prime)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5262119038c0985a5b00029f/)
 | [Which are in?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Which_are_in)| `Arrays` `Lists` `Strings` `Refactoring` |[Link](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
 | [Count characters in your string](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Count_characters_in_your_string)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/52efefcbcdf57161d4000091/)
+| [If you can read this...](https://github.com/innewiadro/Codewars/tree/master/kata_level6/If_you_can_read_this)| `Fundamentals` |[Link](https://www.codewars.com/kata/586538146b56991861000293/)
+
 
 
 
@@ -123,6 +125,7 @@ This is a place where i put my CodeWars solutions.
  [How good are you really](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_good_are_you_really)| `Fundamentals` |[Link](https://www.codewars.com/kata/5601409514fc93442500010b/)
  | [Simple multiplication](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_multiplication)| `Fundamentals` |[Link](https://www.codewars.com/kata/583710ccaa6717322c000105)
  | [Century From Year](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Century_from_year)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
- | [Welcome!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome)| 'Fundamentals' |[Link](https://www.codewars.com/kata/577ff15ad648a14b780000e7/)
+ | [Welcome!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome)| `Fundamentals` |[Link](https://www.codewars.com/kata/577ff15ad648a14b780000e7/)
+| [Calculate average](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Calculate_average)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/)
 
 
