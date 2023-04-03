@@ -132,7 +132,8 @@ This is a place where i put my CodeWars solutions.
  | [Welcome!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome)| `Fundamentals` |[Link](https://www.codewars.com/kata/577ff15ad648a14b780000e7/)
 | [Calculate average](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Calculate_average)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/)
 | [Count by X](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_by_X)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)
-| [Beginner Series #2 Clock](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Student_Final_Grade)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/)
+| [Student's Final Grade](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Student_Final_Grade)| `Fundamentals` |[Link](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/)
+
 
 
 
