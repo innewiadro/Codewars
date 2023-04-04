@@ -62,6 +62,8 @@ This is a place where i put my CodeWars solutions.
 | [Count characters in your string](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Count_characters_in_your_string)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/52efefcbcdf57161d4000091/)
 | [If you can read this...](https://github.com/innewiadro/Codewars/tree/master/kata_level6/If_you_can_read_this)| `Fundamentals` |[Link](https://www.codewars.com/kata/586538146b56991861000293/)
 | [Are they the "same"?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Are_they_the_same)| `Fundamentals` |[Link](https://www.codewars.com/kata/550498447451fbbd7600041c/)
+| [Write Number in Expanded Form](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Write_Number_in_Expanded_Form)| `Strings` `Mathematics` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245/)
+
 
 
 
@@ -130,6 +132,9 @@ This is a place where i put my CodeWars solutions.
  | [Welcome!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome)| `Fundamentals` |[Link](https://www.codewars.com/kata/577ff15ad648a14b780000e7/)
 | [Calculate average](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Calculate_average)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/)
 | [Count by X](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_by_X)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)
+| [Student's Final Grade](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Student_Final_Grade)| `Fundamentals` |[Link](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/)
+
+
 
 
 
