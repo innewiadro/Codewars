@@ -64,6 +64,8 @@ This is a place where i put my CodeWars solutions.
 | [Are they the "same"?](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Are_they_the_same)| `Fundamentals` |[Link](https://www.codewars.com/kata/550498447451fbbd7600041c/)
 | [Write Number in Expanded Form](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Write_Number_in_Expanded_Form)| `Strings` `Mathematics` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245/)
 | [Mexican Wave](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Mexican_wave)| `Arrays` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/)
+| [Two Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Two_sum)| `Arrays` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/52c31f8e6605bcc646000082/)
+
 
 
 
@@ -131,9 +133,5 @@ This is a place where i put my CodeWars solutions.
 | [Count by X](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_by_X)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)
 | [Student's Final Grade](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Student_Final_Grade)| `Fundamentals` |[Link](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/)
 | [Beginner Series #2 Clock](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_series_2%20_clock)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/)
-
-
-
-
-
+| [Counting sheep...]https://github.com/innewiadro/Codewars/tree/master/kata_level8/Counting_sheep| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54edbc7200b811e956000556)
 
