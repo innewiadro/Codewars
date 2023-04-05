@@ -133,5 +133,5 @@ This is a place where i put my CodeWars solutions.
 | [Count by X](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_by_X)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)
 | [Student's Final Grade](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Student_Final_Grade)| `Fundamentals` |[Link](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/)
 | [Beginner Series #2 Clock](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_series_2%20_clock)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/)
-| [Counting sheep...]https://github.com/innewiadro/Codewars/tree/master/kata_level8/Counting_sheep| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54edbc7200b811e956000556)
+| [Counting sheep...](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Counting_sheep)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54edbc7200b811e956000556)
 
