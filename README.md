@@ -24,6 +24,8 @@ This is a place where i put my CodeWars solutions.
 | [What's a Perfect Power anyway?](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Whats_a_Perfect_Power_anyway)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
 | [Directions Reduction](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Directions_reduction)| `Fundamentals` |[Link](https://www.codewars.com/kata/550f22f4d758534c1100025a/)
 | [Build a pile of Cubes](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Build_a_pile_of_Cubes)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/)
+| [Last digit of a large number](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Last_digit_of_a_large_number)| `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/5511b2f550906349a70004e1/)
+
 
 
 ## Level 6 Katas
@@ -134,4 +136,6 @@ This is a place where i put my CodeWars solutions.
 | [Student's Final Grade](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Student_Final_Grade)| `Fundamentals` |[Link](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/)
 | [Beginner Series #2 Clock](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_series_2%20_clock)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/)
 | [Counting sheep...](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Counting_sheep)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54edbc7200b811e956000556)
+| [What is between?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/What_is_between)| `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/55ecd718f46fba02e5000029/)
+
 
