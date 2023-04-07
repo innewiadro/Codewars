@@ -106,6 +106,8 @@ This is a place where i put my CodeWars solutions.
 | [Friend or Foe?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Friend_or_foe)| `Fundamentals` |[Link](https://www.codewars.com/kata/55b42574ff091733d900002f)
 | [Testing 1-2-3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Testing_1-2-3)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/)
 | [Count the divisors of a number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_divisors_of_a_number)| `Number Theory` `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/542c0f198e077084c0000c2e/)
+| [Heron's formula](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Herons_formula)| `Fundamentals` |[Link](https://www.codewars.com/kata/57aa218e72292d98d500240f/)
+
 
 
 
@@ -137,5 +139,7 @@ This is a place where i put my CodeWars solutions.
 | [Beginner Series #2 Clock](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_series_2%20_clock)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/)
 | [Counting sheep...](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Counting_sheep)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54edbc7200b811e956000556)
 | [What is between?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/What_is_between)| `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/55ecd718f46fba02e5000029/)
+| [A Needle in the Haystack](https://github.com/innewiadro/Codewars/tree/master/kata_level8/A_needle_in_the_Haystack)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/)
+
 
 
