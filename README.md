@@ -107,10 +107,8 @@ This is a place where i put my CodeWars solutions.
 | [Testing 1-2-3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Testing_1-2-3)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/)
 | [Count the divisors of a number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_divisors_of_a_number)| `Number Theory` `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/542c0f198e077084c0000c2e/)
 | [Heron's formula](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Herons_formula)| `Fundamentals` |[Link](https://www.codewars.com/kata/57aa218e72292d98d500240f/)
-
-
-
-
+| [Round up to the next multiple of 5](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Round_up_to_the_next_multiple_of-5)| `Fundamentals` |[Link](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
+| [Decreasing Inputs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Decreasing_inputs)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/555de49a04b7d1c13c00000e/)
 
 
 
