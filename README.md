@@ -109,6 +109,8 @@ This is a place where i put my CodeWars solutions.
 | [Heron's formula](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Herons_formula)| `Fundamentals` |[Link](https://www.codewars.com/kata/57aa218e72292d98d500240f/)
 | [Round up to the next multiple of 5](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Round_up_to_the_next_multiple_of-5)| `Fundamentals` |[Link](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 | [Decreasing Inputs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Decreasing_inputs)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/555de49a04b7d1c13c00000e/)
+|[Don't give me five!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dont_give_me_five)| `Mathematics` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5813d19765d81c592200001a/)
+
 
 
 
@@ -138,6 +140,8 @@ This is a place where i put my CodeWars solutions.
 | [Counting sheep...](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Counting_sheep)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54edbc7200b811e956000556)
 | [What is between?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/What_is_between)| `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/55ecd718f46fba02e5000029/)
 | [A Needle in the Haystack](https://github.com/innewiadro/Codewars/tree/master/kata_level8/A_needle_in_the_Haystack)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/)
+|[Find Maximum and Minimum Values of a List](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_Maximum_and_Minimum_Values_of_a_List)| `Fundamentals` |[Link](https://www.codewars.com/kata/577a98a6ae28071780000989/)
+
 
 
 
