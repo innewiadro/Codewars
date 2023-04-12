@@ -25,6 +25,7 @@ This is a place where i put my CodeWars solutions.
 | [Directions Reduction](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Directions_reduction)| `Fundamentals` |[Link](https://www.codewars.com/kata/550f22f4d758534c1100025a/)
 | [Build a pile of Cubes](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Build_a_pile_of_Cubes)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/)
 | [Last digit of a large number](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Last_digit_of_a_large_number)| `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/5511b2f550906349a70004e1/)
+| [Extract the domain name from a URL](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Extract_the_domain_name_from_a_URL)| `Parsing` `Regular Expressions` |[Link](https://www.codewars.com/kata/514a024011ea4fb54200004b/)
 
 
 
@@ -110,6 +111,8 @@ This is a place where i put my CodeWars solutions.
 | [Round up to the next multiple of 5](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Round_up_to_the_next_multiple_of-5)| `Fundamentals` |[Link](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 | [Decreasing Inputs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Decreasing_inputs)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/555de49a04b7d1c13c00000e/)
 |[Don't give me five!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dont_give_me_five)| `Mathematics` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5813d19765d81c592200001a/)
+| [Anagram Detection](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Anagram_Detection)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/529eef7a9194e0cbc1000255/)
+
 
 
 
