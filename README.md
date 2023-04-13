@@ -68,6 +68,8 @@ This is a place where i put my CodeWars solutions.
 | [Write Number in Expanded Form](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Write_Number_in_Expanded_Form)| `Strings` `Mathematics` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245/)
 | [Mexican Wave](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Mexican_wave)| `Arrays` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/)
 | [Two Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Two_sum)| `Arrays` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/52c31f8e6605bcc646000082/)
+|[Backspaces in string](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Backspaces_in_string)| `Fundamentals` `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/)
+
 
 
 
@@ -144,6 +146,8 @@ This is a place where i put my CodeWars solutions.
 | [What is between?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/What_is_between)| `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/55ecd718f46fba02e5000029/)
 | [A Needle in the Haystack](https://github.com/innewiadro/Codewars/tree/master/kata_level8/A_needle_in_the_Haystack)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/)
 |[Find Maximum and Minimum Values of a List](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_Maximum_and_Minimum_Values_of_a_List)| `Fundamentals` |[Link](https://www.codewars.com/kata/577a98a6ae28071780000989/)
+| [Grasshopper - Grade book](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_Grade_book)| `Fundamentals` |[Link](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
+
 
 
 
