@@ -115,6 +115,8 @@ This is a place where i put my CodeWars solutions.
 |[Don't give me five!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dont_give_me_five)| `Mathematics` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5813d19765d81c592200001a/)
 | [Anagram Detection](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Anagram_Detection)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/529eef7a9194e0cbc1000255/)
 |[Remove the minimum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_the_minimum)| `Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/)
+|[Printer Errors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Printer_errors)| `Fundamentals` |[Link](https://www.codewars.com/kata/56541980fa08ab47a0000040)
+
 
 
 
