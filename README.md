@@ -116,6 +116,7 @@ This is a place where i put my CodeWars solutions.
 | [Anagram Detection](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Anagram_Detection)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/529eef7a9194e0cbc1000255/)
 |[Remove the minimum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_the_minimum)| `Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/)
 |[Printer Errors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Printer_errors)| `Fundamentals` |[Link](https://www.codewars.com/kata/56541980fa08ab47a0000040)
+|[Make a function that does arithmetic!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Make_a_function_that_does_arithmetic!)| `Fundamentals` |[Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)|
 
 
 
@@ -151,6 +152,8 @@ This is a place where i put my CodeWars solutions.
 | [A Needle in the Haystack](https://github.com/innewiadro/Codewars/tree/master/kata_level8/A_needle_in_the_Haystack)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/)
 |[Find Maximum and Minimum Values of a List](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_Maximum_and_Minimum_Values_of_a_List)| `Fundamentals` |[Link](https://www.codewars.com/kata/577a98a6ae28071780000989/)
 | [Grasshopper - Grade book](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_Grade_book)| `Fundamentals` |[Link](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
+| [Double Char](https://github.com/innewiadro/Codewars/tree/master/kata_level8/%20Double_Char)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56b1f01c247c01db92000076)
+
 
 
 
