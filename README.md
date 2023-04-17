@@ -69,6 +69,8 @@ This is a place where i put my CodeWars solutions.
 | [Mexican Wave](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Mexican_wave)| `Arrays` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/)
 | [Two Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Two_sum)| `Arrays` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/52c31f8e6605bcc646000082/)
 |[Backspaces in string](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Backspaces_in_string)| `Fundamentals` `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/)
+|[String transformer](https://github.com/innewiadro/Codewars/tree/master/kata_level6/String_transformer)| `Fundamentals` |[Link](https://www.codewars.com/kata/5878520d52628a092f0002d0/)
+
 
 
 
@@ -153,6 +155,8 @@ This is a place where i put my CodeWars solutions.
 |[Find Maximum and Minimum Values of a List](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_Maximum_and_Minimum_Values_of_a_List)| `Fundamentals` |[Link](https://www.codewars.com/kata/577a98a6ae28071780000989/)
 | [Grasshopper - Grade book](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_Grade_book)| `Fundamentals` |[Link](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
 | [Double Char](https://github.com/innewiadro/Codewars/tree/master/kata_level8/%20Double_Char)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56b1f01c247c01db92000076)
+|[Sum without highest and lowest number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_without_highest_and_lowest_number)| `Fundamentals` |[Link](https://www.codewars.com/kata/576b93db1129fcf2200001e6/)
+
 
 
 
