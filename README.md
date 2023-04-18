@@ -26,6 +26,8 @@ This is a place where i put my CodeWars solutions.
 | [Build a pile of Cubes](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Build_a_pile_of_Cubes)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/)
 | [Last digit of a large number](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Last_digit_of_a_large_number)| `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/5511b2f550906349a70004e1/)
 | [Extract the domain name from a URL](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Extract_the_domain_name_from_a_URL)| `Parsing` `Regular Expressions` |[Link](https://www.codewars.com/kata/514a024011ea4fb54200004b/)
+|[Beeramid](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Beeramid)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/)
+
 
 
 
@@ -119,6 +121,7 @@ This is a place where i put my CodeWars solutions.
 |[Remove the minimum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_the_minimum)| `Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/)
 |[Printer Errors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Printer_errors)| `Fundamentals` |[Link](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 |[Make a function that does arithmetic!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Make_a_function_that_does_arithmetic!)| `Fundamentals` |[Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)|
+|[Speed Limit](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Speed_limit)| `Arrays` |[Link](https://www.codewars.com/kata/635a7827bafe03708e3e1db6/)
 
 
 
