@@ -124,6 +124,7 @@ This is a place where i put my CodeWars solutions.
 |[Printer Errors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Printer_errors)| `Fundamentals` |[Link](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 |[Make a function that does arithmetic!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Make_a_function_that_does_arithmetic!)| `Fundamentals` |[Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)|
 |[Speed Limit](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Speed_limit)| `Arrays` |[Link](https://www.codewars.com/kata/635a7827bafe03708e3e1db6/)
+|[Factorial](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Factorial)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/)
 
 
 
@@ -162,6 +163,8 @@ This is a place where i put my CodeWars solutions.
 | [Double Char](https://github.com/innewiadro/Codewars/tree/master/kata_level8/%20Double_Char)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56b1f01c247c01db92000076)
 |[Sum without highest and lowest number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_without_highest_and_lowest_number)| `Fundamentals` |[Link](https://www.codewars.com/kata/576b93db1129fcf2200001e6/)
 |[Return Negative](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_negative)| `Fundamentals` |[Link](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/)
+|[Remove an exclamation mark from the end of string](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_an_exclamation_mark_from_the_end_of_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57fae964d80daa229d000126)
+
 
 
 
