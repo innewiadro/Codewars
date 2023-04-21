@@ -73,6 +73,8 @@ This is a place where i put my CodeWars solutions.
 |[Backspaces in string](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Backspaces_in_string)| `Fundamentals` `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/)
 |[String transformer](https://github.com/innewiadro/Codewars/tree/master/kata_level6/String_transformer)| `Fundamentals` |[Link](https://www.codewars.com/kata/5878520d52628a092f0002d0/)
 |[Length of missing array](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Length_of_missing_array)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/)
+|[Reverse every other word in the string](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Reverse_every_other_word_in_the_string)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/58d76854024c72c3e20000de/)
+
 
 
 
@@ -125,6 +127,7 @@ This is a place where i put my CodeWars solutions.
 |[Make a function that does arithmetic!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Make_a_function_that_does_arithmetic!)| `Fundamentals` |[Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)|
 |[Speed Limit](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Speed_limit)| `Arrays` |[Link](https://www.codewars.com/kata/635a7827bafe03708e3e1db6/)
 |[Factorial](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Factorial)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/)
+|[Check the exam](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_the_exam)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 
 
 
