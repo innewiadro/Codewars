@@ -130,6 +130,8 @@ This is a place where i put my CodeWars solutions.
 |[Factorial](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Factorial)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/)
 |[Check the exam](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_the_exam)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 |[Between Extremes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Between_extremes)| `Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56d19b2ac05aed1a20000430/train/)
+|[Largest Elements](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_Elements)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256/)
+
 
 
 
@@ -170,6 +172,7 @@ This is a place where i put my CodeWars solutions.
 |[Sum without highest and lowest number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_without_highest_and_lowest_number)| `Fundamentals` |[Link](https://www.codewars.com/kata/576b93db1129fcf2200001e6/)
 |[Return Negative](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_negative)| `Fundamentals` |[Link](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/)
 |[Remove an exclamation mark from the end of string](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_an_exclamation_mark_from_the_end_of_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57fae964d80daa229d000126)
+|[Unfinished Loop - Bug Fixing #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Unfinished_Loop_bug_fixing)| `Debugging` |[Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da/)
 
 
 
