@@ -75,6 +75,8 @@ This is a place where i put my CodeWars solutions.
 |[Length of missing array](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Length_of_missing_array)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/)
 |[Reverse every other word in the string](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Reverse_every_other_word_in_the_string)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/58d76854024c72c3e20000de/)
 |[Grouped by commas](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Grouped_by_commas)| `Algorithms` |[Link](https://www.codewars.com/kata/5274e122fc75c0943d000148/)
+|[Pyramid Array](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pyramid_Array)| `Algorithms` |[Link](https://www.codewars.com/kata/515f51d438015969f7000013/)
+
 
 
 
@@ -173,6 +175,8 @@ This is a place where i put my CodeWars solutions.
 |[Return Negative](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_negative)| `Fundamentals` |[Link](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/)
 |[Remove an exclamation mark from the end of string](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_an_exclamation_mark_from_the_end_of_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57fae964d80daa229d000126)
 |[Unfinished Loop - Bug Fixing #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Unfinished_Loop_bug_fixing)| `Debugging` |[Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da/)
+| [Rock Paper Scissors!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Rock_paper_scissors)| `Fundamentals` |[Link](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)
+
 
 
 
