@@ -76,6 +76,8 @@ This is a place where i put my CodeWars solutions.
 |[Reverse every other word in the string](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Reverse_every_other_word_in_the_string)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/58d76854024c72c3e20000de/)
 |[Grouped by commas](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Grouped_by_commas)| `Algorithms` |[Link](https://www.codewars.com/kata/5274e122fc75c0943d000148/)
 |[Pyramid Array](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pyramid_Array)| `Algorithms` |[Link](https://www.codewars.com/kata/515f51d438015969f7000013/)
+|[Meeting](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Meeting)| `Fundamentals` |[Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012)
+
 
 
 
@@ -133,6 +135,8 @@ This is a place where i put my CodeWars solutions.
 |[Check the exam](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_the_exam)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 |[Between Extremes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Between_extremes)| `Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56d19b2ac05aed1a20000430/train/)
 |[Largest Elements](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_Elements)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256/)
+|[Form The Minimum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Form_The_Minimum)| `Fundamentals` |[Link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/)
+
 
 
 
