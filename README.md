@@ -137,6 +137,10 @@ This is a place where i put my CodeWars solutions.
 |[Between Extremes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Between_extremes)| `Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56d19b2ac05aed1a20000430/train/)
 |[Largest Elements](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_Elements)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256/)
 |[Form The Minimum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Form_The_Minimum)| `Fundamentals` |[Link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/)
+| [Build a square](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Build_a_square)| `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)
+| [draw me a chessboard](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Draw_me_a_chessboard)| `Puzzles` `Fundamentals` `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/56242b89689c35449b000059)
+
+
 
 
 
