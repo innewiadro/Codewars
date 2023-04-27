@@ -77,6 +77,7 @@ This is a place where i put my CodeWars solutions.
 |[Grouped by commas](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Grouped_by_commas)| `Algorithms` |[Link](https://www.codewars.com/kata/5274e122fc75c0943d000148/)
 |[Pyramid Array](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pyramid_Array)| `Algorithms` |[Link](https://www.codewars.com/kata/515f51d438015969f7000013/)
 |[Meeting](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Meeting)| `Fundamentals` |[Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012)
+| [Give me a Diamond](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Give_me_a_Diamond)| `strings` `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 
 
 
@@ -180,6 +181,8 @@ This is a place where i put my CodeWars solutions.
 |[Remove an exclamation mark from the end of string](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_an_exclamation_mark_from_the_end_of_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57fae964d80daa229d000126)
 |[Unfinished Loop - Bug Fixing #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Unfinished_Loop_bug_fixing)| `Debugging` |[Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da/)
 | [Rock Paper Scissors!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Rock_paper_scissors)| `Fundamentals` |[Link](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)
+| [Draw stairs](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Draw_stairs)| `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
+
 
 
 
