@@ -140,6 +140,7 @@ This is a place where i put my CodeWars solutions.
 | [Build a square](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Build_a_square)| `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)
 | [draw me a chessboard](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Draw_me_a_chessboard)| `Puzzles` `Fundamentals` `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/56242b89689c35449b000059)
 | [Number-Star ladder](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/5631213916d70a0979000066)
+|[Running out of space](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Running_out_of_space)| `Fundamentals` |[Link](https://www.codewars.com/kata/56576f82ab83ee8268000059)
 
 
 
@@ -189,6 +190,8 @@ This is a place where i put my CodeWars solutions.
 | [Rock Paper Scissors!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Rock_paper_scissors)| `Fundamentals` |[Link](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)
 | [Draw stairs](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Draw_stairs)| `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
 | [Is it a palindrome?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/)
+|[Removing Elements](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Removing_Elements)| `Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/)
+
 
 
 
