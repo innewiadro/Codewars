@@ -139,6 +139,8 @@ This is a place where i put my CodeWars solutions.
 |[Form The Minimum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Form_The_Minimum)| `Fundamentals` |[Link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/)
 | [Build a square](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Build_a_square)| `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)
 | [draw me a chessboard](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Draw_me_a_chessboard)| `Puzzles` `Fundamentals` `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/56242b89689c35449b000059)
+| [Number-Star ladder](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/5631213916d70a0979000066)
+
 
 
 
@@ -186,6 +188,8 @@ This is a place where i put my CodeWars solutions.
 |[Unfinished Loop - Bug Fixing #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Unfinished_Loop_bug_fixing)| `Debugging` |[Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da/)
 | [Rock Paper Scissors!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Rock_paper_scissors)| `Fundamentals` |[Link](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)
 | [Draw stairs](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Draw_stairs)| `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
+| [Is it a palindrome?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/)
+
 
 
 
