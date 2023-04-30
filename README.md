@@ -30,7 +30,6 @@ This is a place where i put my CodeWars solutions.
 
 
 
-
 ## Level 6 Katas
 | Katas | Subject | CW Link
 | --- | --- | ---|
@@ -78,13 +77,7 @@ This is a place where i put my CodeWars solutions.
 |[Pyramid Array](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pyramid_Array)| `Algorithms` |[Link](https://www.codewars.com/kata/515f51d438015969f7000013/)
 |[Meeting](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Meeting)| `Fundamentals` |[Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012)
 | [Give me a Diamond](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Give_me_a_Diamond)| `strings` `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/5503013e34137eeeaa001648)
-
-
-
-
-
-
-
+|[Sums of Parts](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sums_of_Parts)| `Fundamentals` `Performance` `Algorithms` |[Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/)
 
 
 
@@ -147,13 +140,6 @@ This is a place where i put my CodeWars solutions.
 
 
 
-
-
-
-
-
-
-
 ## Level 8 Katas
 | Katas | Subject | CW Link
 | --- | --- | ---|
@@ -191,16 +177,4 @@ This is a place where i put my CodeWars solutions.
 | [Draw stairs](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Draw_stairs)| `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
 | [Is it a palindrome?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/)
 |[Removing Elements](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Removing_Elements)| `Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/)
-
-
-
-
-
-
-
-
-
-
-
-
-
+|[Quadrants](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Quadrants)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/)
