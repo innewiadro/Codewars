@@ -134,6 +134,8 @@ This is a place where i put my CodeWars solutions.
 | [draw me a chessboard](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Draw_me_a_chessboard)| `Puzzles` `Fundamentals` `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/56242b89689c35449b000059)
 | [Number-Star ladder](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/5631213916d70a0979000066)
 |[Running out of space](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Running_out_of_space)| `Fundamentals` |[Link](https://www.codewars.com/kata/56576f82ab83ee8268000059)
+|[Money, Money, Money](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Money_Money_Money)| `Fundamentals` |[Link](https://www.codewars.com/kata/563f037412e5ada593000114/)
+
 
 
 
@@ -178,3 +180,5 @@ This is a place where i put my CodeWars solutions.
 | [Is it a palindrome?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/)
 |[Removing Elements](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Removing_Elements)| `Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/)
 |[Quadrants](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Quadrants)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/)
+|[Check same case](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Check_same_case)| `Fundamentals` |[Link](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/)
+
