@@ -135,6 +135,10 @@ This is a place where i put my CodeWars solutions.
 | [Number-Star ladder](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/5631213916d70a0979000066)
 |[Running out of space](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Running_out_of_space)| `Fundamentals` |[Link](https://www.codewars.com/kata/56576f82ab83ee8268000059)
 |[Money, Money, Money](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Money_Money_Money)| `Fundamentals` |[Link](https://www.codewars.com/kata/563f037412e5ada593000114/)
+|[Two Oldest Ages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_Oldest_Ages)| `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/511f11d355fe575d2c000001/)
+|[Sum of a sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_a_sequence)| `Fundamentals` `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/586f6741c66d18c22800010a/)
+
+
 
 
 
