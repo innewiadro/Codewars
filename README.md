@@ -137,6 +137,8 @@ This is a place where i put my CodeWars solutions.
 |[Money, Money, Money](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Money_Money_Money)| `Fundamentals` |[Link](https://www.codewars.com/kata/563f037412e5ada593000114/)
 |[Two Oldest Ages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_Oldest_Ages)| `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/511f11d355fe575d2c000001/)
 |[Sum of a sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_a_sequence)| `Fundamentals` `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/586f6741c66d18c22800010a/)
+|[Max sum between two negatives](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Max_sum_between_two_negatives)| `Algorithms` |[Link](https://www.codewars.com/kata/6066ae080168ff0032c4107a/)
+
 
 
 
@@ -185,4 +187,6 @@ This is a place where i put my CodeWars solutions.
 |[Removing Elements](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Removing_Elements)| `Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/)
 |[Quadrants](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Quadrants)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/)
 |[Check same case](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Check_same_case)| `Fundamentals` |[Link](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/)
+|[Remove First and Last Character](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_first_and_Last_Character)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/)
+
 
