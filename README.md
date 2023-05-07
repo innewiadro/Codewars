@@ -138,6 +138,8 @@ This is a place where i put my CodeWars solutions.
 |[Two Oldest Ages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_Oldest_Ages)| `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/511f11d355fe575d2c000001/)
 |[Sum of a sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_a_sequence)| `Fundamentals` `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/586f6741c66d18c22800010a/)
 |[Max sum between two negatives](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Max_sum_between_two_negatives)| `Algorithms` |[Link](https://www.codewars.com/kata/6066ae080168ff0032c4107a/)
+|[Count the Digit](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_Digit)| `Fundamentals` |[Link](https://www.codewars.com/kata/566fc12495810954b1000030/)
+
 
 
 
@@ -188,5 +190,7 @@ This is a place where i put my CodeWars solutions.
 |[Quadrants](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Quadrants)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/)
 |[Check same case](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Check_same_case)| `Fundamentals` |[Link](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/)
 |[Remove First and Last Character](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_first_and_Last_Character)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/)
+|[Abbreviate a Two Word Name](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Abbreviate_a_Two_Word_Name)| `Fundamentals` ` Strings`|[Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+
 
 
