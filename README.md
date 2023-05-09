@@ -141,6 +141,10 @@ This is a place where i put my CodeWars solutions.
 |[Sum of a sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_a_sequence)| `Fundamentals` `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/586f6741c66d18c22800010a/)
 |[Max sum between two negatives](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Max_sum_between_two_negatives)| `Algorithms` |[Link](https://www.codewars.com/kata/6066ae080168ff0032c4107a/)
 |[Count the Digit](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_Digit)| `Fundamentals` |[Link](https://www.codewars.com/kata/566fc12495810954b1000030/)
+|[Breaking chocolate problem](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Breaking_chocolate_problem)| `Algorithms` |[Link](https://www.codewars.com/kata/534ea96ebb17181947000ada/)
+|[Find the capitals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_capitals)| `Fundamentals` |[Link](https://www.codewars.com/kata/539ee3b6757843632d00026b/)
+
+
 
 
 
