@@ -145,6 +145,8 @@ This is a place where i put my CodeWars solutions.
 |[Count the Digit](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_Digit)| `Fundamentals` |[Link](https://www.codewars.com/kata/566fc12495810954b1000030/)
 |[Breaking chocolate problem](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Breaking_chocolate_problem)| `Algorithms` |[Link](https://www.codewars.com/kata/534ea96ebb17181947000ada/)
 |[Find the capitals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_capitals)| `Fundamentals` |[Link](https://www.codewars.com/kata/539ee3b6757843632d00026b/)
+|[Sum of angles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_angles)| `Fundamentals` `Geometry` |[Link](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/)
+
 
 
 
@@ -201,6 +203,8 @@ This is a place where i put my CodeWars solutions.
 |[Abbreviate a Two Word Name](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Abbreviate_a_Two_Word_Name)| `Fundamentals` ` Strings`|[Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 |[Convert number to reversed array of digits](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_number_to_reversed_array_of_digits)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/)
 |[5 without numbers !!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/5_without_numbers)| `Restricted` `Fundamentals` `Puzzles` |[Link](https://www.codewars.com/kata/59441520102eaa25260000bf/)
+|[Jenny's secret message](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Jennys_secret_message)| `Debugging` |[Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390/)
+
 
 
 
