@@ -79,6 +79,8 @@ This is a place where i put my CodeWars solutions.
 | [Give me a Diamond](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Give_me_a_Diamond)| `strings` `ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 |[Sums of Parts](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sums_of_Parts)| `Fundamentals` `Performance` `Algorithms` |[Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/)
 |[Tortoise racing](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Tortoise_racing)| `Fundamentals` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/55e2adece53b4cdcb900006c/)
+|[Make the Deadfish Swim](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Make_the_Deadfish_Swim)| `Algorithms` `Parsing` |[Link](https://www.codewars.com/kata/51e0007c1f9378fa810002a9)
+
 
 
 
@@ -198,6 +200,8 @@ This is a place where i put my CodeWars solutions.
 |[Remove First and Last Character](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_first_and_Last_Character)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/)
 |[Abbreviate a Two Word Name](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Abbreviate_a_Two_Word_Name)| `Fundamentals` ` Strings`|[Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 |[Convert number to reversed array of digits](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_number_to_reversed_array_of_digits)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/)
+|[5 without numbers !!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/5_without_numbers)| `Restricted` `Fundamentals` `Puzzles` |[Link](https://www.codewars.com/kata/59441520102eaa25260000bf/)
+
 
 
 
