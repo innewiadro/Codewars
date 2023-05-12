@@ -80,6 +80,8 @@ This is a place where i put my CodeWars solutions.
 |[Sums of Parts](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Sums_of_Parts)| `Fundamentals` `Performance` `Algorithms` |[Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/)
 |[Tortoise racing](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Tortoise_racing)| `Fundamentals` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/55e2adece53b4cdcb900006c/)
 |[Make the Deadfish Swim](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Make_the_Deadfish_Swim)| `Algorithms` `Parsing` |[Link](https://www.codewars.com/kata/51e0007c1f9378fa810002a9)
+|[Kebabize](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Kebabize)| `Fundamentals` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/57f8ff867a28db569e000c4a/)
+
 
 
 
@@ -204,6 +206,8 @@ This is a place where i put my CodeWars solutions.
 |[Convert number to reversed array of digits](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_number_to_reversed_array_of_digits)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/)
 |[5 without numbers !!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/5_without_numbers)| `Restricted` `Fundamentals` `Puzzles` |[Link](https://www.codewars.com/kata/59441520102eaa25260000bf/)
 |[Jenny's secret message](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Jennys_secret_message)| `Debugging` |[Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390/)
+|[Convert a Boolean to a String](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_a_Boolean_to_a_String)| `Fundamentals` |[Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd/)
+
 
 
 
