@@ -148,6 +148,7 @@ This is a place where i put my CodeWars solutions.
 |[Breaking chocolate problem](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Breaking_chocolate_problem)| `Algorithms` |[Link](https://www.codewars.com/kata/534ea96ebb17181947000ada/)
 |[Find the capitals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_capitals)| `Fundamentals` |[Link](https://www.codewars.com/kata/539ee3b6757843632d00026b/)
 |[Sum of angles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_angles)| `Fundamentals` `Geometry` |[Link](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/)
+|[Find the middle element](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_middle_element)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)
 
 
 
@@ -207,6 +208,7 @@ This is a place where i put my CodeWars solutions.
 |[5 without numbers !!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/5_without_numbers)| `Restricted` `Fundamentals` `Puzzles` |[Link](https://www.codewars.com/kata/59441520102eaa25260000bf/)
 |[Jenny's secret message](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Jennys_secret_message)| `Debugging` |[Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390/)
 |[Convert a Boolean to a String](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_a_Boolean_to_a_String)| `Fundamentals` |[Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd/)
+|[Difference of Volumes of Cuboids](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Difference_of_Volumes_of_Cuboids)| `Fundamentals` |[Link](https://www.codewars.com/kata/58cb43f4256836ed95000f97/)
 
 
 
