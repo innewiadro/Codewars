@@ -83,6 +83,8 @@ This is a place where i put my CodeWars solutions.
 |[Tortoise racing](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Tortoise_racing)| `Fundamentals` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/55e2adece53b4cdcb900006c/)
 |[Make the Deadfish Swim](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Make_the_Deadfish_Swim)| `Algorithms` `Parsing` |[Link](https://www.codewars.com/kata/51e0007c1f9378fa810002a9)
 |[Kebabize](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Kebabize)| `Fundamentals` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/57f8ff867a28db569e000c4a/)
+|[Delete occurrences of an element if it occurs more than n times](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Delete_occurrences_of_an_element_if_it_occurs_more_than_n_times)| `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/554ca54ffa7d91b236000023/)
+
 
 
 
