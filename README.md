@@ -213,6 +213,8 @@ This is a place where i put my CodeWars solutions.
 |[Jenny's secret message](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Jennys_secret_message)| `Debugging` |[Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390/)
 |[Convert a Boolean to a String](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_a_Boolean_to_a_String)| `Fundamentals` |[Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd/)
 |[Difference of Volumes of Cuboids](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Difference_of_Volumes_of_Cuboids)| `Fundamentals` |[Link](https://www.codewars.com/kata/58cb43f4256836ed95000f97/)
+|[Beginner - Reduce but Grow](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_Reduce_but_Grow)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57f780909f7e8e3183000078/)
+
 
 
 
