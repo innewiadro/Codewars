@@ -155,6 +155,8 @@ This is a place where i put my CodeWars solutions.
 |[Find the capitals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_capitals)| `Fundamentals` |[Link](https://www.codewars.com/kata/539ee3b6757843632d00026b/)
 |[Sum of angles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_angles)| `Fundamentals` `Geometry` |[Link](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/)
 |[Find the middle element](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_middle_element)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)
+|[Compare 2 digit numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Compare_2_digit_numbers)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/63f3c61dd27f3c07cc7978de/)
+
 
 
 
