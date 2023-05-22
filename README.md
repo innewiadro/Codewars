@@ -158,6 +158,8 @@ This is a place where i put my CodeWars solutions.
 |[Find the middle element](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_middle_element)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)
 |[Compare 2 digit numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Compare_2_digit_numbers)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/63f3c61dd27f3c07cc7978de/)
 |[Sort arrays - 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_arrays_1)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8/)
+|[Length and two values.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Length_and_two_values)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/62a611067274990047f431a8/)
+
 
 
 
