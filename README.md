@@ -86,6 +86,8 @@ This is a place where i put my CodeWars solutions.
 |[Delete occurrences of an element if it occurs more than n times](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Delete_occurrences_of_an_element_if_it_occurs_more_than_n_times)| `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/554ca54ffa7d91b236000023/)
 |[Title Case](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Title_Case)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5202ef17a402dd033c000009/)
 |[Multiplication table](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Multiplication_table)| `Fundamentals`  `Arrays`|[Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/)
+|[Data Reverse](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Data_Reverse)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/569d488d61b812a0f7000015/)
+
 
 
 
