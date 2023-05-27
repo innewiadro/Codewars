@@ -230,6 +230,7 @@ This is a place where i put my CodeWars solutions.
 |[Difference of Volumes of Cuboids](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Difference_of_Volumes_of_Cuboids)| `Fundamentals` |[Link](https://www.codewars.com/kata/58cb43f4256836ed95000f97/)
 |[Beginner - Reduce but Grow](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_Reduce_but_Grow)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57f780909f7e8e3183000078/)
 |[Convert a string to an array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_a_string_to_an_array)| `Fundamentals` |[Link](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+|[Sum The Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_The_Strings)| `Fundamentals` |[Link](https://www.codewars.com/kata/5966e33c4e686b508700002d/)
 
 
 
