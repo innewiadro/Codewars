@@ -231,6 +231,7 @@ This is a place where i put my CodeWars solutions.
 |[Beginner - Reduce but Grow](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_Reduce_but_Grow)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57f780909f7e8e3183000078/)
 |[Convert a string to an array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_a_string_to_an_array)| `Fundamentals` |[Link](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 |[Sum The Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_The_Strings)| `Fundamentals` |[Link](https://www.codewars.com/kata/5966e33c4e686b508700002d/)
+|[Is n divisible by x and y?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_n_divisible_by_x_and_y)| `Refactoring` |[Link](https://www.codewars.com/kata/5545f109004975ea66000086/)
 
 
 
