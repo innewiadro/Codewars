@@ -87,6 +87,8 @@ This is a place where i put my CodeWars solutions.
 |[Title Case](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Title_Case)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5202ef17a402dd033c000009/)
 |[Multiplication table](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Multiplication_table)| `Fundamentals`  `Arrays`|[Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/)
 |[Data Reverse](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Data_Reverse)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/569d488d61b812a0f7000015/)
+|[Primorial Of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Primorial_Of_a_Number)| `Fundamentals` `Arrays` `Number Theory` |[Link](https://www.codewars.com/kata/5a99a03e4a6b34bb3c000124)
+
 
 
 
