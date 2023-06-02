@@ -28,6 +28,8 @@ This is a place where i put my CodeWars solutions.
 | [Extract the domain name from a URL](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Extract_the_domain_name_from_a_URL)| `Parsing` `Regular Expressions` |[Link](https://www.codewars.com/kata/514a024011ea4fb54200004b/)
 |[Beeramid](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Beeramid)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/)
 |[Number of trailing zeros of N!](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Number_of_trailing_zeros_of_N)| `Fundamentals` `Logic` `Algorithms` |[Link](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
+|[Greed is Good](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Greed_is_good)| `Algorithms` |[Link](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
+
 
 
 
