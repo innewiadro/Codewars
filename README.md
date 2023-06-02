@@ -166,6 +166,8 @@ This is a place where i put my CodeWars solutions.
 |[Sort Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_Numbers)| `Fundamentals` |[Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/)
 |[Sort array by string length](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_array_by_string_length)| `Fundamentals` |[Link](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/train)
 |[Incrementer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Incrementer)| `Fundamentals` |[Link](https://www.codewars.com/kata/590e03aef55cab099a0002e8/)
+|[Maximum Multiple](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_Multiple)| `Fundamentals` |[Link](https://www.codewars.com/kata/5aba780a6a176b029800041c/)
+
 
 
 
