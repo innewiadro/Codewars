@@ -171,6 +171,8 @@ This is a place where i put my CodeWars solutions.
 |[Maximum Multiple](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_Multiple)| `Fundamentals` |[Link](https://www.codewars.com/kata/5aba780a6a176b029800041c/)
 |[Are the numbers in order?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Are_the_numbers_in_order)| `Fundamentals` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/56b7f2f3f18876033f000307/train/)
 |[Largest pair sum in array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_Elements)| `Fundamentals` |[Link](https://www.codewars.com/kata/556196a6091a7e7f58000018/)
+|[Predict your age!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Predict_your_age)| `Fundamentals` |[Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae/)
+
 
 
 
