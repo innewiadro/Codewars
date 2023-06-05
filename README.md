@@ -170,6 +170,8 @@ This is a place where i put my CodeWars solutions.
 |[Incrementer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Incrementer)| `Fundamentals` |[Link](https://www.codewars.com/kata/590e03aef55cab099a0002e8/)
 |[Maximum Multiple](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_Multiple)| `Fundamentals` |[Link](https://www.codewars.com/kata/5aba780a6a176b029800041c/)
 |[Are the numbers in order?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Are_the_numbers_in_order)| `Fundamentals` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/56b7f2f3f18876033f000307/train/)
+|[Largest pair sum in array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_Elements)| `Fundamentals` |[Link](https://www.codewars.com/kata/556196a6091a7e7f58000018/)
+
 
 
 
