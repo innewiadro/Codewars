@@ -246,6 +246,8 @@ This is a place where i put my CodeWars solutions.
 |[Sum The Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_The_Strings)| `Fundamentals` |[Link](https://www.codewars.com/kata/5966e33c4e686b508700002d/)
 |[Is n divisible by x and y?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_n_divisible_by_x_and_y)| `Refactoring` |[Link](https://www.codewars.com/kata/5545f109004975ea66000086/)
 |[Name Shuffler](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Name_shuffler)| `Fundamentals` |[Link](https://www.codewars.com/kata/559ac78160f0be07c200005a/)
+| [Keep up the hoop](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Keep_up_the_hoop)| `Fundamentals` |[Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/t)
+
 
 
 
