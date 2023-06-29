@@ -250,6 +250,8 @@ This is a place where i put my CodeWars solutions.
 |[Name Shuffler](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Name_shuffler)| `Fundamentals` |[Link](https://www.codewars.com/kata/559ac78160f0be07c200005a/)
 | [Keep up the hoop](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Keep_up_the_hoop)| `Fundamentals` |[Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/)
 | [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/innewiadro/Codewars/tree/master/kata_level8/altERnaTIng_cAsE%20_ALTerNAtiNG_CaSe)| `Fundamentals` |[Link](https://www.codewars.com/kata/56efc695740d30f963000557/)
+| [MakeUpperCase](https://github.com/innewiadro/Codewars/tree/master/kata_level8/MakeUpperCase)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/)
+
 
 
 
