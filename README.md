@@ -173,6 +173,8 @@ This is a place where i put my CodeWars solutions.
 |[Largest pair sum in array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_Elements)| `Fundamentals` |[Link](https://www.codewars.com/kata/556196a6091a7e7f58000018/)
 |[Predict your age!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Predict_your_age)| `Fundamentals` |[Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae/)
 |[Factorial](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Factorial_1)| `Fundamentals` `Algorithms`|[Link](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/)
+|[Determine if the poker hand is flush](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Determine%20_if_the_poker_hand_is_flush)| `Arrays` `Algorithms` `Logic` `Strings` `Games` |[Link](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d/)
+
 
 
 
