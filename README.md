@@ -29,6 +29,8 @@ This is a place where i put my CodeWars solutions.
 |[Beeramid](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Beeramid)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/)
 |[Number of trailing zeros of N!](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Number_of_trailing_zeros_of_N)| `Fundamentals` `Logic` `Algorithms` |[Link](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
 |[Greed is Good](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Greed_is_good)| `Algorithms` |[Link](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
+|[Not very secure](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Not_very_secure)| `Regular Expressions` `Strings` |[Link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/)
+
 
 
 
