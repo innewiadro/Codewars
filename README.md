@@ -260,6 +260,8 @@ This is a place where i put my CodeWars solutions.
 | [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/innewiadro/Codewars/tree/master/kata_level8/altERnaTIng_cAsE%20_ALTerNAtiNG_CaSe)| `Fundamentals` |[Link](https://www.codewars.com/kata/56efc695740d30f963000557/)
 | [MakeUpperCase](https://github.com/innewiadro/Codewars/tree/master/kata_level8/MakeUpperCase)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/)
 |[Reversed Words](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reversed_words)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/)
+|[Calculate BMI](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Calculate_BMI)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a429e253ba3381850000fb/)
+
 
 
 
