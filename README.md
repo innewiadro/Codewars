@@ -94,6 +94,8 @@ This is a place where i put my CodeWars solutions.
 |[Primorial Of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Primorial_Of_a_Number)| `Fundamentals` `Arrays` `Number Theory` |[Link](https://www.codewars.com/kata/5a99a03e4a6b34bb3c000124)
 |[Bingo Card](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Bingo_card)| `Algorithms` `Games` |[Link](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c/)
 |[Pokemon Damage Calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pokemon_damage_calculator)| `Arrays `Games` `Strings` `Puzzles` |[Link](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/)
+|[Rectangle into Squares](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Rectangle_into_squares)| `Fundamentals` `Geometry` `Puzzles` |[Link](https://www.codewars.com/kata/55466989aeecab5aac00003e)
+
 
 
 
