@@ -95,6 +95,8 @@ This is a place where i put my CodeWars solutions.
 |[Bingo Card](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Bingo_card)| `Algorithms` `Games` |[Link](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c/)
 |[Pokemon Damage Calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pokemon_damage_calculator)| `Arrays `Games` `Strings` `Puzzles` |[Link](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/)
 |[Rectangle into Squares](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Rectangle_into_squares)| `Fundamentals` `Geometry` `Puzzles` |[Link](https://www.codewars.com/kata/55466989aeecab5aac00003e)
+|[Roman Numerals Decoder](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Roman_numerals_decoder)| `Algorithms` |[Link](https://www.codewars.com/kata/51b6249c4612257ac0000005/)
+
 
 
 
