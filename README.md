@@ -33,9 +33,6 @@ This is a place where i put my CodeWars solutions.
 
 
 
-
-
-
 ## Level 6 Katas
 | Katas | Subject | CW Link
 | --- | --- | ---|
@@ -96,17 +93,6 @@ This is a place where i put my CodeWars solutions.
 |[Pokemon Damage Calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pokemon_damage_calculator)| `Arrays `Games` `Strings` `Puzzles` |[Link](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/)
 |[Rectangle into Squares](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Rectangle_into_squares)| `Fundamentals` `Geometry` `Puzzles` |[Link](https://www.codewars.com/kata/55466989aeecab5aac00003e)
 |[Roman Numerals Decoder](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Roman_numerals_decoder)| `Algorithms` |[Link](https://www.codewars.com/kata/51b6249c4612257ac0000005/)
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -186,28 +172,7 @@ This is a place where i put my CodeWars solutions.
 |[Determine if the poker hand is flush](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Determine%20_if_the_poker_hand_is_flush)| `Arrays` `Algorithms` `Logic` `Strings` `Games` |[Link](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d/)
 |[V A P O R C O D E](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Vaporcode)| `Fundamentals` |[Link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a/)
 |[Leap Years](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Leap_years)| `Date time` `Algorithms` |[Link](https://www.codewars.com/kata/526c7363236867513f0005ca/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|[Simple Fun #176: Reverse Letter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_176_reverse_letter)| `Fundamentals` |[Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/)
 
 
 
