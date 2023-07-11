@@ -233,6 +233,10 @@ This is a place where i put my CodeWars solutions.
 | [MakeUpperCase](https://github.com/innewiadro/Codewars/tree/master/kata_level8/MakeUpperCase)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/)
 |[Reversed Words](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reversed_words)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/)
 |[Calculate BMI](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Calculate_BMI)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a429e253ba3381850000fb/)
+|[Will you make it?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Will_you_make_it)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/559e10e2e162b69f750000b4/)
+|[Count the Monkeys!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_the_monkeys)| `Fundamentals` `Lists` `Arrays` |[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/t)
+
+
 
 
 
