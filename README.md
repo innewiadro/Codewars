@@ -237,6 +237,8 @@ This is a place where i put my CodeWars solutions.
 |[Count the Monkeys!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_the_monkeys)| `Fundamentals` `Lists` `Arrays` |[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/t)
 |[Lario and Muigi Pipe Problem](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Lario_and_Muigi_Pipe_Problem)| `Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/56b29582461215098d00000f/)
 |[Grasshopper - Messi goals function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_Messi_goals_function)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f73be6e12baaa5900000d4/)
+|[Triple Trouble](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Triple_trouble)| `Puzzles` |[Link](https://www.codewars.com/kata/5704aea738428f4d30000914/)
+
 
 
 
