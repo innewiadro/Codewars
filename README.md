@@ -237,21 +237,4 @@ This is a place where i put my CodeWars solutions.
 |[Lario and Muigi Pipe Problem](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Lario_and_Muigi_Pipe_Problem)| `Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/56b29582461215098d00000f/)
 |[Grasshopper - Messi goals function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_Messi_goals_function)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f73be6e12baaa5900000d4/)
 |[Triple Trouble](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Triple_trouble)| `Puzzles` |[Link](https://www.codewars.com/kata/5704aea738428f4d30000914/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|[Is he gonna survive?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_he_gonna_survive)| `Fundamentals` |[Link](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train)
