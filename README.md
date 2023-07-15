@@ -173,8 +173,7 @@ This is a place where i put my CodeWars solutions.
 |[V A P O R C O D E](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Vaporcode)| `Fundamentals` |[Link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a/)
 |[Leap Years](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Leap_years)| `Date time` `Algorithms` |[Link](https://www.codewars.com/kata/526c7363236867513f0005ca/)
 |[Simple Fun #176: Reverse Letter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_176_reverse_letter)| `Fundamentals` |[Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/)
-
-
+|[Count consonants](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_consonants)| `Fundamentals` `Sorting` |[Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106/)
 
 
 ## Level 8 Katas
