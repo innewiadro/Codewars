@@ -30,6 +30,7 @@ This is a place where i put my CodeWars solutions.
 |[Number of trailing zeros of N!](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Number_of_trailing_zeros_of_N)| `Fundamentals` `Logic` `Algorithms` |[Link](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
 |[Greed is Good](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Greed_is_good)| `Algorithms` |[Link](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 |[Not very secure](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Not_very_secure)| `Regular Expressions` `Strings` |[Link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/)
+|[Scramblies](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Scramblies)| `Fundamentals` `Sorting` `Algorithms` |[Link](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/)
 
 
 
