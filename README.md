@@ -176,6 +176,8 @@ This is a place where i put my CodeWars solutions.
 |[Simple Fun #176: Reverse Letter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_176_reverse_letter)| `Fundamentals` |[Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/)
 |[Count consonants](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_consonants)| `Fundamentals` `Sorting` |[Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106/)
 |[Return a sorted list of objects](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_a%20_sorted_list_of_objects)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/52705ed65de62b733f000064/)
+|[What dominates your array?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/What_dominates_your_array)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/559e10e2e162b69f750000b4/)
+
 
 
 
