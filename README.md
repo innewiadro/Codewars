@@ -245,5 +245,8 @@ This is a place where i put my CodeWars solutions.
 |[Is he gonna survive?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_he_gonna_survive)| `Fundamentals` |[Link](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train)
 |[Find the position!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_position)| `Fundamentals` |[Link](https://www.codewars.com/kata/5808e2006b65bff35500008f/)
 |[No zeros for heros](https://github.com/innewiadro/Codewars/tree/master/kata_level8/No_zeros_for_heros)| `Fundamentals` |[Link](https://www.codewars.com/kata/570a6a46455d08ff8d001002/)
+|[Third Angle of a Triangle](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Third_angle_of_a_triangle)| `Fundamentals` |[Link](https://www.codewars.com/kata/5a023c426975981341000014/)
+|[Twice as old](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Twice_as_old)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5b853229cfde412a470000d0/)
+
 
 
