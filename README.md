@@ -254,6 +254,8 @@ This is a place where i put my CodeWars solutions.
 |[Invert values](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Invert_values)| `Fundamentals` `Lists` `Arrays` |[Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/)
 |[Find numbers which are divisible by given number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_numbers_which_are_divisible_by_given_number)| `Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/55edaba99da3a9c84000003b/)
 |[Is it even?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_it_even)| `Fundamentals` |[Link](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/)
+|[Count Odd Numbers below n](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_odd_numbers_below_n)| 'Performance' 'Mathematics'|[Link](https://www.codewars.com/kata/59342039eb450e39970000a6/)
+
 
 
 
