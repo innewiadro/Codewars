@@ -260,11 +260,4 @@ This is a place where i put my CodeWars solutions.
 |[Count Odd Numbers below n](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_odd_numbers_below_n)| 'Performance' 'Mathematics'|[Link](https://www.codewars.com/kata/59342039eb450e39970000a6/)
 |[Is the string uppercase?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_the_string_uppercase)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 |[Beginner Series #1 School Paperwork](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_series_1_school_paperwork)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/)
-
-
-
-
-
-
-
-
+|[Add Length](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Add_length)| `Fundamentals` `Lists` `Arrays` |[Link](https://www.codewars.com/kata/559d2284b5bb6799e9000047/)
