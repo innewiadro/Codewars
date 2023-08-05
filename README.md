@@ -31,7 +31,7 @@ This is a place where i put my CodeWars solutions.
 |[Greed is Good](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Greed_is_good)| `Algorithms` |[Link](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 |[Not very secure](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Not_very_secure)| `Regular Expressions` `Strings` |[Link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/)
 |[Scramblies](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Scramblies)| `Fundamentals` `Sorting` `Algorithms` |[Link](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/)
-|[First non-repeating character](https://github.com/innewiadro/Codewars/tree/master/kata_level5/First_non-repeating_character)| `Strings' 'Algorithms' |[Link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
+|[First non-repeating character](https://github.com/innewiadro/Codewars/tree/master/kata_level5/First_non-repeating_character)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
 
 
 
@@ -185,6 +185,8 @@ This is a place where i put my CodeWars solutions.
 |[Maximum Length Difference](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_length_difference)| `Fundamentals`  |[Link](https://www.codewars.com/kata/5663f5305102699bad000056/)
 |[ATM](https://github.com/innewiadro/Codewars/tree/master/kata_level7/ATM)| `Fundamentals` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5635e7cb49adc7b54500001c/)
 |[Triangular Treasure](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Triangular_treasure)| `Algorithms' 'Mathematics` |[Link](https://www.codewars.com/kata/525e5a1cb735154b320002c8/train/python)
+|[max diff - easy](https://github.com/innewiadro/Codewars/tree/master/kata_level7/max_diff_easy)| `Fundamentals` `Mathematics` `Arrays` `Lists` |[Link](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/t)
+
 
 
 
