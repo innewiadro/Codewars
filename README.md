@@ -268,4 +268,6 @@ This is a place where i put my CodeWars solutions.
 |[Beginner Series #1 School Paperwork](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_series_1_school_paperwork)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/)
 |[Add Length](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Add_length)| `Fundamentals` `Lists` `Arrays` |[Link](https://www.codewars.com/kata/559d2284b5bb6799e9000047/)
 |[Enumerable_Magic_Does_My_List_Include_This](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Enumerable_Magic_Does_My_List_Include_This)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/545991b4cbae2a5fda000158)
+|[Surface Area and Volume of a Box](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Surface_area_and_volume_of_a_box)| `Fundamentals` `Geometry` |[Link](https://www.codewars.com/kata/565f5825379664a26b00007c/)
+
 
