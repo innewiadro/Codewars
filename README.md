@@ -271,6 +271,7 @@ This is a place where i put my CodeWars solutions.
 |[Surface Area and Volume of a Box](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Surface_area_and_volume_of_a_box)| `Fundamentals` `Geometry` |[Link](https://www.codewars.com/kata/565f5825379664a26b00007c/)
 |[Grasshopper - Terminal game combat function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_terminal_game_combat_function)| `Fundamentals` |[Link](https://www.codewars.com/kata/586c1cf4b98de0399300001d/)
 |[How old will I be in 2099?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_old_will_i_be_in_2099)| `Fundamentals` |[Link](https://www.codewars.com/kata/5761a717780f8950ce001473)
+|[Regular Ball Super Ball](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Regular_ball_super_ball)| `Fundamentals` |[Link](https://www.codewars.com/kata/53f0f358b9cb376eca001079/)
 
 
 
