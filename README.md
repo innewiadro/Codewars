@@ -272,6 +272,8 @@ This is a place where i put my CodeWars solutions.
 |[Grasshopper - Terminal game combat function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_terminal_game_combat_function)| `Fundamentals` |[Link](https://www.codewars.com/kata/586c1cf4b98de0399300001d/)
 |[How old will I be in 2099?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_old_will_i_be_in_2099)| `Fundamentals` |[Link](https://www.codewars.com/kata/5761a717780f8950ce001473)
 |[Regular Ball Super Ball](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Regular_ball_super_ball)| `Fundamentals` |[Link](https://www.codewars.com/kata/53f0f358b9cb376eca001079/)
+|[If you can't sleep, just count sheep!!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/If_you_cant_sleep_just_count_sheep)| `Fundamentals` `Sorting`  |[Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/)
+
 
 
 
