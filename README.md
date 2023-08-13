@@ -273,6 +273,8 @@ This is a place where i put my CodeWars solutions.
 |[How old will I be in 2099?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_old_will_i_be_in_2099)| `Fundamentals` |[Link](https://www.codewars.com/kata/5761a717780f8950ce001473)
 |[Regular Ball Super Ball](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Regular_ball_super_ball)| `Fundamentals` |[Link](https://www.codewars.com/kata/53f0f358b9cb376eca001079/)
 |[If you can't sleep, just count sheep!!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/If_you_cant_sleep_just_count_sheep)| `Fundamentals` `Sorting`  |[Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/)
+|[Volume of a cuboid](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Volume_of_a_cuboid)| `Geometry` `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)
+
 
 
 
