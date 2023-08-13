@@ -274,6 +274,8 @@ This is a place where i put my CodeWars solutions.
 |[Regular Ball Super Ball](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Regular_ball_super_ball)| `Fundamentals` |[Link](https://www.codewars.com/kata/53f0f358b9cb376eca001079/)
 |[If you can't sleep, just count sheep!!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/If_you_cant_sleep_just_count_sheep)| `Fundamentals` `Sorting`  |[Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/)
 |[Volume of a cuboid](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Volume_of_a_cuboid)| `Geometry` `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)
+|[Will there be enough space?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Will_there_be_enough_space)| `Fundamentals` |[Link](https://www.codewars.com/kata/5875b200d520904a04000003/)
+
 
 
 
