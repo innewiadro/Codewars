@@ -275,6 +275,7 @@ This is a place where i put my CodeWars solutions.
 |[If you can't sleep, just count sheep!!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/If_you_cant_sleep_just_count_sheep)| `Fundamentals` `Sorting`  |[Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/)
 |[Volume of a cuboid](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Volume_of_a_cuboid)| `Geometry` `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)
 |[Will there be enough space?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Will_there_be_enough_space)| `Fundamentals` |[Link](https://www.codewars.com/kata/5875b200d520904a04000003/)
+| [Grasshopper - Array Mean](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_array_mean)| `Arrays` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/55d277882e139d0b6000005d/)
 
 
 
