@@ -276,6 +276,8 @@ This is a place where i put my CodeWars solutions.
 |[Volume of a cuboid](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Volume_of_a_cuboid)| `Geometry` `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)
 |[Will there be enough space?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Will_there_be_enough_space)| `Fundamentals` |[Link](https://www.codewars.com/kata/5875b200d520904a04000003/)
 | [Grasshopper - Array Mean](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_array_mean)| `Arrays` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/55d277882e139d0b6000005d/)
+| [Transportation on vacation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Transportation_on_vacation)| `Fundamentals` |[Link](https://www.codewars.com/kata/568d0dd208ee69389d000016/)
+
 
 
 
