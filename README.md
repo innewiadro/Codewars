@@ -278,6 +278,7 @@ This is a place where i put my CodeWars solutions.
 | [Grasshopper - Array Mean](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_array_mean)| `Arrays` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/55d277882e139d0b6000005d/)
 | [Transportation on vacation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Transportation_on_vacation)| `Fundamentals` |[Link](https://www.codewars.com/kata/568d0dd208ee69389d000016/)
 | [Thinkful - Logic Drills: Traffic light](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Thinkful_logic_drills_traffic_light)| `Fundamentals` |[Link](https://www.codewars.com/kata/58649884a1659ed6cb000072/)
+| [DNA to RNA Conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level8/DNA_to_RNA_conversion)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5556282156230d0e5e000089/)
 
 
 
