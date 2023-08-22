@@ -186,6 +186,8 @@ This is a place where i put my CodeWars solutions.
 |[ATM](https://github.com/innewiadro/Codewars/tree/master/kata_level7/ATM)| `Fundamentals` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5635e7cb49adc7b54500001c/)
 |[Triangular Treasure](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Triangular_treasure)| `Algorithms' 'Mathematics` |[Link](https://www.codewars.com/kata/525e5a1cb735154b320002c8/train/python)
 |[max diff - easy](https://github.com/innewiadro/Codewars/tree/master/kata_level7/max_diff_easy)| `Fundamentals` `Mathematics` `Arrays` `Lists` |[Link](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/t)
+|[Alternate capitalization](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alternate_capitalization)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/59cfc000aeb2844d16000075/)
+
 
 
 
