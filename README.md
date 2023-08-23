@@ -281,6 +281,8 @@ This is a place where i put my CodeWars solutions.
 | [Transportation on vacation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Transportation_on_vacation)| `Fundamentals` |[Link](https://www.codewars.com/kata/568d0dd208ee69389d000016/)
 | [Thinkful - Logic Drills: Traffic light](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Thinkful_logic_drills_traffic_light)| `Fundamentals` |[Link](https://www.codewars.com/kata/58649884a1659ed6cb000072/)
 | [DNA to RNA Conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level8/DNA_to_RNA_conversion)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5556282156230d0e5e000089/)
+|[Find the first non-consecutive number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_first_non_consecutive_number)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/)
+
 
 
 
