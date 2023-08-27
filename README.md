@@ -283,6 +283,7 @@ This is a place where i put my CodeWars solutions.
 | [DNA to RNA Conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level8/DNA_to_RNA_conversion)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5556282156230d0e5e000089/)
 |[Find the first non-consecutive number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_first_non_consecutive_number)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/)
 |[Vowel remover](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Vowel_remover)| `Fundamentals` `Strings`  |[Link](https://www.codewars.com/kata/5547929140907378f9000039/)
+|[Exclusive "or" (xor) Logical Operator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclusive_or_(xor)_logical_operator)| `Fundamentals` |[Link](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/)
 
 
 
