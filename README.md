@@ -189,6 +189,8 @@ This is a place where i put my CodeWars solutions.
 |[Alternate capitalization](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alternate_capitalization)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/59cfc000aeb2844d16000075/)
 |[Sorted? yes? no? how?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sorted_yes_no_how)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/580a4734d6df748060000045/)
 |[JavaScript Array Filter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/JavaScript_array_filter)| `Fundamentals`  `Arrays` |[Link](https://www.codewars.com/kata/514a6336889283a3d2000001/)
+|[The Coupon Code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_coupon_code)| `Fundamentals` `Date Time` 'Strings'|[Link](https://www.codewars.com/kata/539de388a540db7fec000642/)
+
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
