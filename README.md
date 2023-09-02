@@ -282,6 +282,8 @@ This is a place where i put my CodeWars solutions.
 |[Exclusive "or" (xor) Logical Operator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclusive_or_(xor)_logical_operator)| `Fundamentals` |[Link](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/)
 |[Sum of Multiples](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_of_multiples)| `Fundamentals`  |[Link](https://www.codewars.com/kata/57241e0f440cd279b5000829/)
 |[Are You Playing Banjo?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Are_you_playing_banjo)| `Fundamentals` `Strings`  |[Link](https://www.codewars.com/kata/53af2b8861023f1d88000832/)
+|[Super Duper Easy](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Super_duper_easy)| `Fundamentals`  |[Link](https://www.codewars.com/kata/55a5bfaa756cfede78000026/)
+
 
 
 
