@@ -284,6 +284,8 @@ This is a place where i put my CodeWars solutions.
 |[Are You Playing Banjo?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Are_you_playing_banjo)| `Fundamentals` `Strings`  |[Link](https://www.codewars.com/kata/53af2b8861023f1d88000832/)
 |[Super Duper Easy](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Super_duper_easy)| `Fundamentals`  |[Link](https://www.codewars.com/kata/55a5bfaa756cfede78000026/)
 |[Printing Array elements with Comma delimiters](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Printing_array_elements_with_comma_delimiters)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56e2f59fb2ed128081001328/)
+| [Find the Remainder](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_remainder)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/524f5125ad9c12894e00003f/)
+
 
 
 
