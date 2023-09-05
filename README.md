@@ -190,6 +190,8 @@ This is a place where i put my CodeWars solutions.
 |[Sorted? yes? no? how?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sorted_yes_no_how)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/580a4734d6df748060000045/)
 |[JavaScript Array Filter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/JavaScript_array_filter)| `Fundamentals`  `Arrays` |[Link](https://www.codewars.com/kata/514a6336889283a3d2000001/)
 |[The Coupon Code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_coupon_code)| `Fundamentals` `Date Time` 'Strings'|[Link](https://www.codewars.com/kata/539de388a540db7fec000642/)
+|[Love vs friendship](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Love_vs_friendship)| `Fundamentals`  |[Link](https://www.codewars.com/kata/59706036f6e5d1e22d000016/)
+
 
 
 ## Level 8 Katas
