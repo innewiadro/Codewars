@@ -288,6 +288,8 @@ This is a place where i put my CodeWars solutions.
 |[Printing Array elements with Comma delimiters](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Printing_array_elements_with_comma_delimiters)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56e2f59fb2ed128081001328/)
 | [Find the Remainder](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_remainder)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/524f5125ad9c12894e00003f/)
 |[Price of Mangoes](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Price_of_mangoes)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a77726bb9944d000000b06/)
+|[Welcome to the City](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome_to_the_city)| `Fundamentals` `Strings' |[Link](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
+
 
 
 
