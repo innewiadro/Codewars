@@ -290,6 +290,8 @@ This is a place where i put my CodeWars solutions.
 |[Price of Mangoes](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Price_of_mangoes)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a77726bb9944d000000b06/)
 |[Welcome to the City](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome_to_the_city)| `Fundamentals` `Strings' |[Link](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
 |[Return Two Highest Values in List](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_two_highest_values_in_list)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/57ab3c09bb994429df000a4a/)
+|[Return the day ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_the_day)| `Fundamentals` |[Link](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/)
+
 
 
 
