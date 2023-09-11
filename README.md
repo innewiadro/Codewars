@@ -293,6 +293,8 @@ This is a place where i put my CodeWars solutions.
 |[Welcome to the City](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome_to_the_city)| `Fundamentals` `Strings' |[Link](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
 |[Return Two Highest Values in List](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_two_highest_values_in_list)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/57ab3c09bb994429df000a4a/)
 |[Return the day ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_the_day)| `Fundamentals` |[Link](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/)
+|[Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclamation_marks_series_11)| `Fundamentals` |[Link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
+
 
 
 
