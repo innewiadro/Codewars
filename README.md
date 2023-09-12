@@ -294,23 +294,5 @@ This is a place where i put my CodeWars solutions.
 |[Return Two Highest Values in List](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_two_highest_values_in_list)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/57ab3c09bb994429df000a4a/)
 |[Return the day ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_the_day)| `Fundamentals` |[Link](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/)
 |[Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclamation_marks_series_11)| `Fundamentals` |[Link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| [Quarter of the year](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Quarter_of_the_year)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/t)
 
