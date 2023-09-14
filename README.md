@@ -296,4 +296,4 @@ This is a place where i put my CodeWars solutions.
 |[Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclamation_marks_series_11)| `Fundamentals` |[Link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
 |[Quarter of the year](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Quarter_of_the_year)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/)
 |[Kata Example Twist](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Kata_example_twist)| `Fundamentals`  |[Link](https://www.codewars.com/kata/525c1a07bb6dda6944000031/)
-|[Reverse List Order](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Kata_example_twist)| `Fundamentals`  |[Link](https://www.codewars.com/kata/525c1a07bb6dda6944000031/)
+|[Reverse List Order](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reverse_List_Order)| `Fundamentals`  |[Link](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/)
