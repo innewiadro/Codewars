@@ -192,6 +192,7 @@ This is a place where i put my CodeWars solutions.
 |[The Coupon Code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_coupon_code)| `Fundamentals` `Date Time` 'Strings'|[Link](https://www.codewars.com/kata/539de388a540db7fec000642/)
 |[Love vs friendship](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Love_vs_friendship)| `Fundamentals`  |[Link](https://www.codewars.com/kata/59706036f6e5d1e22d000016/)
 |[Find the index of the second occurrence of a letter in a string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_index_of_the_second_occurrence_of_a_letter_in_a_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/63f96036b15a210058300ca9/)
+|[Greet Me](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Greet_Me)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/535474308bb336c9980006f2/)
 
 
 
