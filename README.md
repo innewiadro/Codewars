@@ -299,3 +299,4 @@ This is a place where i put my CodeWars solutions.
 |[Kata Example Twist](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Kata_example_twist)| `Fundamentals`  |[Link](https://www.codewars.com/kata/525c1a07bb6dda6944000031/)
 |[Reverse List Order](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reverse_List_Order)| `Fundamentals`  |[Link](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/)
 |[Grasshopper - Terminal game move function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_terminal_game_move_function)| `Fundamentals`  |[Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/)
+|[No Loops 2 - You only need one](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_terminal_game_move_function)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/)
