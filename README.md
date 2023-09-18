@@ -300,3 +300,4 @@ This is a place where i put my CodeWars solutions.
 |[Reverse List Order](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reverse_List_Order)| `Fundamentals`  |[Link](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/)
 |[Grasshopper - Terminal game move function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_terminal_game_move_function)| `Fundamentals`  |[Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/)
 |[No Loops 2 - You only need one](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_terminal_game_move_function)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/)
+|[Reversing Words in a String](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reversing_words_in_a_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57a55c8b72292d057b000594/)
