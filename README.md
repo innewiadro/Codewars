@@ -303,3 +303,4 @@ This is a place where i put my CodeWars solutions.
 |[No Loops 2 - You only need one](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_terminal_game_move_function)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/)
 |[Reversing Words in a String](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Reversing_words_in_a_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57a55c8b72292d057b000594/)
 |[Sum Mixed Array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_mixed_array)| `Fundamentals` `Strings` `Arrays`|[Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
+|[Merge two sorted arrays into one](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Merge_two_sorted_arrays_into_one)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5899642f6e1b25935d000161/)
