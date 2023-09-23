@@ -290,7 +290,7 @@ This is a place where i put my CodeWars solutions.
 |[Are You Playing Banjo?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Are_you_playing_banjo)| `Fundamentals` `Strings`  |[Link](https://www.codewars.com/kata/53af2b8861023f1d88000832/)
 |[Super Duper Easy](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Super_duper_easy)| `Fundamentals`  |[Link](https://www.codewars.com/kata/55a5bfaa756cfede78000026/)
 |[Printing Array elements with Comma delimiters](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Printing_array_elements_with_comma_delimiters)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56e2f59fb2ed128081001328/)
-| [Find the Remainder](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_remainder)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/524f5125ad9c12894e00003f/)
+|[Find the Remainder](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_remainder)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/524f5125ad9c12894e00003f/)
 |[Price of Mangoes](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Price_of_mangoes)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a77726bb9944d000000b06/)
 |[Welcome to the City](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Welcome_to_the_city)| `Fundamentals` `Strings' |[Link](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
 |[Return Two Highest Values in List](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_two_highest_values_in_list)| `Fundamentals` `Sorting` `Arrays` |[Link](https://www.codewars.com/kata/57ab3c09bb994429df000a4a/)
@@ -305,3 +305,4 @@ This is a place where i put my CodeWars solutions.
 |[Sum Mixed Array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_mixed_array)| `Fundamentals` `Strings` `Arrays`|[Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
 |[Merge two sorted arrays into one](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Merge_two_sorted_arrays_into_one)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5899642f6e1b25935d000161/)
 |[Are arrow functions odd?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Are_arrow_functions_odd)| `Fundamentals` |[Link](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5/)
+|[simple calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_calculator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5810085c533d69f4980001cf/)
