@@ -306,3 +306,4 @@ This is a place where i put my CodeWars solutions.
 |[Merge two sorted arrays into one](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Merge_two_sorted_arrays_into_one)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5899642f6e1b25935d000161/)
 |[Are arrow functions odd?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Are_arrow_functions_odd)| `Fundamentals` |[Link](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5/)
 |[simple calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_calculator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5810085c533d69f4980001cf/)
+|[Hello, Name or World!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Hello_name_or_world)| `Fundamentals` |[Link](https://www.codewars.com/kata/57e3f79c9cb119374600046b/)
