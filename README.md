@@ -194,6 +194,7 @@ This is a place where i put my CodeWars solutions.
 |[Find the index of the second occurrence of a letter in a string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_index_of_the_second_occurrence_of_a_letter_in_a_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/63f96036b15a210058300ca9/)
 |[Greet Me](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Greet_Me)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/535474308bb336c9980006f2/)
 |[Switcheroo](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Switcheroo)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/57f759bb664021a30300007d/)
+|[Number of Decimal Digits](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_decimal_digits)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/58fa273ca6d84c158e000052/)
 
 
 
