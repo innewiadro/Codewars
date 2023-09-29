@@ -196,6 +196,7 @@ This is a place where i put my CodeWars solutions.
 |[Switcheroo](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Switcheroo)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/57f759bb664021a30300007d/)
 |[Number of Decimal Digits](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_decimal_digits)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/58fa273ca6d84c158e000052/)
 |[Sum of Cubes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_cubes)| `Fundamentals`|[Link](https://www.codewars.com/kata/59a8570b570190d313000037/)
+|[Power of two](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Power_of_two)| `Fundamentals` `Algorithms` `Mathematics`|[Link](https://www.codewars.com/kata/534d0a229345375d520006a0/)
 
 
 
