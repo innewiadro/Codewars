@@ -198,6 +198,7 @@ This is a place where i put my CodeWars solutions.
 |[Sum of Cubes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_cubes)| `Fundamentals`|[Link](https://www.codewars.com/kata/59a8570b570190d313000037/)
 |[Power of two](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Power_of_two)| `Fundamentals` `Algorithms` `Mathematics`|[Link](https://www.codewars.com/kata/534d0a229345375d520006a0/)
 |[Sum of numbers from 0 to N](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_numbers_from_0_to_N)| `Fundamentals` |[Link](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763/)
+|[Fix string case](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fix_string_case)| `Fundamentals` |[Link](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763/)
 
 
 
