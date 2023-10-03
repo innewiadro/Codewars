@@ -200,6 +200,7 @@ This is a place where i put my CodeWars solutions.
 |[Sum of numbers from 0 to N](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_numbers_from_0_to_N)| `Fundamentals` |[Link](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763/)
 |[Fix string case](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fix_string_case)| `Fundamentals` |[Link](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763/)
 |[Deodorant Evaporator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Deodorant_evaporator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f/)
+|[Maximum Product](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_product)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5a4138acf28b82aa43000117/)
 
 
 
