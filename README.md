@@ -202,6 +202,7 @@ This is a place where i put my CodeWars solutions.
 |[Deodorant Evaporator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Deodorant_evaporator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f/)
 |[Maximum Product](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_product)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5a4138acf28b82aa43000117/)
 |[No oddities here](https://github.com/innewiadro/Codewars/tree/master/kata_level7/No_oddities_here)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/)
+|[Disemvowel Trolls](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Disemvowel_trolls)| `Strings` `Regular Expressions` `Fundamentals`|[Link](https://www.codewars.com/kata/52fba66badcd10859f00097e/s)
 
 
 
