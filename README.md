@@ -318,4 +318,5 @@ This is a place where i put my CodeWars solutions.
 |[simple calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_calculator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5810085c533d69f4980001cf/)
 |[Hello, Name or World!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Hello_name_or_world)| `Fundamentals` |[Link](https://www.codewars.com/kata/57e3f79c9cb119374600046b/)
 |[Hex to Decimal](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Hex_to_decimal)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a4d500e298a7952100035d/)
-|[Hex to Decimal](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pilars)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/)
+|[Pilars](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pilars)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/)
+|[Find Nearest square number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_nearest_square_number)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/)
