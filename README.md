@@ -322,3 +322,4 @@ This is a place where i put my CodeWars solutions.
 |[Pilars](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pilars)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/)
 |[Find Nearest square number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_nearest_square_number)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/)
 |[Determine offspring sex based on genes XX and XY chromosomes](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Determine_offspring_sex)| `Fundamentals` |[Link](https://www.codewars.com/kata/56530b444e831334c0000020/)
+|[Power](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Power)| `Restricted` |[Link](https://www.codewars.com/kata/562926c855ca9fdc4800005b/)
