@@ -325,3 +325,4 @@ This is a place where i put my CodeWars solutions.
 |[Power](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Power)| `Restricted` |[Link](https://www.codewars.com/kata/562926c855ca9fdc4800005b/)
 |[Remove duplicates from list](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_duplicates_from_list)| `Fundamentals` `Arrays` `Lists` |[Link](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/)
 |[Who ate the cookie?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Who_ate_the_cookie)| `Fundamentals` |[Link](https://www.codewars.com/kata/55a996e0e8520afab9000055/)
+|[Sort and Star](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sort_and_star)| `Fundamentals` `Strings` `Arrays` `Sorting` |[Link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/)
