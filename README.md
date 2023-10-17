@@ -328,3 +328,4 @@ This is a place where i put my CodeWars solutions.
 |[Sort and Star](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sort_and_star)| `Fundamentals` `Strings` `Arrays` `Sorting` |[Link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/)
 |[The Wide-Mouthed frog!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/The_wide-mouthed_frog)| `Fundamentals` `Logic` `Strings` |[Link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/)
 |[Exclamation marks series #2](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclamation_marks_2)| `Fundamentals` |[Link](https://www.codewars.com/kata/57faece99610ced690000165/)
+|[Basic Mathematical Operations](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_mathematical_operations)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/)
