@@ -204,6 +204,8 @@ This is a place where i put my CodeWars solutions.
 |[No oddities here](https://github.com/innewiadro/Codewars/tree/master/kata_level7/No_oddities_here)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/)
 |[Disemvowel Trolls](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Disemvowel_trolls)| `Strings` `Regular Expressions` `Fundamentals`|[Link](https://www.codewars.com/kata/52fba66badcd10859f00097e/)
 |[Flatten and sort an array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Flatten_and_sort_an_array)| `Strings` `Sorting` `Fundamentals`|[Link](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/)
+|[Ordered Count of Characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ordered_count_of_characters)| `Fundamentals`|[Link](https://www.codewars.com/kata/57a6633153ba33189e000074/)
+|[Filter the number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Filter_the_number)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/55b051fac50a3292a9000025/)
 
 
 
@@ -329,4 +331,3 @@ This is a place where i put my CodeWars solutions.
 |[The Wide-Mouthed frog!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/The_wide-mouthed_frog)| `Fundamentals` `Logic` `Strings` |[Link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/)
 |[Exclamation marks series #2](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclamation_marks_2)| `Fundamentals` |[Link](https://www.codewars.com/kata/57faece99610ced690000165/)
 |[Basic Mathematical Operations](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_mathematical_operations)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/)
-|[Ordered Count of Characters](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Ordered_count_of_characters)| `Fundamentals`|[Link](https://www.codewars.com/kata/57a6633153ba33189e000074/)
