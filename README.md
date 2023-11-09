@@ -206,6 +206,7 @@ This is a place where i put my CodeWars solutions.
 |[Flatten and sort an array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Flatten_and_sort_an_array)| `Strings` `Sorting` `Fundamentals`|[Link](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/)
 |[Ordered Count of Characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ordered_count_of_characters)| `Fundamentals`|[Link](https://www.codewars.com/kata/57a6633153ba33189e000074/)
 |[Filter the number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Filter_the_number)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/55b051fac50a3292a9000025/)
+|[Minimize Sum Of Array ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minimize_sum_Of_array)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b/)
 
 
 
