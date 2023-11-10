@@ -333,3 +333,4 @@ This is a place where i put my CodeWars solutions.
 |[The Wide-Mouthed frog!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/The_wide-mouthed_frog)| `Fundamentals` `Logic` `Strings` |[Link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/)
 |[Exclamation marks series #2](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclamation_marks_2)| `Fundamentals` |[Link](https://www.codewars.com/kata/57faece99610ced690000165/)
 |[Basic Mathematical Operations](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_mathematical_operations)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/)
+|[Bin to Decimal](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Bin_to_decimal)| `Fundamentals` `Binary`|[Link](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/)
