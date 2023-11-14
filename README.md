@@ -208,7 +208,7 @@ This is a place where i put my CodeWars solutions.
 |[Filter the number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Filter_the_number)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/55b051fac50a3292a9000025/)
 |[Minimize Sum Of Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minimize_sum_Of_array)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b/)
 |[Convert an array of strings to array of numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Convert_an_array_of_strings_to_array_of_numbers)| `Fundamentals` `Arrays` `Parsing` `Strings`|[Link](https://www.codewars.com/kata/5783d8f3202c0e486c001d23/)
-|[Spacify](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spacify)| `Fundamentals` `Arrays` `Strings`|[Link](https://www.codewars.com/kata/57f8ee485cae443c4d000127/)
+|[Odd-Even String Sort](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Odd-Even_string_sort)| `Fundamentals` `Sorting` `Strings`|[Link](https://www.codewars.com/kata/580755730b5a77650500010c)
 
 
 
