@@ -337,3 +337,4 @@ This is a place where i put my CodeWars solutions.
 |[Bin to Decimal](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Bin_to_decimal)| `Fundamentals` `Binary`|[Link](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/)
 |[Template Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Template_strings)| `Fundamentals` `strings`|[Link](https://www.codewars.com/kata/55a14f75ceda999ced000048/)
 |[Get number from string](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_number_from_string)| `Regular Expressions` `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/55a14f75ceda999ced000048/)
+|[Holiday VI - Shark Pontoon](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Holiday_VI_shark_pontoon)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/57e921d8b36340f1fd000059/)
