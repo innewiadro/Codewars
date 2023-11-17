@@ -338,3 +338,4 @@ This is a place where i put my CodeWars solutions.
 |[Template Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Template_strings)| `Fundamentals` `strings`|[Link](https://www.codewars.com/kata/55a14f75ceda999ced000048/)
 |[Get number from string](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_number_from_string)| `Regular Expressions` `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/55a14f75ceda999ced000048/)
 |[Holiday VI - Shark Pontoon](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Holiday_VI_shark_pontoon)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/57e921d8b36340f1fd000059/)
+|[Count of positives / sum of negatives](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_of_positives_sum_of_negatives)| `Fundamentals` `Arrays` `Lists`|[Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/)
