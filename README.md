@@ -342,3 +342,4 @@ This is a place where i put my CodeWars solutions.
 |[Grasshopper - Check for factor](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_check_for_factor)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/)
 |[Remove First and Last Character Part Two](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_first_and_last_character_part_two)| `Fundamentals` `Arrays` `Strings`|[Link](https://www.codewars.com/kata/570597e258b58f6edc00230d/)
 |[Convert to Binary](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Convert_to_binary)| `Fundamentals` `Algorithms` `Mathematics`|[Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/)
+|[get ascii value of character](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_ascii_value_of_character)| `Fundamentals` |[Link](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/)
