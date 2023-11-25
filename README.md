@@ -211,6 +211,7 @@ This is a place where i put my CodeWars solutions.
 |[Odd-Even String Sort](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Odd-Even_string_sort)| `Fundamentals` `Sorting` `Strings`|[Link](https://www.codewars.com/kata/580755730b5a77650500010c)
 |[Maximum Triplet Sum (Array Series #7) ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_triplet_sum)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5aa1bcda373c2eb596000112)
 |[Find the vowels](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_vowels)| `Fundamentals` |[Link](https://www.codewars.com/kata/5680781b6b7c2be860000036/)
+|[Divide and Conquer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Divide_and_conquer)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eaec5608fed543d6000021/)
 
 
 
