@@ -348,3 +348,4 @@ This is a place where i put my CodeWars solutions.
 |[get ascii value of character](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_ascii_value_of_character)| `Fundamentals` |[Link](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/)
 |[pick a set of first elements](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pick_a_set_of_first_elements)| `Fundamentals` |[Link](https://www.codewars.com/kata/572b77262bedd351e9000076/)
 |[Grasshopper - Function syntax debugging](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper-function_syntax_debugging)| `Fundamentals` |[Link](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/)
+|[Correct the mistakes of the character recognition software](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Correct_the_mistakes)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/577bd026df78c19bca0002c0/)
