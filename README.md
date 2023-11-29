@@ -212,6 +212,7 @@ This is a place where i put my CodeWars solutions.
 |[Maximum Triplet Sum (Array Series #7) ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_triplet_sum)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5aa1bcda373c2eb596000112)
 |[Find the vowels](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_vowels)| `Fundamentals` |[Link](https://www.codewars.com/kata/5680781b6b7c2be860000036/)
 |[Divide and Conquer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Divide_and_conquer)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eaec5608fed543d6000021/)
+|[Sum of Minimums!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_minimums)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/)
 
 
 
