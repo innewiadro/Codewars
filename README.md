@@ -213,6 +213,8 @@ This is a place where i put my CodeWars solutions.
 |[Find the vowels](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_vowels)| `Fundamentals` |[Link](https://www.codewars.com/kata/5680781b6b7c2be860000036/)
 |[Divide and Conquer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Divide_and_conquer)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eaec5608fed543d6000021/)
 |[Sum of Minimums!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_minimums)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/)
+|[Sum of Odd Cubed Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_Odd_Cubed_Numbers)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/580dda86c40fa6c45f00028a/)
+
 
 
 
