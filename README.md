@@ -214,6 +214,7 @@ This is a place where i put my CodeWars solutions.
 |[Divide and Conquer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Divide_and_conquer)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eaec5608fed543d6000021/)
 |[Sum of Minimums!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_minimums)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/)
 |[Sum of Odd Cubed Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_Odd_Cubed_Numbers)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/580dda86c40fa6c45f00028a/)
+|[Sort by Last Char](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_by_last_char)| `Fundamentals` `Arrays` `Strings` `Sorting` |[Link](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0/train/python)
 
 
 
