@@ -356,3 +356,4 @@ This is a place where i put my CodeWars solutions.
 |[Regex count lowercase letters](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Regex_count_lowercase_letters)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56a946cd7bd95ccab2000055/)
 |[Multiple of index](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Multiple_of_index)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a34b80155519e1a00000009/)
 |[Pythagorean Triple](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pythagorean_triple)| `Fundamentals` `Algebra` `Mathematics` |[Link](https://www.codewars.com/kata/5951d30ce99cf2467e000013/)
+|[Define a card suit](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Define_a_card_suit)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a360620f28b82a711000047/)
