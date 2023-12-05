@@ -357,3 +357,4 @@ This is a place where i put my CodeWars solutions.
 |[Multiple of index](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Multiple_of_index)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a34b80155519e1a00000009/)
 |[Pythagorean Triple](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pythagorean_triple)| `Fundamentals` `Algebra` `Mathematics` |[Link](https://www.codewars.com/kata/5951d30ce99cf2467e000013/)
 |[Define a card suit](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Define_a_card_suit)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a360620f28b82a711000047/)
+|[Grasshopper - Personalized Message](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_personalized_message)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5772da22b89313a4d50012f7/)

@@ -3,4 +3,4 @@ def define_suit(card):
             "D": 'diamonds',
             'H': 'hearts',
             "S": 'spades'}
-    return suit[card[1:]]
+    return suit[card[-1]]
