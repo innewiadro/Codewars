@@ -358,3 +358,4 @@ This is a place where i put my CodeWars solutions.
 |[Pythagorean Triple](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pythagorean_triple)| `Fundamentals` `Algebra` `Mathematics` |[Link](https://www.codewars.com/kata/5951d30ce99cf2467e000013/)
 |[Define a card suit](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Define_a_card_suit)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a360620f28b82a711000047/)
 |[Grasshopper - Personalized Message](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_personalized_message)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5772da22b89313a4d50012f7/)
+|[How many stairs will Suzuki climb in 20 years?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_many_stairs_will_suzuki_climb_in_20_years)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e/)
