@@ -216,6 +216,7 @@ This is a place where i put my CodeWars solutions.
 |[Sum of Odd Cubed Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_Odd_Cubed_Numbers)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/580dda86c40fa6c45f00028a/)
 |[Sort by Last Char](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_by_last_char)| `Fundamentals` `Arrays` `Strings` `Sorting` |[Link](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0/train/python)
 |[Sum of Triangular Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_triangular_numbers)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/580878d5d27b84b64c000b51/)
+|[Find the nth Digit of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_nth_digit_of_a_number)| `Fundamentals`|[Link](https://www.codewars.com/kata/577b9960df78c19bca00007e/)
 
 
 
