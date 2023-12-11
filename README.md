@@ -218,6 +218,7 @@ This is a place where i put my CodeWars solutions.
 |[Sum of Triangular Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_triangular_numbers)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/580878d5d27b84b64c000b51/)
 |[Find the nth Digit of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_nth_digit_of_a_number)| `Fundamentals`|[Link](https://www.codewars.com/kata/577b9960df78c19bca00007e/)
 |[Strong Number (Special Numbers Series #2)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Strong_number)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/5a4d303f880385399b000001/)
+|[Tidy Number (Special Numbers Series #9)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tidy_number)| `Fundamentals` `Arrays` `Strings`|[Link](https://www.codewars.com/kata/5a87449ab1710171300000fd/)
 
 
 
