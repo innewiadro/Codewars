@@ -219,6 +219,7 @@ This is a place where i put my CodeWars solutions.
 |[Find the nth Digit of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_nth_digit_of_a_number)| `Fundamentals`|[Link](https://www.codewars.com/kata/577b9960df78c19bca00007e/)
 |[Strong Number (Special Numbers Series #2)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Strong_number)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/5a4d303f880385399b000001/)
 |[Tidy Number (Special Numbers Series #9)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tidy_number)| `Fundamentals` `Arrays` `Strings`|[Link](https://www.codewars.com/kata/5a87449ab1710171300000fd/)
+|[Simple string characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_string_characters)| `Fundamentals` |[Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/)
 
 
 
@@ -365,3 +366,4 @@ This is a place where i put my CodeWars solutions.
 |[How many stairs will Suzuki climb in 20 years?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_many_stairs_will_suzuki_climb_in_20_years)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e/)
 |[USD => CNY](https://github.com/innewiadro/Codewars/tree/master/kata_level8/USD_CNY)| `Fundamentals` |[Link](https://www.codewars.com/kata/5977618080ef220766000022/)
 |[NBA full 48 minutes average](https://github.com/innewiadro/Codewars/tree/master/kata_level8/NBA_full_48_minutes_average)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd/)
+
