@@ -366,4 +366,5 @@ This is a place where i put my CodeWars solutions.
 |[How many stairs will Suzuki climb in 20 years?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_many_stairs_will_suzuki_climb_in_20_years)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e/)
 |[USD => CNY](https://github.com/innewiadro/Codewars/tree/master/kata_level8/USD_CNY)| `Fundamentals` |[Link](https://www.codewars.com/kata/5977618080ef220766000022/)
 |[NBA full 48 minutes average](https://github.com/innewiadro/Codewars/tree/master/kata_level8/NBA_full_48_minutes_average)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd/)
+|[Formatting decimal places #0](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Formatting_decimal_places)| `Fundamentals` |[Link](https://www.codewars.com/kata/5641a03210e973055a00000d/)
 
