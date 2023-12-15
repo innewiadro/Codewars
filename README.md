@@ -220,6 +220,7 @@ This is a place where i put my CodeWars solutions.
 |[Strong Number (Special Numbers Series #2)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Strong_number)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/5a4d303f880385399b000001/)
 |[Tidy Number (Special Numbers Series #9)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tidy_number)| `Fundamentals` `Arrays` `Strings`|[Link](https://www.codewars.com/kata/5a87449ab1710171300000fd/)
 |[Simple string characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_string_characters)| `Fundamentals` |[Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/)
+|[Alternate case](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alternate_case)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a62154cf1fa5b25200031e/)
 
 
 
