@@ -221,6 +221,7 @@ This is a place where i put my CodeWars solutions.
 |[Tidy Number (Special Numbers Series #9)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tidy_number)| `Fundamentals` `Arrays` `Strings`|[Link](https://www.codewars.com/kata/5a87449ab1710171300000fd/)
 |[Simple string characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_string_characters)| `Fundamentals` |[Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/)
 |[Alternate case](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alternate_case)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a62154cf1fa5b25200031e/)
+|[Sort Out The Men From Boys](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_out_the_men_from_boys) | `Fundamentals` `Algorithms` `Sorting` |[Link](https://www.codewars.com/kata/5af15a37de4c7f223e00012d/)
 
 
 
