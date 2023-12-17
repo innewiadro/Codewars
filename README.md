@@ -369,4 +369,5 @@ This is a place where i put my CodeWars solutions.
 |[USD => CNY](https://github.com/innewiadro/Codewars/tree/master/kata_level8/USD_CNY)| `Fundamentals` |[Link](https://www.codewars.com/kata/5977618080ef220766000022/)
 |[NBA full 48 minutes average](https://github.com/innewiadro/Codewars/tree/master/kata_level8/NBA_full_48_minutes_average)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd/)
 |[Formatting decimal places #0](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Formatting_decimal_places)| `Fundamentals` |[Link](https://www.codewars.com/kata/5641a03210e973055a00000d/)
+|[Freudian translator ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Freudian_translator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5713bc89c82eff33c60009f7/)
 
