@@ -371,4 +371,5 @@ This is a place where i put my CodeWars solutions.
 |[Formatting decimal places #0](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Formatting_decimal_places)| `Fundamentals` |[Link](https://www.codewars.com/kata/5641a03210e973055a00000d/)
 |[Freudian translator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Freudian_translator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5713bc89c82eff33c60009f7/)
 |[Switch it Up!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Switch_it_up)| `Fundamentals` |[Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/)
+|[Find Multiples of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_multiples_of_a_number)| `Fundamentals` |[Link](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/)
 
