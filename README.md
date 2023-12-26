@@ -226,6 +226,7 @@ This is a place where i put my CodeWars solutions.
 |[Row Weights](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Row_weights) | `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/)
 |[Parts of a list](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Parts_of_a_list) | `Fundamentals` `Arrays` `Algorithms` `Data Structures`|[Link](https://www.codewars.com/kata/56f3a1e899b386da78000732/)
 |[Product Of Maximums Of Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Product_of_maximums_of_array) | `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a63948acadebff56f000018/)
+|[Latin Squares](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Latin_squares) | `Arrays` |[Link](https://www.codewars.com/kata/645fb55ecf8c290031b779ef/)
 
 
 
