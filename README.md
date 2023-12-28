@@ -380,4 +380,5 @@ This is a place where i put my CodeWars solutions.
 |[Find Multiples of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_multiples_of_a_number)| `Fundamentals` |[Link](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/)
 |[Tip Calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Tip_calculator)| `Fundamentals` |[Link](https://www.codewars.com/kata/56598d8076ee7a0759000087/)
 |[Evil or Odious](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Evil_or_odious)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034/)
+|[Parse float](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Parse_float)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a386117cb1f31890000039/)
 
