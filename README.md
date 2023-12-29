@@ -381,4 +381,5 @@ This is a place where i put my CodeWars solutions.
 |[Tip Calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Tip_calculator)| `Fundamentals` |[Link](https://www.codewars.com/kata/56598d8076ee7a0759000087/)
 |[Evil or Odious](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Evil_or_odious)| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034/)
 |[Parse float](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Parse_float)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a386117cb1f31890000039/)
+|[Polish alphabet](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Polish_alphabet)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/57ab2d6072292dbf7c000039/)
 
