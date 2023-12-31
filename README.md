@@ -383,4 +383,5 @@ This is a place where i put my CodeWars solutions.
 |[Parse float](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Parse_float)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a386117cb1f31890000039/)
 |[Polish alphabet](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Polish_alphabet)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/57ab2d6072292dbf7c000039/)
 |[ASCII Total](https://github.com/innewiadro/Codewars/tree/master/kata_level8/ASCII_total)| `Fundamentals` |[Link](https://www.codewars.com/kata/572b6b2772a38bc1e700007a/)
+|[Do you speak "English"?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Do_you_speak_english)| `Fundamentals` |[Link](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058/)
 
