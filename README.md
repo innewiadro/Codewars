@@ -228,6 +228,7 @@ This is a place where i put my CodeWars solutions.
 |[Product Of Maximums Of Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Product_of_maximums_of_array) | `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a63948acadebff56f000018/)
 |[Latin Squares](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Latin_squares) | `Arrays` |[Link](https://www.codewars.com/kata/645fb55ecf8c290031b779ef/)
 |[Help the Fruit Guy](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Help_the_fruit_guy) | `Arrays` `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/557af4c6169ac832300000ba/)
+|[Balanced Number (Special Numbers Series #1 )](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Balanced_number) ) | `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/5a4e3782880385ba68000018/)
 
 
 
@@ -267,9 +268,9 @@ This is a place where i put my CodeWars solutions.
 |[Return Negative](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Return_negative)| `Fundamentals` |[Link](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/)
 |[Remove an exclamation mark from the end of string](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_an_exclamation_mark_from_the_end_of_string)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57fae964d80daa229d000126)
 |[Unfinished Loop - Bug Fixing #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Unfinished_Loop_bug_fixing)| `Debugging` |[Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da/)
-| [Rock Paper Scissors!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Rock_paper_scissors)| `Fundamentals` |[Link](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)
-| [Draw stairs](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Draw_stairs)| `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
-| [Is it a palindrome?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/)
+|[Rock Paper Scissors!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Rock_paper_scissors)| `Fundamentals` |[Link](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)
+|[Draw stairs](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Draw_stairs)| `ASCII Art` `Algorithms` |[Link](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
+|[Is it a palindrome?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_Star_ladder)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/)
 |[Removing Elements](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Removing_Elements)| `Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/)
 |[Quadrants](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Quadrants)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/)
 |[Check same case](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Check_same_case)| `Fundamentals` |[Link](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/)
