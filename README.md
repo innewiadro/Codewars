@@ -385,4 +385,5 @@ This is a place where i put my CodeWars solutions.
 |[Polish alphabet](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Polish_alphabet)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/57ab2d6072292dbf7c000039/)
 |[ASCII Total](https://github.com/innewiadro/Codewars/tree/master/kata_level8/ASCII_total)| `Fundamentals` |[Link](https://www.codewars.com/kata/572b6b2772a38bc1e700007a/)
 |[Do you speak "English"?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Do_you_speak_english)| `Fundamentals` |[Link](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058/)
+|[Name on billboard](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Name_on_billboard)| `Fundamentals` |[Link](https://www.codewars.com/kata/570e8ec4127ad143660001fd/t)
 
