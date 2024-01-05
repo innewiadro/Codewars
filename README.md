@@ -388,4 +388,5 @@ This is a place where i put my CodeWars solutions.
 |[Name on billboard](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Name_on_billboard)| `Fundamentals` |[Link](https://www.codewars.com/kata/570e8ec4127ad143660001fd)
 |[What's the real floor?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Whats_the_real_floor)| `Fundamentals` |[Link](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
 |[Find out whether the shape is a cube](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_out_whether_the_shape_is_a_cube)| `Fundamentals` |[Link](https://www.codewars.com/kata/58d248c7012397a81800005c/)
+|[get character from ASCII Value](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_character_from_ASCiI_value)| `Fundamentals` |[Link](https://www.codewars.com/kata/55ad04714f0b468e8200001c/)
 
