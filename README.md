@@ -1,5 +1,5 @@
 # CodeWars Python Solutions
-This is a place where i put my CodeWars solutions.
+This is a place where I put my CodeWars solutions.
 
 ## Level 4 Katas
 | Katas | Subject | CW Link
@@ -32,6 +32,7 @@ This is a place where i put my CodeWars solutions.
 |[Not very secure](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Not_very_secure)| `Regular Expressions` `Strings` |[Link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/)
 |[Scramblies](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Scramblies)| `Fundamentals` `Sorting` `Algorithms` |[Link](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/)
 |[First non-repeating character](https://github.com/innewiadro/Codewars/tree/master/kata_level5/First_non-repeating_character)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
+|[RGB To Hex Conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level5/RGB_to_hex_conversion)|  `Algorithms` |[Link](https://www.codewars.com/kata/513e08acc600c94f01000001/)
 
 
 
