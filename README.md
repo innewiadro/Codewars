@@ -392,4 +392,5 @@ This is a place where I put my CodeWars solutions.
 |[Find out whether the shape is a cube](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_out_whether_the_shape_is_a_cube)| `Fundamentals` |[Link](https://www.codewars.com/kata/58d248c7012397a81800005c/)
 |[get character from ASCII Value](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_character_from_ASCiI_value)| `Fundamentals` |[Link](https://www.codewars.com/kata/55ad04714f0b468e8200001c/)
 |[UEFA EURO 2016](https://github.com/innewiadro/Codewars/tree/master/kata_level8/UEFA_EURO_2016)| `Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57613fb1033d766171000d60/)
+|[All Star Code Challenge #18](https://github.com/innewiadro/Codewars/tree/master/kata_level8/All_star_code_challenge_18)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5865918c6b569962950002a1/)
 
