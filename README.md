@@ -393,5 +393,6 @@ This is a place where I put my CodeWars solutions.
 |[get character from ASCII Value](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_character_from_ASCiI_value)| `Fundamentals` |[Link](https://www.codewars.com/kata/55ad04714f0b468e8200001c/)
 |[UEFA EURO 2016](https://github.com/innewiadro/Codewars/tree/master/kata_level8/UEFA_EURO_2016)| `Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57613fb1033d766171000d60/)
 |[All Star Code Challenge #18](https://github.com/innewiadro/Codewars/tree/master/kata_level8/All_star_code_challenge_18)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5865918c6b569962950002a1/)
-|[Take the Derivative](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Take_the_derivative)| `Fundamentals` |[Link](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/t)
+|[Take the Derivative](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Take_the_derivative)| `Fundamentals` |[Link](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/)
+|[OOP: Object Oriented Piracy ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/OOP_object_oriented_piracy)| `Fundamentals` `Object-oriented Programming` |[Link](https://www.codewars.com/kata/54fe05c4762e2e3047000add/)
 
