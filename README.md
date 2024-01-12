@@ -395,4 +395,5 @@ This is a place where I put my CodeWars solutions.
 |[All Star Code Challenge #18](https://github.com/innewiadro/Codewars/tree/master/kata_level8/All_star_code_challenge_18)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5865918c6b569962950002a1/)
 |[Take the Derivative](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Take_the_derivative)| `Fundamentals` |[Link](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/)
 |[OOP: Object Oriented Piracy ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/OOP_object_oriented_piracy)| `Fundamentals` `Object-oriented Programming` |[Link](https://www.codewars.com/kata/54fe05c4762e2e3047000add/)
+|[Is there a vowel in there?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_there_a_vowel_in_there)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57cff961eca260b71900008f/)
 
