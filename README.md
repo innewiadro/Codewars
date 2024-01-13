@@ -4,8 +4,9 @@ This is a place where I put my CodeWars solutions.
 ## Level 4 Katas
 | Katas | Subject | CW Link
 | --- | --- | ---|
-| [Snail](https://github.com/innewiadro/Codewars/tree/master/kata_level4/snail)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
-| [Human readable duration format](https://github.com/innewiadro/Codewars/tree/master/kata_level4/Human_readable_duration_format)| `Strings` `Date Time` `Algorithms` |[Link](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python)
+|[Snail](https://github.com/innewiadro/Codewars/tree/master/kata_level4/snail)| `Arrays` `Algorithms`|[Link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
+|[Human readable duration format](https://github.com/innewiadro/Codewars/tree/master/kata_level4/Human_readable_duration_format)| `Strings` `Date Time` `Algorithms` |[Link](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python)
+|[Range Extraction](https://github.com/innewiadro/Codewars/tree/master/kata_level4/Range_extraction)| `Algorithms` |[Link](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/)
 
 ## Level 5 Katas
 | Katas | Subject | CW Link
