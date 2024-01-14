@@ -232,7 +232,7 @@ This is a place where I put my CodeWars solutions.
 |[Help the Fruit Guy](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Help_the_fruit_guy) | `Arrays` `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/557af4c6169ac832300000ba/)
 |[Balanced Number (Special Numbers Series #1 )](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Balanced_number) ) | `Mathematics` `Fundamentals`|[Link](https://www.codewars.com/kata/5a4e3782880385ba68000018/)
 |[Bumps in the Road](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Bumps_in_the_road) ) | `Strings` `Fundamentals`|[Link](https://www.codewars.com/kata/57ed30dde7728215300005fa/)
-
+|[Simple consecutive pairs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_consecutive_pairs)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a3e1319b6486ac96f000049/)
 
 
 
