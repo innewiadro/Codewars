@@ -398,4 +398,5 @@ This is a place where I put my CodeWars solutions.
 |[OOP: Object Oriented Piracy ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/OOP_object_oriented_piracy)| `Fundamentals` `Object-oriented Programming` |[Link](https://www.codewars.com/kata/54fe05c4762e2e3047000add/)
 |[Is there a vowel in there?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_there_a_vowel_in_there)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57cff961eca260b71900008f/)
 |[Crash Override](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Crash_override)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f/)
+|[Sum of differences in array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_of_differences_in_array)| `Fundamentals` `Strings`|[Link]()
 
