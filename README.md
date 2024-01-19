@@ -400,4 +400,5 @@ This is a place where I put my CodeWars solutions.
 |[Is there a vowel in there?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_there_a_vowel_in_there)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57cff961eca260b71900008f/)
 |[Crash Override](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Crash_override)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f/)
 |[Sum of differences in array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_of_differences_in_array)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)
+|[Calculate Price Excluding VAT](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Calculate_price_excluding_VAT)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/)
 
