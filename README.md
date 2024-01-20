@@ -99,7 +99,7 @@ This is a place where I put my CodeWars solutions.
 |[Roman Numerals Decoder](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Roman_numerals_decoder)| `Algorithms` |[Link](https://www.codewars.com/kata/51b6249c4612257ac0000005/)
 |[CamelCase Method](https://github.com/innewiadro/Codewars/tree/master/kata_level6/CamelCase_Method)| `Fundamentals` `Algorithms` `Strings` |[Link](https://www.codewars.com/kata/587731fda577b3d1b0001196)
 |[Take a Ten Minutes Walk](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Take_a_Ten_Minutes_Walk)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/)
-
+|[New Cashier Does Not Know About Space or Shift ](https://github.com/innewiadro/Codewars/tree/master/kata_level6/New_cashier_does_not_know_about_space_or_shift )| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/)
 
 
 
