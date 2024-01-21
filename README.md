@@ -100,7 +100,7 @@ This is a place where I put my CodeWars solutions.
 |[CamelCase Method](https://github.com/innewiadro/Codewars/tree/master/kata_level6/CamelCase_Method)| `Fundamentals` `Algorithms` `Strings` |[Link](https://www.codewars.com/kata/587731fda577b3d1b0001196)
 |[Take a Ten Minutes Walk](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Take_a_Ten_Minutes_Walk)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/)
 |[New Cashier Does Not Know About Space or Shift ](https://github.com/innewiadro/Codewars/tree/master/kata_level6/New_cashier_does_not_know_about_space_or_shift )| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/)
-
+|
 
 
 
@@ -401,4 +401,4 @@ This is a place where I put my CodeWars solutions.
 |[Crash Override](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Crash_override)| `Fundamentals` `Strings`|[Link](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f/)
 |[Sum of differences in array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sum_of_differences_in_array)| `Fundamentals` `Arrays`|[Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)
 |[Calculate Price Excluding VAT](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Calculate_price_excluding_VAT)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/)
-
+|[I love you, a little , a lot, passionately ... not at all](https://github.com/innewiadro/Codewars/tree/master/kata_level8/I_love_you_a_little)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)
