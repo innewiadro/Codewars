@@ -403,3 +403,4 @@ This is a place where I put my CodeWars solutions.
 |[Calculate Price Excluding VAT](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Calculate_price_excluding_VAT)| `Fundamentals` `Mathematics`|[Link](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/)
 |[I love you, a little , a lot, passionately ... not at all](https://github.com/innewiadro/Codewars/tree/master/kata_level8/I_love_you_a_little)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)
 |[Localize The Barycenter of a Triangle](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Localize_the_barycenter_of_a_triangle)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/5601c5f6ba804403c7000004/)
+|[Remove exclamation marks](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_exclamation_marks)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/)
