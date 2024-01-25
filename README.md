@@ -405,3 +405,4 @@ This is a place where I put my CodeWars solutions.
 |[Localize The Barycenter of a Triangle](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Localize_the_barycenter_of_a_triangle)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/5601c5f6ba804403c7000004/)
 |[Remove exclamation marks](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_exclamation_marks)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/)
 |[How many lightsabers do you own?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_many_lightsabers_do_you_own)| `Fundamentals` |[Link](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/)
+|[Training JS #18](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Training_JS_18)| `Fundamentals` `Tutorials` |[Link](https://www.codewars.com/kata/57280481e8118511f7000ffa/)
