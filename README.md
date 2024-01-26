@@ -235,6 +235,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple consecutive pairs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_consecutive_pairs)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a3e1319b6486ac96f000049/)
 |[esreveR](https://github.com/innewiadro/Codewars/tree/master/kata_level7/esreveR)| `Functional Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/5413759479ba273f8100003d/)
 |[Disarium Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Disarium_number )| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)
+|[Folding your way to the moon](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Folding_your_way_to_the_moon)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/58f0ba42e89aa6158400000e/)
 
 
 
