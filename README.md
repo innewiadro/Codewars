@@ -407,3 +407,4 @@ This is a place where I put my CodeWars solutions.
 |[Remove exclamation marks](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_exclamation_marks)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/)
 |[How many lightsabers do you own?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_many_lightsabers_do_you_own)| `Fundamentals` |[Link](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/)
 |[Training JS #18](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Training_JS_18)| `Fundamentals` `Tutorials` |[Link](https://www.codewars.com/kata/57280481e8118511f7000ffa/)
+|[Grasshopper - Function syntax debugging](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_function_syntax_debugging)| `Fundamentals` |[Link](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/)
