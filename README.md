@@ -409,3 +409,4 @@ This is a place where I put my CodeWars solutions.
 |[Training JS #18](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Training_JS_18)| `Fundamentals` `Tutorials` |[Link](https://www.codewars.com/kata/57280481e8118511f7000ffa/)
 |[Grasshopper - Function syntax debugging](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_function_syntax_debugging)| `Fundamentals` |[Link](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/)
 |[Who is going to pay for the wall?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Who_is_going_to_pay_for_the_wall)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7/)
+|[Fix your code before the garden dies ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fix_your_code_before_the_garden_dies)| `Fundamentals` `Debugging` |[Link](https://www.codewars.com/kata/57158fb92ad763bb180004e7/)
