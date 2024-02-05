@@ -412,3 +412,4 @@ This is a place where I put my CodeWars solutions.
 |[Fix your code before the garden dies ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fix_your_code_before_the_garden_dies)| `Fundamentals` `Debugging` |[Link](https://www.codewars.com/kata/57158fb92ad763bb180004e7/)
 |[The Feast of Many Beasts](https://github.com/innewiadro/Codewars/tree/master/kata_level8/The_feast_of_many_beasts)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5aa736a455f906981800360d/)
 |[Ensure question](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Ensure_question)| `Fundamentals` |[Link](https://www.codewars.com/kata/5866fc43395d9138a7000006/)
+|[Grasshopper - Terminal Game #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_terminal_game_#1)| `Fundamentals` |[Link](https://www.codewars.com/kata/55e8aba23d399a59500000ce/)
