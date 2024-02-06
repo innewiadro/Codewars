@@ -413,3 +413,4 @@ This is a place where I put my CodeWars solutions.
 |[The Feast of Many Beasts](https://github.com/innewiadro/Codewars/tree/master/kata_level8/The_feast_of_many_beasts)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5aa736a455f906981800360d/)
 |[Ensure question](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Ensure_question)| `Fundamentals` |[Link](https://www.codewars.com/kata/5866fc43395d9138a7000006/)
 |[Grasshopper - Terminal Game #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_terminal_game_#1)| `Fundamentals` |[Link](https://www.codewars.com/kata/55e8aba23d399a59500000ce/)
+|[Area or Perimeter](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Area_or_perimeter)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/)
