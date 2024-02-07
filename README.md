@@ -414,3 +414,4 @@ This is a place where I put my CodeWars solutions.
 |[Ensure question](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Ensure_question)| `Fundamentals` |[Link](https://www.codewars.com/kata/5866fc43395d9138a7000006/)
 |[Grasshopper - Terminal Game #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_terminal_game_#1)| `Fundamentals` |[Link](https://www.codewars.com/kata/55e8aba23d399a59500000ce/)
 |[Area or Perimeter](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Area_or_perimeter)| `Fundamentals` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/)
+|[Age Range Compatibility Equation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Age_range_compatibility_equation)| `Fundamentals` |[Link](https://www.codewars.com/kata/5803956ddb07c5c74200144e/)
