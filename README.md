@@ -101,6 +101,7 @@ This is a place where I put my CodeWars solutions.
 |[Take a Ten Minutes Walk](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Take_a_Ten_Minutes_Walk)| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/)
 |[New Cashier Does Not Know About Space or Shift ](https://github.com/innewiadro/Codewars/tree/master/kata_level6/New_cashier_does_not_know_about_space_or_shift )| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/)
 |[Bouncing Balls](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Bouncing_balls)| `Puzzles` `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/)
+|[Consonant value](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consonant_value)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59c633e7dcc4053512000073/)
 
 
 
@@ -417,4 +418,5 @@ This is a place where I put my CodeWars solutions.
 |[Age Range Compatibility Equation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Age_range_compatibility_equation)| `Fundamentals` |[Link](https://www.codewars.com/kata/5803956ddb07c5c74200144e/)
 |[Grasshopper - Combine strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_combine_strings)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f73f66d160f1f1db000059/)
 |[Enumerable Magic #1 - True for All](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Enumerable_magic_#1_-_true_for_all)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54598d1fcbae2ae05200112c/)
+
 
