@@ -419,3 +419,4 @@ This is a place where I put my CodeWars solutions.
 |[Grasshopper - Combine strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_combine_strings)| `Fundamentals` |[Link](https://www.codewars.com/kata/55f73f66d160f1f1db000059/)
 |[Enumerable Magic #1 - True for All](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Enumerable_magic_#1_-_true_for_all)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/54598d1fcbae2ae05200112c/)
 |[Parse nice int from char problem](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Parse_nice_int_from_char_problem)| `Fundamentals` |[Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/)
+|[Remove the time](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_the_time)| `Date time` `Parsing` `Fundamentals` |[Link](https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e/)
