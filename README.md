@@ -240,6 +240,7 @@ This is a place where I put my CodeWars solutions.
 |[Indexed capitalization](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Indexed_capitalization)| `Fundametals` |[Link](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/)
 |[The old switcheroo](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_old_switcheroo)| `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/55d410c492e6ed767000004f/)
 |[Longest vowel chain](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Longest_vowel_chain)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/)
+|[Changing letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Changing_letters)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5831c204a31721e2ae000294/)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
@@ -421,3 +422,4 @@ This is a place where I put my CodeWars solutions.
 |[Parse nice int from char problem](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Parse_nice_int_from_char_problem)| `Fundamentals` |[Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/)
 |[Remove the time](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_the_time)| `Date time` `Parsing` `Fundamentals` |[Link](https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e/)
 |[Days in the year](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Days_in_the_year)| `Date Time` `Fundamentals` |[Link](https://www.codewars.com/kata/56d6c333c9ae3fc32800070f/)
+
