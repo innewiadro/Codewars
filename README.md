@@ -422,4 +422,5 @@ This is a place where I put my CodeWars solutions.
 |[Parse nice int from char problem](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Parse_nice_int_from_char_problem)| `Fundamentals` |[Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/)
 |[Remove the time](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Remove_the_time)| `Date time` `Parsing` `Fundamentals` |[Link](https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e/)
 |[Days in the year](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Days_in_the_year)| `Date Time` `Fundamentals` |[Link](https://www.codewars.com/kata/56d6c333c9ae3fc32800070f/)
+|[For Twins 1 Types](https://github.com/innewiadro/Codewars/tree/master/kata_level8/For_twins_1_types)| `Fundamentals` |[Link](https://www.codewars.com/kata/59c1302ecb7fb48757000013/)
 
