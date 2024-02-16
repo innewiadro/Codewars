@@ -241,6 +241,7 @@ This is a place where I put my CodeWars solutions.
 |[The old switcheroo](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_old_switcheroo)| `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/55d410c492e6ed767000004f/)
 |[Longest vowel chain](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Longest_vowel_chain)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/)
 |[Changing letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Changing_letters)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5831c204a31721e2ae000294/)
+|[Split In Parts](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Split_in_parts)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5650ab06d11d675371000003/)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
