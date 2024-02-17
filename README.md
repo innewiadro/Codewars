@@ -242,6 +242,7 @@ This is a place where I put my CodeWars solutions.
 |[Longest vowel chain](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Longest_vowel_chain)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/)
 |[Changing letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Changing_letters)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5831c204a31721e2ae000294/)
 |[Split In Parts](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Split_in_parts)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5650ab06d11d675371000003/)
+|[Sort the Gift Code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_the_gift_code)| `Sorting` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
