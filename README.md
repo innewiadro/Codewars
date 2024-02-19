@@ -243,6 +243,7 @@ This is a place where I put my CodeWars solutions.
 |[Changing letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Changing_letters)| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5831c204a31721e2ae000294/)
 |[Split In Parts](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Split_in_parts)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5650ab06d11d675371000003/)
 |[Sort the Gift Code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_the_gift_code)| `Sorting` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/)
+|[Jumping Number (Special Numbers Series #4)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jumping_number_(special_numbers_series_#4))| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a54e796b3bfa8932c0000ed)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
