@@ -427,4 +427,4 @@ This is a place where I put my CodeWars solutions.
 |[Days in the year](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Days_in_the_year)| `Date Time` `Fundamentals` |[Link](https://www.codewars.com/kata/56d6c333c9ae3fc32800070f/)
 |[For Twins 1 Types](https://github.com/innewiadro/Codewars/tree/master/kata_level8/For_twins_1_types)| `Fundamentals` |[Link](https://www.codewars.com/kata/59c1302ecb7fb48757000013/)
 |[Drink about](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Drink_about)| `Fundamentals` |[Link](https://www.codewars.com/kata/56170e844da7c6f647000063/)
-
+|[Multiply the number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Multiply_the_number)| `Fundamentals` `Debugging` |[Link](https://www.codewars.com/kata/5708f682c69b48047b000e07)
