@@ -430,3 +430,4 @@ This is a place where I put my CodeWars solutions.
 |[Multiply the number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Multiply_the_number)| `Fundamentals` `Debugging` |[Link](https://www.codewars.com/kata/5708f682c69b48047b000e07)
 |[Logical calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Logical_calculator)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57096af70dad013aa200007b)
 |[Regexp Basics - is it a digit](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Regexp_basics_-_is_it_a_digit)| `Fundamentals` |[Link](https://www.codewars.com/kata/567bf4f7ee34510f69000032)
+|[Exclamation marks series #4](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclamation_marks_series_#4)| `Fundamentals` |[Link](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0)
