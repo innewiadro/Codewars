@@ -34,6 +34,7 @@ This is a place where I put my CodeWars solutions.
 |[Scramblies](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Scramblies)| `Fundamentals` `Sorting` `Algorithms` |[Link](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/)
 |[First non-repeating character](https://github.com/innewiadro/Codewars/tree/master/kata_level5/First_non-repeating_character)| `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
 |[RGB To Hex Conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level5/RGB_to_hex_conversion)|  `Algorithms` |[Link](https://www.codewars.com/kata/513e08acc600c94f01000001/)
+|[Product of consecutive Fib numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Product_of_consecutive_fib_numbers)| `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 
 
 
