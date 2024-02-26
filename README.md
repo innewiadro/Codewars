@@ -433,3 +433,4 @@ This is a place where I put my CodeWars solutions.
 |[Regexp Basics - is it a digit](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Regexp_basics_-_is_it_a_digit)| `Fundamentals` |[Link](https://www.codewars.com/kata/567bf4f7ee34510f69000032)
 |[Exclamation marks series #4](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Exclamation_marks_series_#4)| `Fundamentals` |[Link](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0)
 |[easy logs](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Easy_logs)| `Algorithms` |[Link](https://www.codewars.com/kata/5b68c7029756802aa2000176)
+|[Is your period late](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_your_period_late)| `Fundamentals` `Date Time` |[Link](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1)
