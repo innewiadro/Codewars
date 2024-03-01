@@ -246,6 +246,8 @@ This is a place where I put my CodeWars solutions.
 |[Sort the Gift Code](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_the_gift_code)| `Sorting` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/)
 |[Jumping Number (Special Numbers Series #4)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jumping_number_(special_numbers_series_#4))| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a54e796b3bfa8932c0000ed)
 |[Product Array (Array Series #5)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Product_array_(array_series_#5))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a905c2157c562994900009d)
+|[Maximum Gap (Array Series #4)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_gap_(array_series_#4))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a7893ef0025e9eb50000013)
+
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
