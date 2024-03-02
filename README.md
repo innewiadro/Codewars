@@ -247,6 +247,7 @@ This is a place where I put my CodeWars solutions.
 |[Jumping Number (Special Numbers Series #4)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jumping_number_(special_numbers_series_#4))| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a54e796b3bfa8932c0000ed)
 |[Product Array (Array Series #5)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Product_array_(array_series_#5))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a905c2157c562994900009d)
 |[Maximum Gap (Array Series #4)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_gap_(array_series_#4))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a7893ef0025e9eb50000013)
+|[How many arguments](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_arguments)| `Fundamentals` |[Link](https://www.codewars.com/kata/5c44b0b200ce187106452139)
 
 
 ## Level 8 Katas
