@@ -103,6 +103,7 @@ This is a place where I put my CodeWars solutions.
 |[New Cashier Does Not Know About Space or Shift ](https://github.com/innewiadro/Codewars/tree/master/kata_level6/New_cashier_does_not_know_about_space_or_shift )| `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/)
 |[Bouncing Balls](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Bouncing_balls)| `Puzzles` `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/)
 |[Consonant value](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consonant_value)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59c633e7dcc4053512000073/)
+|[SevenAte9](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sevenate9)| `Logic ` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/559f44187fa851efad000087)
 
 
 
