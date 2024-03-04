@@ -441,3 +441,4 @@ This is a place where I put my CodeWars solutions.
 |[Is your period late](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_your_period_late)| `Fundamentals` `Date Time` |[Link](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1)
 |[Holiday VIII - Duty Free](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Holiday_viii_-_duty_free)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
 |[Thinkful - Number Drills Blue and red marbles](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Thinkful_-_number_drills_blue_and_red_marbles)| `Fundamentals` `Probability` |[Link](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b)
+|[8kyu interpreters HQ9+](https://github.com/innewiadro/Codewars/tree/master/kata_level8/8kyu_interpreters_hq9+)| `Fundamentals` |[Link](https://www.codewars.com/kata/591588d49f4056e13f000001)
