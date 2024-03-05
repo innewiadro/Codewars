@@ -249,6 +249,7 @@ This is a place where I put my CodeWars solutions.
 |[Product Array (Array Series #5)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Product_array_(array_series_#5))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a905c2157c562994900009d)
 |[Maximum Gap (Array Series #4)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maximum_gap_(array_series_#4))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a7893ef0025e9eb50000013)
 |[How many arguments](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_arguments)| `Fundamentals` |[Link](https://www.codewars.com/kata/5c44b0b200ce187106452139)
+|[String Merge](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_merge)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/597bb84522bc93b71e00007e)
 
 
 ## Level 8 Katas
