@@ -443,3 +443,4 @@ This is a place where I put my CodeWars solutions.
 |[Holiday VIII - Duty Free](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Holiday_viii_-_duty_free)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
 |[Thinkful - Number Drills Blue and red marbles](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Thinkful_-_number_drills_blue_and_red_marbles)| `Fundamentals` `Probability` |[Link](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b)
 |[8kyu interpreters HQ9+](https://github.com/innewiadro/Codewars/tree/master/kata_level8/8kyu_interpreters_hq9+)| `Fundamentals` |[Link](https://www.codewars.com/kata/591588d49f4056e13f000001)
+|[Expressions Matter](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Expressions_matter)| `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)
