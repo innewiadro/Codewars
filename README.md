@@ -447,3 +447,4 @@ This is a place where I put my CodeWars solutions.
 |[8kyu interpreters HQ9+](https://github.com/innewiadro/Codewars/tree/master/kata_level8/8kyu_interpreters_hq9+)| `Fundamentals` |[Link](https://www.codewars.com/kata/591588d49f4056e13f000001)
 |[Expressions Matter](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Expressions_matter)| `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)
 |[Array plus array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Array_plus_array)| `Fundamentals` `Arrays` `Debugging` |[Link](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
+|[Get the mean of an array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_the_mean_of_an_array)| `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/563e320cee5dddcf77000158)
