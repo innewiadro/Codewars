@@ -253,7 +253,7 @@ This is a place where I put my CodeWars solutions.
 |[How many arguments](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_arguments)| `Fundamentals` |[Link](https://www.codewars.com/kata/5c44b0b200ce187106452139)
 |[String Merge](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_merge)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/597bb84522bc93b71e00007e)
 |[Squares sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Squares_sequence)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5546180ca783b6d2d5000062)
-
+|[Digits explosion](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digits_explosion)| `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/585b1fafe08bae9988000314)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
