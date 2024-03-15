@@ -106,6 +106,7 @@ This is a place where I put my CodeWars solutions.
 |[Consonant value](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consonant_value)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59c633e7dcc4053512000073/)
 |[SevenAte9](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sevenate9)| `Logic ` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/559f44187fa851efad000087)
 |[Reverse polish notation calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Reverse_polish_notation_calculator)| `Algorithms` `Mathematics` `Interpreters` `Parsing` `Strings` |[Link](https://www.codewars.com/kata/52f78966747862fc9a0009ae)
+|[Word a10n (abbreviation)](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Word_a10n_(abbreviation))| ‘Strings’ ‘Fundamentals’ |[Link](https://www.codewars.com/kata/5375f921003bf62192000746)
 
 
 
