@@ -255,7 +255,7 @@ This is a place where I put my CodeWars solutions.
 |[String Merge](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_merge)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/597bb84522bc93b71e00007e)
 |[Squares sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Squares_sequence)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5546180ca783b6d2d5000062)
 |[Digits explosion](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digits_explosion)| `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/585b1fafe08bae9988000314)
-
+|[Substituting Variables Into Strings Padded Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Substituting_variables_into_strings_padded_numbers)| ‘Strings’ ‘Fundamentals’ |[Link](https://www.codewars.com/kata/51c89385ee245d7ddf000001)
 ## Level 8 Katas
 | Katas | Subject | CW Link
 | --- | --- | ---|
