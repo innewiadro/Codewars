@@ -456,3 +456,4 @@ This is a place where I put my CodeWars solutions.
 |[Plural](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Plural)| `Fundamentals` |[Link](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
 |[L1 Set Alarm](https://github.com/innewiadro/Codewars/tree/master/kata_level8/L1_set_alarm)| `Fundamentals` `Logic` |[Link](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
 |[Contamination #1 -String-](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Contamination_#1_-string-)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/596fba44963025c878000039)
+|[Compare within margin](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Compare_within_margin)| `Fundamentals` `Logic` |[Link](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
