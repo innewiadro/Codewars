@@ -259,6 +259,7 @@ This is a place where I put my CodeWars solutions.
 |[Substituting Variables Into Strings Padded Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Substituting_variables_into_strings_padded_numbers)| ‘Strings’ ‘Fundamentals’ |[Link](https://www.codewars.com/kata/51c89385ee245d7ddf000001)
 |[Nth Smallest Element (Array Series #4)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nth_smallest_element_(array_series_#4))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)
 |[Difference Of Squares](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Difference_of_squares)| `Fundamentals` |[Link](https://www.codewars.com/kata/558f9f51e85b46e9fa000025)
+|[Digital cypher](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digital_cypher)| `Fundamentals` `Ciphers` `Cryptography` |[Link](https://www.codewars.com/kata/592e830e043b99888600002d)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
