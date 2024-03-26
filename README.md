@@ -262,6 +262,7 @@ This is a place where I put my CodeWars solutions.
 |[Digital cypher](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digital_cypher)| `Fundamentals` `Ciphers` `Cryptography` |[Link](https://www.codewars.com/kata/592e830e043b99888600002d)
 |[Alphabet symmetry](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabet_symmetry)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)
 |[Cat and Mouse - Easy Version](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cat_and_mouse_-_easy_version)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
+|[Basic Sequence Practice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Basic_sequence_practice)| `Fundamentals` |[Link](https://www.codewars.com/kata/5436f26c4e3d6c40e5000282)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
