@@ -264,6 +264,7 @@ This is a place where I put my CodeWars solutions.
 |[Cat and Mouse - Easy Version](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cat_and_mouse_-_easy_version)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
 |[Basic Sequence Practice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Basic_sequence_practice)| `Fundamentals` |[Link](https://www.codewars.com/kata/5436f26c4e3d6c40e5000282)
 |[Holiday III - Fire on the boat](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Holiday_iii_-_fire_on_the_boat)| `Fundamentals` `Arrays` `Strings` |[Link](https://www.codewars.com/kata/57e8fba2f11c647abc000944)
+|[Return String of First Characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_string_of_first_characters)| `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/5639bdcef2f9b06ce800005b)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
