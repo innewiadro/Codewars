@@ -467,3 +467,4 @@ This is a place where I put my CodeWars solutions.
 |[Compare within margin](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Compare_within_margin)| `Fundamentals` `Logic` |[Link](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
 |[CSV representation of array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Csv_representation_of_array)| `Fundamentals` `Arrays` `Strings` |[Link](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
 |[Beginner Series #4 Cockroach](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Beginner_series_#4_cockroach)| `Fundamentals` |[Link](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6)
+|[Merging sorted integer arrays (without duplicates)](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Merging_sorted_integer_arrays_(without_duplicates))| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/573f5c61e7752709df0005d2)
