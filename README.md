@@ -266,6 +266,7 @@ This is a place where I put my CodeWars solutions.
 |[Holiday III - Fire on the boat](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Holiday_iii_-_fire_on_the_boat)| `Fundamentals` `Arrays` `Strings` |[Link](https://www.codewars.com/kata/57e8fba2f11c647abc000944)
 |[Return String of First Characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_string_of_first_characters)| `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/5639bdcef2f9b06ce800005b)
 |[ToLeetSpeak](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Toleetspeak)| `Fundamentals` |[Link](https://www.codewars.com/kata/57c1ab3949324c321600013f)
+|[Find min and max](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_min_and_max)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
