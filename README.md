@@ -267,6 +267,7 @@ This is a place where I put my CodeWars solutions.
 |[Return String of First Characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_string_of_first_characters)| `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/5639bdcef2f9b06ce800005b)
 |[ToLeetSpeak](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Toleetspeak)| `Fundamentals` |[Link](https://www.codewars.com/kata/57c1ab3949324c321600013f)
 |[Find min and max](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_min_and_max)| `Fundamentals` |[Link](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130)
+|[Largest 5 digit number in a series](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_5_digit_number_in_a_series)| `Algorithms` |[Link](https://www.codewars.com/kata/51675d17e0c1bed195000001)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
