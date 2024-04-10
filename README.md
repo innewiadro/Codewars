@@ -272,6 +272,7 @@ This is a place where I put my CodeWars solutions.
 |[Numbers to Letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_to_letters)| `Fundamentals ` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57ebaa8f7b45ef590c00000c)
 |[Sum of all arguments](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_all_arguments)| `Fundamentals` |[Link](https://www.codewars.com/kata/540c33513b6532cd58000259)
 |[Unique string characters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Unique_string_characters)| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5a262cfb8f27f217f700000b)
+|[Basic Math (Add or Subtract)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Basic_math_(add_or_subtract))| `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5809b62808ad92e31b000031)
 
 
 ## Level 8 Katas
