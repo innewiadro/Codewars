@@ -479,3 +479,4 @@ This is a place where I put my CodeWars solutions.
 |[Quadratic Coefficients Solver](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Quadratic_coefficients_solver)| `Fundamentals` `Mathematics` `Algebra` |[Link](https://www.codewars.com/kata/5d59576768ba810001f1f8d6)
 |[Alan Partridge II - Apple Turnover](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Alan_partridge_ii_-_apple_turnover)| `Fundamentals` `Strings` `Mathematics` |[Link](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
 |[Did she say hallo](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Did_she_say_hallo)| `Fundamentals` |[Link](https://www.codewars.com/kata/56a4addbfd4a55694100001f)
+|[Well of Ideas - Easy Version](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Well_of_ideas_-_easy_version)| `Fundamentals` `Arrays` `Strings` `Refactoring` |[Link](https://www.codewars.com/kata/57f222ce69e09c3630000212)
