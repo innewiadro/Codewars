@@ -481,3 +481,4 @@ This is a place where I put my CodeWars solutions.
 |[Alan Partridge II - Apple Turnover](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Alan_partridge_ii_-_apple_turnover)| `Fundamentals` `Strings` `Mathematics` |[Link](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
 |[Did she say hallo](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Did_she_say_hallo)| `Fundamentals` |[Link](https://www.codewars.com/kata/56a4addbfd4a55694100001f)
 |[Well of Ideas - Easy Version](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Well_of_ideas_-_easy_version)| `Fundamentals` `Arrays` `Strings` `Refactoring` |[Link](https://www.codewars.com/kata/57f222ce69e09c3630000212)
+|[Do I get a bonus](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Do_i_get_a_bonus)| `Strings` `Logic` |[Link](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
