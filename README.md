@@ -277,6 +277,7 @@ This is a place where I put my CodeWars solutions.
 |[Find the lucky numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_lucky_numbers)| `Fundamentals` |[Link](https://www.codewars.com/kata/580435ab150cca22650001fb)
 |[Automorphic Number (Special Numbers Series #6)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Automorphic_number_(special_numbers_series_#6))| `Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5a58d889880385c2f40000aa)
 |[Smallest value of an array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Smallest_value_of_an_array)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
+|[Minimum Steps (Array Series #6)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minimum_steps_(array_series_#6))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a91a7c5fd8c061367000002)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
