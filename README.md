@@ -279,6 +279,7 @@ This is a place where I put my CodeWars solutions.
 |[Smallest value of an array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Smallest_value_of_an_array)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
 |[Minimum Steps (Array Series #6)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minimum_steps_(array_series_#6))| `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a91a7c5fd8c061367000002)
 |[Valid Spacing](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Valid_spacing)| `Fundamentals` |[Link](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8)
+|[Dictionary from two lists](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dictionary_from_two_lists)| `Fundamentals` |[Link](https://www.codewars.com/kata/5533c2a50c4fea6832000101)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
