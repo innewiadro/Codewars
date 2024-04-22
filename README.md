@@ -489,3 +489,4 @@ This is a place where I put my CodeWars solutions.
 |[Do I get a bonus](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Do_i_get_a_bonus)| `Strings` `Logic` |[Link](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 |[Grasshopper - Messi Goals](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_messi_goals)| `Fundamentals` |[Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)
 |[Flick Switch](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Flick_switch)| `Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
+|[Filter out the geese](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Filter_out_the_geese)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
