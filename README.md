@@ -281,6 +281,7 @@ This is a place where I put my CodeWars solutions.
 |[Valid Spacing](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Valid_spacing)| `Fundamentals` |[Link](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8)
 |[Dictionary from two lists](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dictionary_from_two_lists)| `Fundamentals` |[Link](https://www.codewars.com/kata/5533c2a50c4fea6832000101)
 |[How many are smaller than me](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_are_smaller_than_me)| `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/56a1c074f87bc2201200002e)
+|[Basic Calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Basic_calculator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
