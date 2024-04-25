@@ -36,6 +36,7 @@ This is a place where I put my CodeWars solutions.
 |[RGB To Hex Conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level5/RGB_to_hex_conversion)|  `Algorithms` |[Link](https://www.codewars.com/kata/513e08acc600c94f01000001/)
 |[Product of consecutive Fib numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Product_of_consecutive_fib_numbers)| `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 |[Mean Square Error](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Mean_square_error)| `Arrays` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/51edd51599a189fe7f000015)
+|[Perimeter of squares in a rectangle](https://github.com/innewiadro/Codewars/tree/master/kata_level5/Perimeter_of_squares_in_a_rectangle)| `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/559a28007caad2ac4e000083)
 
 
 
