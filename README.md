@@ -284,6 +284,7 @@ This is a place where I put my CodeWars solutions.
 |[How many are smaller than me](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_are_smaller_than_me)| `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/56a1c074f87bc2201200002e)
 |[Basic Calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Basic_calculator)| `Fundamentals` |[Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)
 |[Average Scores](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Average_scores)| `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/57b68bc7b69bfc8209000307)
+|[Band name generator](https://github.com/innewiadro/Codewars/tree/kata_level7/Band_name_generator)|`Fundamentals` |[Link](https://www.codewars.com/kata/59727ff285281a44e3000011)|
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
