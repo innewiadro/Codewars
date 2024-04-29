@@ -109,6 +109,7 @@ This is a place where I put my CodeWars solutions.
 |[Reverse polish notation calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Reverse_polish_notation_calculator)| `Algorithms` `Mathematics` `Interpreters` `Parsing` `Strings` |[Link](https://www.codewars.com/kata/52f78966747862fc9a0009ae)
 |[Word a10n (abbreviation)](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Word_a10n_(abbreviation))| ‘Strings’ ‘Fundamentals’ |[Link](https://www.codewars.com/kata/5375f921003bf62192000746)
 |[Lottery Ticket](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Lottery_ticket)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57f625992f4d53c24200070e)
+|[Exclamation marks series #17 Put the exclamation marks and question marks on the balance - are they balanced](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Exclamation_marks_series_17)| `Fundamentals` |[Link](https://www.codewars.com/kata/57fb44a12b53146fe1000136)
 
 
 
