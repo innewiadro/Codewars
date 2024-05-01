@@ -111,7 +111,7 @@ This is a place where I put my CodeWars solutions.
 |[Lottery Ticket](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Lottery_ticket)| `Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57f625992f4d53c24200070e)
 |[Reverse or rotate?](https://github.com/innewiadro/Codewars/tree/kata_level6/Reverse_or_rotate)|`Algorithms` `Strings` |[Link](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/train/python)|
 |[Exclamation marks series #17 Put the exclamation marks and question marks on the balance - are they balanced](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Exclamation_marks_series_17)| `Fundamentals` |[Link](https://www.codewars.com/kata/57fb44a12b53146fe1000136)
-
+|[Roman Numerals Encoder](https://github.com/innewiadro/Codewars/tree/kata_level6/Roman_numerals_encoder)|`Algorithms` |[Link](https:www.codewars.comkata51b62bf6a9c58071c600001b)|
 
 
 
