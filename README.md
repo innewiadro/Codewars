@@ -498,3 +498,4 @@ This is a place where I put my CodeWars solutions.
 |[Grasshopper - Messi Goals](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_messi_goals)| `Fundamentals` |[Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)
 |[Flick Switch](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Flick_switch)| `Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
 |[Filter out the geese](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Filter_out_the_geese)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
+|[Safen User Input Part I - htmlspecialchars](https://github.com/innewiadro/Codewars/tree/kata_level8/Safen_user_input_part_i_-_htmlspecialchars)|`Fundamentals` `Strings` |[Link](https:www.codewars.comkata56bcaedfcf6b7f2125001118)|
