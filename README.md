@@ -290,6 +290,7 @@ This is a place where I put my CodeWars solutions.
 |[Consecutive items](https://github.com/innewiadro/Codewars/tree/kata_level7/Consecutive_items)|`Fundamentals` |[Link](https://www.codewars.com/kata/5f6d533e1475f30001e47514)|
 |[All Star Code Challenge #3](https://github.com/innewiadro/Codewars/tree/kata_level7/All_star_code_challenge_#3)|`Fundamentals` |[Link](https:www.codewars.comkata58640340b3a675d9a70000b9)|
 |[Number Of Occurrences](https://github.com/innewiadro/Codewars/tree/kata_level7/Number_of_occurrences)|`Arrays` `Fundamentals` |[Link](https:www.codewars.comkata52829c5fe08baf7edc00122b)|
+|[Drying Potatoes](https://github.com/innewiadro/Codewars/tree/kata_level7/Drying_potatoes)|`Fundamentals` `Puzzles` |[Link](https:www.codewars.comkata58ce8725c835848ad6000007)|
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
