@@ -503,3 +503,4 @@ This is a place where I put my CodeWars solutions.
 |[Filter out the geese](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Filter_out_the_geese)| `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
 |[Safen User Input Part I - htmlspecialchars](https://github.com/innewiadro/Codewars/tree/kata_level8/Safen_user_input_part_i_-_htmlspecialchars)|`Fundamentals` `Strings` |[Link](https:www.codewars.comkata56bcaedfcf6b7f2125001118)|
 |[Enumerable Magic #25 - Take the First N Elements](https://github.com/innewiadro/Codewars/tree/kata_level8/Enumerable_magic_#25_-_take_the_first_n_elements)|`Fundamentals` |[Link](https:www.codewars.comkata545afd0761aa4c3055001386)|
+|[Neutralisation](https://github.com/innewiadro/Codewars/tree/kata_level8/Neutralisation)|`Algorithms` `Strings` |[Link](https:www.codewars.comkata65128732b5aff40032a3d8f0)|
