@@ -291,6 +291,7 @@ This is a place where I put my CodeWars solutions.
 |[All Star Code Challenge #3](https://github.com/innewiadro/Codewars/tree/kata_level7/All_star_code_challenge_#3)|`Fundamentals` |[Link](https:www.codewars.comkata58640340b3a675d9a70000b9)|
 |[Number Of Occurrences](https://github.com/innewiadro/Codewars/tree/kata_level7/Number_of_occurrences)|`Arrays` `Fundamentals` |[Link](https:www.codewars.comkata52829c5fe08baf7edc00122b)|
 |[Drying Potatoes](https://github.com/innewiadro/Codewars/tree/kata_level7/Drying_potatoes)|`Fundamentals` `Puzzles` |[Link](https:www.codewars.comkata58ce8725c835848ad6000007)|
+|[Simple remove duplicates](https://github.com/innewiadro/Codewars/tree/kata_level7/Simple_remove_duplicates)|`Fundamentals` |[Link](https:www.codewars.comkata5ba38ba180824a86850000f7)|
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
