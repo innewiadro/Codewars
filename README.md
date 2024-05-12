@@ -294,6 +294,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple remove duplicates](https://github.com/innewiadro/Codewars/tree/kata_level7/Simple_remove_duplicates)|`Fundamentals` |[Link](https:www.codewars.comkata5ba38ba180824a86850000f7)|
 |[Even numbers in an array](https://github.com/innewiadro/Codewars/tree/kata_level7/Even_numbers_in_an_array)|`Fundamentals` `Arrays` |[Link](https:www.codewars.comkata5a431c0de1ce0ec33a00000c)|
 |[lucky number](https://github.com/innewiadro/Codewars/tree/kata_level7/Lucky_number)|`Fundamentalas` `Mathematics` |[Link](https:www.codewars.comkata55afed09237df73343000042)|
+|[The Office IV - Find a Meeting Room](https://github.com/innewiadro/Codewars/tree/kata_level7/The_office_iv_-_find_a_meeting_room)|`Fundamentals` `Arrays` |[Link](https:www.codewars.comkata57f604a21bd4fe771b00009c)|
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
