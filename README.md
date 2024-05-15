@@ -296,6 +296,8 @@ This is a place where I put my CodeWars solutions.
 |[lucky number](https://github.com/innewiadro/Codewars/tree/kata_level7/Lucky_number)|`Fundamentalas` `Mathematics` |[Link](https:www.codewars.comkata55afed09237df73343000042)|
 |[The Office IV - Find a Meeting Room](https://github.com/innewiadro/Codewars/tree/kata_level7/The_office_iv_-_find_a_meeting_room)|`Fundamentals` `Arrays` |[Link](https:www.codewars.comkata57f604a21bd4fe771b00009c)|
 |[Initialize my name](https://github.com/innewiadro/Codewars/tree/kata_level7/Initialize_my_name)|`Strings` `Fundamentals` |[Link](https:www.codewars.comkata5768a693a3205e1cc100071f)|
+|[Unlucky Days](https://github.com/innewiadro/Codewars/tree/kata_level7/Unlucky_days)|`Date time` |[Link](https:www.codewars.comkata56eb0be52caf798c630013c0)|
+
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
