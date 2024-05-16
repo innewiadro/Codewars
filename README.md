@@ -297,7 +297,7 @@ This is a place where I put my CodeWars solutions.
 |[The Office IV - Find a Meeting Room](https://github.com/innewiadro/Codewars/tree/kata_level7/The_office_iv_-_find_a_meeting_room)|`Fundamentals` `Arrays` |[Link](https:www.codewars.comkata57f604a21bd4fe771b00009c)|
 |[Initialize my name](https://github.com/innewiadro/Codewars/tree/kata_level7/Initialize_my_name)|`Strings` `Fundamentals` |[Link](https:www.codewars.comkata5768a693a3205e1cc100071f)|
 |[Unlucky Days](https://github.com/innewiadro/Codewars/tree/kata_level7/Unlucky_days)|`Date time` |[Link](https:www.codewars.comkata56eb0be52caf798c630013c0)|
-
+|[makeBackronym](https://github.com/innewiadro/Codewars/tree/kata_level7/Makebackronym)|`Fundamentals` `Strings` |[Link](https:www.codewars.comkata55805ab490c73741b7000064)|
 
 ## Level 8 Katas
 | Katas | Subject | CW Link
