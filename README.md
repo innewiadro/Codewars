@@ -299,6 +299,7 @@ This is a place where I put my CodeWars solutions.
 |[Unlucky Days](https://github.com/innewiadro/Codewars/tree/kata_level7/Unlucky_days)|`Date time` | [Link](https://www.codewars.com/kata/56eb0be52caf798c630013c0)|
 |[makeBackronym](https://github.com/innewiadro/Codewars/tree/kata_level7/Makebackronym)|`Fundamentals` `Strings` | [Link](https://www.codewars.com/kata/55805ab490c73741b7000064)|
 |[Building Strings From a Hash](https://github.com/innewiadro/Codewars/tree/kata_level7/Building_strings_from_a_hash)|`Fundamentals` `Strings` | [Link](https://www.codewars.com/kata/51c7d8268a35b6b8b40002f2)|
+|[Responsible Drinking](https://github.com/innewiadro/Codewars/tree/kata_level7/Responsible_drinking)|`Fundamentals` |[Link](https://www.codewars.com/kata/5aee86c5783bb432cd000018)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                 | Subject | CW Link                                                               
