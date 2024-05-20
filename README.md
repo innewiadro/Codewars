@@ -300,6 +300,7 @@ This is a place where I put my CodeWars solutions.
 |[makeBackronym](https://github.com/innewiadro/Codewars/tree/kata_level7/Makebackronym)|`Fundamentals` `Strings` | [Link](https://www.codewars.com/kata/55805ab490c73741b7000064)|
 |[Building Strings From a Hash](https://github.com/innewiadro/Codewars/tree/kata_level7/Building_strings_from_a_hash)|`Fundamentals` `Strings` | [Link](https://www.codewars.com/kata/51c7d8268a35b6b8b40002f2)|
 |[Responsible Drinking](https://github.com/innewiadro/Codewars/tree/kata_level7/Responsible_drinking)|`Fundamentals` |[Link](https://www.codewars.com/kata/5aee86c5783bb432cd000018)|
+|[Reverse the bits in an integer](https://github.com/innewiadro/Codewas/tree/kata_level7/Reverse_the_bits_in_an_integer)|`Bits` `Fundamentals`  |[Link](https://www.codewars.com/kata/5959ec605595565f5c00002b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                 | Subject | CW Link                                                               
