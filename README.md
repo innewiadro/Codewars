@@ -302,6 +302,7 @@ This is a place where I put my CodeWars solutions.
 |[Responsible Drinking](https://github.com/innewiadro/Codewars/tree/kata_level7/Responsible_drinking)|`Fundamentals` | [Link](https://www.codewars.com/kata/5aee86c5783bb432cd000018)              |
 |[Reverse the bits in an integer](https://github.com/innewiadro/Codewas/tree/kata_level7/Reverse_the_bits_in_an_integer)|`Bits` `Fundamentals`  | [Link](https://www.codewars.com/kata/5959ec605595565f5c00002b)              |
 |[Compare Strings by Sum of Chars](https://github.com/innewiadro/Codewars/tree/kata_level7/Compare_strings_by_sum_of_chars)|`Mathematics` `Strings` `Fundamentals` | [Link]( https://www.codewars.com/kata/576bb3c4b1abc497ec000065/)            |
+|[Vowel one](https://github.com/innewiadro/Codewars/tree/kata_level7/Vowel_one)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/580751a40b5a777a200000a1)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                 | Subject | CW Link                                                               
