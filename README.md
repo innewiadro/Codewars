@@ -304,6 +304,7 @@ This is a place where I put my CodeWars solutions.
 |[Compare Strings by Sum of Chars](https://github.com/innewiadro/Codewars/tree/kata_level7/Compare_strings_by_sum_of_chars)|`Mathematics` `Strings` `Fundamentals` | [Link]( https://www.codewars.com/kata/576bb3c4b1abc497ec000065/)            |
 |[Vowel one](https://github.com/innewiadro/Codewars/tree/kata_level7/Vowel_one)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/580751a40b5a777a200000a1)|
 |[Elevator Distance](https://github.com/innewiadro/Codewars/tree/kata_level7/Elevator_distance)|`Fundamentals` |[Link](https://www.codewars.com/kata/59f061773e532d0c87000d16)|
+|[Computer problem series #1: Fill the Hard Disk Drive](https://github.com/innewiadro/Codewars/tree/kata_level7/Computer_problem_series_#1_fill_the_hard_disk_drive)|`Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5d49c93d089c6e000ff8428c)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                 | Subject | CW Link                                                               
