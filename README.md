@@ -306,6 +306,7 @@ This is a place where I put my CodeWars solutions.
 |[Elevator Distance](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Elevator_distance)|`Fundamentals` |[Link](https://www.codewars.com/kata/59f061773e532d0c87000d16)|
 |[Computer problem series #1: Fill the Hard Disk Drive](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Computer_problem_series_#1_fill_the_hard_disk_drive)|`Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5d49c93d089c6e000ff8428c)|
 |[Filter Long Words](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Filter_long_words)|`Fundamentals` |[Link](https://www.codewars.com/kata/5697fb83f41965761f000052)|
+|[Nickname Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nickname_generator)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/593b1909e68ff627c9000186)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                 | Subject | CW Link                                                               
