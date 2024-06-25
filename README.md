@@ -310,6 +310,7 @@ This is a place where I put my CodeWars solutions.
 |[Word values](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Word_values)                                                                                                        |`Fundamentals` |[Link](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)|
 |[Arithmetic progression](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Arithmetic_progression)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/55caf1fd8063ddfa8e000018)|
 |[Inspiring Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Inspiring_strings)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5939ab6eed348a945f0007b2)|
+|[Return the Missing Element](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_the_missing_element)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5299413901337c637e000004)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                        | Subject | CW Link                                                               
