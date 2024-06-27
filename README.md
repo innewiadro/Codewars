@@ -312,6 +312,7 @@ This is a place where I put my CodeWars solutions.
 |[Inspiring Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Inspiring_strings)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5939ab6eed348a945f0007b2)|
 |[Return the Missing Element](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_the_missing_element)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5299413901337c637e000004)|
 |[Sum of integers in string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_integers_in_string)|`Fundamentals` |[Link](https://www.codewars.com/kata/598f76a44f613e0e0b000026)|
+|[Is n divisible by (...)?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_n_divisible_by_())|`Fundamentals` |[Link](https://www.codewars.com/kata/558ee8415872565824000007)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                        | Subject | CW Link                                                               
