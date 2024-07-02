@@ -316,7 +316,7 @@ This is a place where I put my CodeWars solutions.
 |[Evens and Odds](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Evens_and_odds)|`Fundamentals` `Binary` | [Link](https://www.codewars.com/kata/583ade15666df5a64e000058)              |
 |[Nice Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nice_array)|`Arrays` `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/59b844528bcb7735560000a0)|
 |[Plus - minus - plus - plus - ... - Count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Plus_-_minus_-_plus_-_plus_-_-_count)|`Fundamenta` |[Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca)|
-
+|[Calculate Two People's Individual Ages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Calculate_two_people's_individual_ages)|`Fundamentals` `Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
