@@ -547,3 +547,4 @@ This is a place where I put my CodeWars solutions.
 | [Pirates!! Are the Cannons ready!??](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pirates_are_the_cannons_ready)                                                                     |`Algorithms` |[Link](https://www.codewars.com/kata/5748a883eb737cab000022a6)|
 |[Leonardo Dicaprio and Oscars](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Leonardo_dicaprio_and_oscars)|`Fundametals` |[Link](https://www.codewars.com/kata/56d49587df52101de70011e4)|
 |[Find the Integral](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_integral)|`Fundamentals` |[Link](https://www.codewars.com/kata/59811fd8a070625d4c000013)|
+|[Generate user links](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Generate_user_links)|`Puzzles` |[Link](https://www.codewars.com/kata/57037ed25a7263ac35000c80)|
