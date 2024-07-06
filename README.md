@@ -318,6 +318,7 @@ This is a place where I put my CodeWars solutions.
 |[Plus - minus - plus - plus - ... - Count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Plus_-_minus_-_plus_-_plus_-_-_count)|`Fundamenta` |[Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca)|
 |[Calculate Two People's Individual Ages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Calculate_two_people's_individual_ages)|`Fundamentals` `Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1)|
 |[Double Sort](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Double_sort)|`Fundamentals` `Strings` `Arrays` `Sorting` |[Link](https://www.codewars.com/kata/57cc79ec484cf991c900018d)|
+|[Correct the time-string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Correct_the_time-string)|`Parsing` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57873ab5e55533a2890000c7)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
