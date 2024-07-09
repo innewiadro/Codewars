@@ -552,3 +552,4 @@ This is a place where I put my CodeWars solutions.
 |[Leonardo Dicaprio and Oscars](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Leonardo_dicaprio_and_oscars)|`Fundametals` |[Link](https://www.codewars.com/kata/56d49587df52101de70011e4)|
 |[Find the Integral](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_integral)|`Fundamentals` |[Link](https://www.codewars.com/kata/59811fd8a070625d4c000013)|
 |[Generate user links](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Generate_user_links)|`Puzzles` |[Link](https://www.codewars.com/kata/57037ed25a7263ac35000c80)|
+|[Grader](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grader)|`Fundamentals` |[Link](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c)|
