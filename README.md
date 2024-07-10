@@ -321,6 +321,7 @@ This is a place where I put my CodeWars solutions.
 | [Correct the time-string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Correct_the_time-string)                                                                                 |`Parsing` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57873ab5e55533a2890000c7)|
 | [Interview Question (easy)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Interview_question_(easy))                                                                             |`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5b358a1e228d316283001892)|
 | [Char Code Calculation](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Char_Code_Calculation)                                                                                     |`Fundamentals` `Arrays` `Strings` `Mathematics` |[Link](https://www.codewars.com/kata/57f75cc397d62fc93d000059)|
+|[3 powers of 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/3_powers_of_2)|`Mathematics` |[Link](https://www.codewars.com/kata/6545283611df271da7f8418c)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
