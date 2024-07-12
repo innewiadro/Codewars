@@ -323,6 +323,7 @@ This is a place where I put my CodeWars solutions.
 | [Char Code Calculation](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Char_Code_Calculation)                                                                                     |`Fundamentals` `Arrays` `Strings` `Mathematics` |[Link](https://www.codewars.com/kata/57f75cc397d62fc93d000059)|
 |[3 powers of 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/3_powers_of_2)|`Mathematics` |[Link](https://www.codewars.com/kata/6545283611df271da7f8418c)|
 |[By 3, or not by 3? That is the question . . .](https://github.com/innewiadro/Codewars/tree/master/kata_level7/By_3_or_not_by_3_that_is_the_question)|`Arrays` `Fundametals` `` |[Link](https://www.codewars.com/kata/59f7fc109f0e86d705000043)|
+|[Help Bob count letters and digits.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Help_bob_count_letters_and_digits)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5738f5ea9545204cec000155)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
