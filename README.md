@@ -326,6 +326,7 @@ This is a place where I put my CodeWars solutions.
 |[Help Bob count letters and digits.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Help_bob_count_letters_and_digits)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5738f5ea9545204cec000155)|
 |[Evens times last](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Evens_times_last)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a1a9e5032b8b98477000004)|
 |[Extra Perfect Numbers (Special Numbers Series #7)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Extra_perfect_numbers_(special_numbers_series_#7))|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a662a02e626c54e87000123)|
+|[Find Screen Size](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_screen_size)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
