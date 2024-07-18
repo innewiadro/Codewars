@@ -327,6 +327,7 @@ This is a place where I put my CodeWars solutions.
 |[Evens times last](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Evens_times_last)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a1a9e5032b8b98477000004)|
 |[Extra Perfect Numbers (Special Numbers Series #7)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Extra_perfect_numbers_(special_numbers_series_#7))|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a662a02e626c54e87000123)|
 |[Find Screen Size](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_screen_size)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f)|
+|[shorter concat [reverse longer]](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shorter_concat_[reverse_longer])|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54557d61126a00423b000a45)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
