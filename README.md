@@ -330,6 +330,7 @@ This is a place where I put my CodeWars solutions.
 |[shorter concat [reverse longer]](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shorter_concat_[reverse_longer])|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54557d61126a00423b000a45)|
 |[Say hello!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Say_hello)|`Fundamentals` |[Link](https://www.codewars.com/kata/55955a48a4e9c1a77500005a)|
 |[Return substring instance count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_substring_instance_count)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5168b125faced29f66000005)|
+|[Move 10](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Move_10)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
