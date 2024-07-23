@@ -332,6 +332,7 @@ This is a place where I put my CodeWars solutions.
 |[Return substring instance count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_substring_instance_count)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5168b125faced29f66000005)|
 |[Move 10](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Move_10)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090)|
 |[Check three and two](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_three_and_two)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a9e86705ee396d6be000091)|
+|[Tail Swap](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tail_swap)|`Fundamentals` |[Link](https://www.codewars.com/kata/5868812b15f0057e05000001)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
