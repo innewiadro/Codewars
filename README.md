@@ -333,6 +333,7 @@ This is a place where I put my CodeWars solutions.
 |[Move 10](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Move_10)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090)|
 |[Check three and two](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_three_and_two)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a9e86705ee396d6be000091)|
 |[Tail Swap](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tail_swap)|`Fundamentals` |[Link](https://www.codewars.com/kata/5868812b15f0057e05000001)|
+|[Especially Joyful Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Especially_joyful_numbers)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/570523c146edc287a50014b1)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
