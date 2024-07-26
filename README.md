@@ -335,6 +335,7 @@ This is a place where I put my CodeWars solutions.
 |[Tail Swap](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tail_swap)|`Fundamentals` |[Link](https://www.codewars.com/kata/5868812b15f0057e05000001)|
 |[Especially Joyful Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Especially_joyful_numbers)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/570523c146edc287a50014b1)|
 |[Find all occurrences of an element in an array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_all_occurrences_of_an_element_in_an_array)|`Fundamentals`  |[Link](https://www.codewars.com/kata/59a9919107157a45220000e1)|
+|[Max-min arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Max-min_arrays)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a090c4e697598d0b9000004)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
