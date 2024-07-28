@@ -570,3 +570,4 @@ This is a place where I put my CodeWars solutions.
 |[Grader](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grader)|`Fundamentals` |[Link](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c)|
 |[Fuel Calculator: Total Cost](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fuel_calculator_total_cost)|`Mathematics` `Fundamentals` `Logic` |[Link](https://www.codewars.com/kata/57b58827d2a31c57720012e8)|
 |[Sort My Textbooks](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sort_my_textbooks)|`Lists` `Sorting` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a07e5b7ffe75fd049000051)|
+|[Grasshopper - Create the rooms](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_create_the_rooms)|`Fundamentals` |[Link](https://www.codewars.com/kata/56a29b237e9e997ff2000048)|
