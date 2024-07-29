@@ -337,6 +337,8 @@ This is a place where I put my CodeWars solutions.
 |[Find all occurrences of an element in an array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_all_occurrences_of_an_element_in_an_array)|`Fundamentals`  |[Link](https://www.codewars.com/kata/59a9919107157a45220000e1)|
 |[Max-min arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Max-min_arrays)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a090c4e697598d0b9000004)|
 |[Speed Control](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Speed_control)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/56484848ba95170a8000004d)|
+|[Unscrambled eggs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Unscrambled_eggs)|`Fundamentals` |[Link](https://www.codewars.com/kata/55ea5650fe9247a2ea0000a7)|
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
