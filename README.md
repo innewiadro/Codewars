@@ -338,7 +338,7 @@ This is a place where I put my CodeWars solutions.
 |[Max-min arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Max-min_arrays)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a090c4e697598d0b9000004)|
 |[Speed Control](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Speed_control)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/56484848ba95170a8000004d)|
 |[Unscrambled eggs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Unscrambled_eggs)|`Fundamentals` |[Link](https://www.codewars.com/kata/55ea5650fe9247a2ea0000a7)|
-|[Exclamation marks series #13: Count the number of exclamation marks and question marks, return the product](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exclamation_marks_series_#13_count_the_number_of_exclamation_marks_and_question_marks_return_the_product)|'Fundamentals' |[Link](https://www.codewars.com/kata/57fb142297e0860073000064)|
+|[Exclamation marks series #13: Count the number of exclamation marks and question marks, return the product](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exclamation_marks_series.)|'Fundamentals' |[Link](https://www.codewars.com/kata/57fb142297e0860073000064)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
