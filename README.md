@@ -340,6 +340,7 @@ This is a place where I put my CodeWars solutions.
 |[Unscrambled eggs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Unscrambled_eggs)|`Fundamentals` |[Link](https://www.codewars.com/kata/55ea5650fe9247a2ea0000a7)|
 |[Exclamation marks series #13: Count the number of exclamation marks and question marks, return the product](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exclamation_marks_series.)|'Fundamentals' |[Link](https://www.codewars.com/kata/57fb142297e0860073000064)|
 |[Regexp Basics - is it a vowel?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regexp_basics_-_is_it_a_vowel)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/567bed99ee3451292c000025)|
+|[See You Next Happy Year ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/See_you_next_happy_year)|`Fundamentals` |[Link](https://www.codewars.com/kata/5ae7e3f068e6445bc8000046)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
