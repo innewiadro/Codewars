@@ -343,6 +343,7 @@ This is a place where I put my CodeWars solutions.
 |[See You Next Happy Year ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/See_you_next_happy_year)|`Fundamentals` |[Link](https://www.codewars.com/kata/5ae7e3f068e6445bc8000046)|
 |[Hells Kitchen](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hells_kitchen)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57d1f36705c186d018000813)|
 |[Frequency sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Frequency_sequence)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/585a033e3a36cdc50a00011c)|
+|[Nth Root of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nth_root_of_a_number)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5520714decb43308ea000083)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
