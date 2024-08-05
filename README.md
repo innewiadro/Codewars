@@ -344,6 +344,7 @@ This is a place where I put my CodeWars solutions.
 |[Hells Kitchen](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hells_kitchen)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57d1f36705c186d018000813)|
 |[Frequency sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Frequency_sequence)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/585a033e3a36cdc50a00011c)|
 |[Nth Root of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nth_root_of_a_number)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5520714decb43308ea000083)|
+|[Find Duplicates ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_duplicates)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5558cc216a7a231ac9000022)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                  | Subject | CW Link                                                               
