@@ -345,6 +345,7 @@ This is a place where I put my CodeWars solutions.
 |[Frequency sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Frequency_sequence)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/585a033e3a36cdc50a00011c)|
 |[Nth Root of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nth_root_of_a_number)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5520714decb43308ea000083)|
 |[Find Duplicates ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_duplicates)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5558cc216a7a231ac9000022)|
+|[Partial Word Searching](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Partial_word_searching)|`Arrays` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54b81566cd7f51408300022d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                        | Subject | CW Link                                                               
