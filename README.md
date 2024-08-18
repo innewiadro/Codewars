@@ -587,3 +587,4 @@ This is a place where I put my CodeWars solutions.
 |[Classy Extentions](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Classy_extentions)|`Fundamentals` `Object-oriented programming` |[Link](https://www.codewars.com/kata/55a14aa4817efe41c20000bc)|
 |[Training JS #32: methods of Math---round() ceil() and floor()](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Training_js_#32_methods_of_math---round()_ceil()_and_floor())|`Fundamentals` |[Link](https://www.codewars.com/kata/5732d3c9791aafb0e4001236)|
 |[Name Your Python!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Name_your_python)|`Fundamentals` |[Link](https://www.codewars.com/kata/53cf459503f9bbb774000003)|
+|[The 'if' function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/The_'if'_function)|`Functional Programming`  `Fundamentals` |[Link](https://www.codewars.com/kata/54147087d5c2ebe4f1000805)|
