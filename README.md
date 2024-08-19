@@ -347,6 +347,7 @@ This is a place where I put my CodeWars solutions.
 |[Find Duplicates ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_duplicates)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5558cc216a7a231ac9000022)|
 |[Partial Word Searching](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Partial_word_searching)|`Arrays` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54b81566cd7f51408300022d)|
 |[Return the first M multiples of N](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_the_first_m_multiples_of_n)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/593c9175933500f33400003e)|
+|[Letterbox Paint-Squad](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Letterbox_paint-squad)|`Fundamentals` |[Link](https://www.codewars.com/kata/597d75744f4190857a00008d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                        | Subject | CW Link                                                               
