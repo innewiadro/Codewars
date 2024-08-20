@@ -348,6 +348,7 @@ This is a place where I put my CodeWars solutions.
 |[Partial Word Searching](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Partial_word_searching)|`Arrays` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/54b81566cd7f51408300022d)|
 |[Return the first M multiples of N](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_the_first_m_multiples_of_n)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/593c9175933500f33400003e)|
 |[Letterbox Paint-Squad](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Letterbox_paint-squad)|`Fundamentals` |[Link](https://www.codewars.com/kata/597d75744f4190857a00008d)|
+|[The Office III - Broken Photocopier](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_office_iii_-_broken_photocopier)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57ed56657b45ef922300002b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                        | Subject | CW Link                                                               
