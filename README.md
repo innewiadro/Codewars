@@ -353,7 +353,7 @@ This is a place where I put my CodeWars solutions.
 | [A Rule of Divisibility by 7](https://github.com/innewiadro/Codewars/tree/master/kata_level7/A_rule_of_divisibility_by_7)                                                                              |`Fundamentals` |[Link](https://www.codewars.com/kata/55e6f5e58f7817808e00002e)|
 |[Exclamation marks series #5: Remove all exclamation marks from the end of words](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exclamation_marks_series_#5_remove_all_exclamation_marks_from_the_end_of_words)|`Strings` |[Link](https://www.codewars.com/kata/57faf32df815ebd49e000117)|
 |[Count all the sheep on farm in the heights of New Zealand](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_all_the_sheep_on_farm_in_the_heights_of_new_zealand)|`Fundamentals` `Mathematics` `Algorithms` `Algebra` |[Link](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)|
-
+|[Well of Ideas - Harder Version](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Well_of_ideas_-_harder_version)|`Fundamentals` `Arrays` `Strings` |[Link](https://www.codewars.com/kata/57f22b0f1b5432ff09001cab)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                        | Subject | CW Link                                                               
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
