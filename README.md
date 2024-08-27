@@ -595,3 +595,4 @@ This is a place where I put my CodeWars solutions.
 |[Name Your Python!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Name_your_python)|`Fundamentals` |[Link](https://www.codewars.com/kata/53cf459503f9bbb774000003)|
 |[The 'if' function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/The_'if'_function)|`Functional Programming`  `Fundamentals` |[Link](https://www.codewars.com/kata/54147087d5c2ebe4f1000805)|
 |[Grasshopper - Bug Squashing](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_bug_squashing)|`Fundamentals` |[Link](https://www.codewars.com/kata/56214b6864fe8813f1000019)|
+|[Barking mad](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Barking_mad)|`Fundamentals` `Object-oriented Programming` |[Link](https://www.codewars.com/kata/54dba07f03e88a4cec000caf)|
