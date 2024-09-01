@@ -358,6 +358,7 @@ This is a place where I put my CodeWars solutions.
 |[Return a string's even characters.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_a_string's_even_characters)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/566044325f8fddc1c000002c)|
 |[Find Count of Most Frequent Item in an Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_count_of_most_frequent_item_in_an_array)|`Data Structures` `Fundamentals` |[Link](https://www.codewars.com/kata/56582133c932d8239900002e)|
 |[Numbers to Objects](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_to_objects)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57ced2c1c6fdc22123000316)|
+|[Who is the killer?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Who_is_the_killer)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/5f709c8fb0d88300292a7a9d)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                        | Subject | CW Link                                                               
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
