@@ -602,3 +602,4 @@ This is a place where I put my CodeWars solutions.
 |[Grasshopper - Bug Squashing](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_bug_squashing)|`Fundamentals` |[Link](https://www.codewars.com/kata/56214b6864fe8813f1000019)|
 |[Barking mad](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Barking_mad)|`Fundamentals` `Object-oriented Programming` |[Link](https://www.codewars.com/kata/54dba07f03e88a4cec000caf)|
 |[What's up next?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Whats_up_next)|`Fundamentals` `Data Structures` `Logic` |[Link](https://www.codewars.com/kata/542ebbdb494db239f8000046)|
+|[Find the Slope](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_slope)|`Algebra` `Fundamentals`  `Mathematics` |[Link](https://www.codewars.com/kata/55a75e2d0803fea18f00009d)|
