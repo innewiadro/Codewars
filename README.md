@@ -360,6 +360,7 @@ This is a place where I put my CodeWars solutions.
 |[Numbers to Objects](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_to_objects)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57ced2c1c6fdc22123000316)|
 |[Who is the killer?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Who_is_the_killer)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/5f709c8fb0d88300292a7a9d)|
 |[The Office I - Outed](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_office_i_-_outed)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)|
+|[Even or Odd - Which is Greater?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Even_or_odd_-_which_is_greater)|`Fundamentals` |[Link](https://www.codewars.com/kata/57f7b8271e3d9283300000b4)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                       | Subject | CW Link                                                               
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
