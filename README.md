@@ -368,6 +368,7 @@ This is a place where I put my CodeWars solutions.
 |[Last](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Last)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/541629460b198da04e000bb9)|
 |[How many consecutive numbers are needed?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_consecutive_numbers_are_needed)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/559cc2d2b802a5c94700000c)|
 |[Reverse list](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reverse_list)|`Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/57a04da9e298a7ee43000111)|
+|[Fibonacci](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fibonacci)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                       | Subject | CW Link                                                               
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
