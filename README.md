@@ -370,6 +370,7 @@ This is a place where I put my CodeWars solutions.
 |[Reverse list](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reverse_list)|`Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/57a04da9e298a7ee43000111)|
 |[Fibonacci](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fibonacci)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af)|
 |[Exclamation marks series #7: Remove words from the sentence if it contains one exclamation mark](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exclamation_marks_series_#7_remove_words_from_the_sentence_if_it_contains_one_exclamation_mark)|`Fundamentals` `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/57fafb6d2b5314c839000195)|
+|[Substring fun](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Substring_fun)|`Arrays` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/565b112d09c1adfdd500019c)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                       | Subject | CW Link                                                               
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
