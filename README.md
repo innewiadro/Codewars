@@ -377,6 +377,7 @@ This is a place where I put my CodeWars solutions.
 |[Clean up after your dog](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Clean_up_after_your_dog)|`Fundamentals` `Strings` `Arrays` `Mathematics` |[Link](https://www.codewars.com/kata/57faa6ff9610ce181b000028)|
 |[Going to the cinema](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Going_to_the_cinema)|`Fundamentals` |[Link](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e)|
 |[Scaling Squared Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Scaling_squared_strings)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56ed20a2c4e5d69155000301)|
+|[Consecutive letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Consecutive_letters)|`Fundamentals` |[Link](https://www.codewars.com/kata/5ce6728c939bf80029988b57)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                       | Subject | CW Link                                                               
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
