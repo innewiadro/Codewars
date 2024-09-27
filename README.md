@@ -378,6 +378,7 @@ This is a place where I put my CodeWars solutions.
 |[Going to the cinema](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Going_to_the_cinema)|`Fundamentals` |[Link](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e)|
 |[Scaling Squared Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Scaling_squared_strings)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/56ed20a2c4e5d69155000301)|
 |[Consecutive letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Consecutive_letters)|`Fundamentals` |[Link](https://www.codewars.com/kata/5ce6728c939bf80029988b57)|
+|[The Office II - Boredom Score](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_office_ii_-_boredom_score)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                       | Subject | CW Link                                                               
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
