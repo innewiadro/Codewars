@@ -381,6 +381,7 @@ This is a place where I put my CodeWars solutions.
 |[The Office II - Boredom Score](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_office_ii_-_boredom_score)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)|
 |[Filter unused digits](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Filter_unused_digits)|`Fundamentals` `Arrays` `Filtring` |[Link](https://www.codewars.com/kata/55de6173a8fbe814ee000061)|
 |[Flatten](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Flatten)|`Arrays` `Fundamentals` `Fuctional Programing` |[Link](https://www.codewars.com/kata/5250a89b1625e5decd000413)|
+|[All Inclusive?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/All_inclusive)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5700c9acc1555755be00027e)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                      | Subject | CW Link                                                               
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
