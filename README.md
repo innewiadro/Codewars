@@ -634,3 +634,4 @@ This is a place where I put my CodeWars solutions.
 |[Geometry Basics: Distance between points in 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Geometry_basics_distance_between_points_in_2d)|`Gometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58dced7b702b805b200000be)|
 |[Sleigh Authentication](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Sleigh_authentication)|`Fundamentals` |[Link](https://www.codewars.com/kata/52adc142b2651f25a8000643)|
 |[Finish Guess the Number Game](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Finish_guess_the_number_game)|`Fundamentals`  `Object-Oriented Programing` |[Link](https://www.codewars.com/kata/568018a64f35f0c613000054)|
+|[Are there any arrows left?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Are_there_any_arrows_left)|`Fundamentals` |[Link](https://www.codewars.com/kata/559f860f8c0d6c7784000119)|
