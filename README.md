@@ -384,6 +384,7 @@ This is a place where I put my CodeWars solutions.
 |[All Inclusive?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/All_inclusive)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5700c9acc1555755be00027e)|
 |[Dominant array elements](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dominant_array_elements)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a04133e32b8b998dc000089)|
 |[The Poet And The Pendulum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_poet_and_the_pendulum)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bd776533a7e2720c40000e5)|
+|[The Office VI - Sabbatical](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_office_vi_-_sabbatical)|`Fundamentals` `Strings` `Arrays` `Mathematics` |[Link](https://www.codewars.com/kata/57fe50d000d05166720000b1)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                     | Subject | CW Link                                                               
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
