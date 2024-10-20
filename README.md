@@ -393,6 +393,7 @@ This is a place where I put my CodeWars solutions.
 |[Enumerable Magic #5- True for Just One?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Enumerable_magic_#5-_true_for_just_one)|`Fundamentals` |[Link](https://www.codewars.com/kata/54599705cbae2aa60b0011a4)|
 |[Fizz Buzz Cuckoo Clock](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fizz_buzz_cuckoo_clock)|`Fundamentals` |[Link](https://www.codewars.com/kata/58485a43d750d23bad0000e6)|
 |[Two numbers are positive](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_numbers_are_positive)|`Fundamentals` |[Link](https://www.codewars.com/kata/602db3215c22df000e8544f0)|
+|[Array Leaders (Array Series #3)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_leaders_(array_series_#3))|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a651865fd56cb55760000e0)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
