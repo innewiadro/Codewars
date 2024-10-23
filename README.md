@@ -113,6 +113,7 @@ This is a place where I put my CodeWars solutions.
 | [Exclamation marks series #17 Put the exclamation marks and question marks on the balance - are they balanced](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Exclamation_marks_series_17) | `Fundamentals` | [Link](https://www.codewars.com/kata/57fb44a12b53146fe1000136)|
 | [Roman Numerals Encoder](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Roman_numerals_encoder)                                                                                            |`Algorithms` | [Link](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)              |
 | [N-th Fibonacci](https://github.com/innewiadro/Codewars/tree/master/kata_level6/N-th_fibonacci)                                                                                                            |`Algorithms` | [Link](https://www.codewars.com/kata/522551eee9abb932420004a0)              |
+|[Transform To Prime](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Transform_to_prime)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)|
 
 
 ## Level 7 Katas
