@@ -18,4 +18,3 @@ def minimum_number(numbers):
 
     return additional_number
 
-    return n
