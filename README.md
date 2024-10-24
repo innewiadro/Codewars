@@ -397,6 +397,7 @@ This is a place where I put my CodeWars solutions.
 |[Array Leaders (Array Series #3)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_leaders_(array_series_#3))|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a651865fd56cb55760000e0)|
 |[Easy wallpaper](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Easy_wallpaper)|`Fundamentals` |[Link](https://www.codewars.com/kata/567501aec64b81e252000003)|
 |[Alphabetically ordered](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabetically_ordered)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5a8059b1fd577709860000f6)|
+|[Double Every Other](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Double_every_other)|`Fundamentals` `Lists` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5809c661f15835266900010a)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
