@@ -651,3 +651,4 @@ This is a place where I put my CodeWars solutions.
 |[Finish Guess the Number Game](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Finish_guess_the_number_game)|`Fundamentals`  `Object-Oriented Programing` |[Link](https://www.codewars.com/kata/568018a64f35f0c613000054)|
 |[Are there any arrows left?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Are_there_any_arrows_left)|`Fundamentals` |[Link](https://www.codewars.com/kata/559f860f8c0d6c7784000119)|
 |[Classy Classes](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Classy_classes)|`Fundamentals` `Object-Oriented Programming` |[Link](https://www.codewars.com/kata/55a144eff5124e546400005a)|
+|[Geometry Basics: Circle Circumference in 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Geometry_basics_circle_circumference_in_2d)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58e43389acfd3e81d5000a88)|
