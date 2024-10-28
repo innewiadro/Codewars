@@ -400,6 +400,7 @@ This is a place where I put my CodeWars solutions.
 |[Double Every Other](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Double_every_other)|`Fundamentals` `Lists` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5809c661f15835266900010a)|
 |[Chain me](http://github.com/innewiadro/Codewars/tree/master/kata_level7/Chain_me)|`Fundamentals` |[Link](https://www.codewars.com/kata/54fb853b2c8785dd5e000957)|
 |[Drone Fly-By](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Drone_fly-by)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/58356a94f8358058f30004b5)|
+|[Vampire Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Vampire_numbers)|`Fundamentals` |[Link](https://www.codewars.com/kata/54d418bd099d650fa000032d)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
