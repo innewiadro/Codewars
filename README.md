@@ -401,6 +401,7 @@ This is a place where I put my CodeWars solutions.
 |[Chain me](http://github.com/innewiadro/Codewars/tree/master/kata_level7/Chain_me)|`Fundamentals` |[Link](https://www.codewars.com/kata/54fb853b2c8785dd5e000957)|
 |[Drone Fly-By](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Drone_fly-by)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/58356a94f8358058f30004b5)|
 |[Vampire Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Vampire_numbers)|`Fundamentals` |[Link](https://www.codewars.com/kata/54d418bd099d650fa000032d)|
+|[Formatting decimal places #1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Formatting_decimal_places_#1)|`Fundamentals` |[Link](https://www.codewars.com/kata/5641c3f809bf31f008000042)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
