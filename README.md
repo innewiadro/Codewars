@@ -404,6 +404,7 @@ This is a place where I put my CodeWars solutions.
 |[Formatting decimal places #1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Formatting_decimal_places_#1)|`Fundamentals` |[Link](https://www.codewars.com/kata/5641c3f809bf31f008000042)|
 |[Show multiples of 2 numbers within a range](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Show_multiples_of_2_numbers_within_a_range)|`Fundamentals` |[Link](https://www.codewars.com/kata/583989556754d6f4c700018e)|
 |[Is It Negative Zero (-0)?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_it_negative_zero_(-0))|`Fundamentals` |[Link](https://www.codewars.com/kata/5c5086287bc6600001c7589a)|
+Script](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Caffeine_script)|`Fundamentals`
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
