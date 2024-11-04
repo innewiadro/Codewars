@@ -407,6 +407,7 @@ This is a place where I put my CodeWars solutions.
 | [Caffeine Script](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Caffeine_script)                                                                                                                                                                |`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5434283682b0fdb0420000e6)|
 | [Find the Capitals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_capitals2)                                                                                                                                                           |`Fundamentals` |[Link](https://www.codewars.com/kata/53573877d5493b4d6e00050c)|
 |[Regexp Basics - is it a letter?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regexp_basics_-_is_it_a_letter)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)|
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
@@ -661,3 +662,4 @@ This is a place where I put my CodeWars solutions.
 |[Are there any arrows left?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Are_there_any_arrows_left)|`Fundamentals` |[Link](https://www.codewars.com/kata/559f860f8c0d6c7784000119)|
 |[Classy Classes](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Classy_classes)|`Fundamentals` `Object-Oriented Programming` |[Link](https://www.codewars.com/kata/55a144eff5124e546400005a)|
 |[Geometry Basics: Circle Circumference in 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Geometry_basics_circle_circumference_in_2d)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58e43389acfd3e81d5000a88)|
+|[Basic Training: Add item to an Array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_training_add_item_to_an_array)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/511f0fe64ae8683297000001)|
