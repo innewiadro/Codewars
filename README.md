@@ -407,7 +407,7 @@ This is a place where I put my CodeWars solutions.
 | [Caffeine Script](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Caffeine_script)                                                                                                                                                                |`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5434283682b0fdb0420000e6)|
 | [Find the Capitals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_capitals2)                                                                                                                                                           |`Fundamentals` |[Link](https://www.codewars.com/kata/53573877d5493b4d6e00050c)|
 |[Regexp Basics - is it a letter?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regexp_basics_-_is_it_a_letter)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)|
-
+|[Split The Bill](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Split_the_bill)|`Fundamentals` `Data Structures` |[Link](https://www.codewars.com/kata/5641275f07335295f10000d0)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
