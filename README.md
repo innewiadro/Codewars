@@ -412,6 +412,7 @@ This is a place where I put my CodeWars solutions.
 |[Snail crawls up](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Snail_crawls_up)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/5b93fecd8463745630001d05)|
 |[How many times should I go?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_times_should_i_go)|`Fundamentals` |[Link](https://www.codewars.com/kata/57efcb78e77282f4790003d8)|
 |[Fix My Phone Numbers!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fix_my_phone_numbers)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/596343a24489a8b2a00000a2)|
+|[Javascript filter - 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Javascript_filter_-_1)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
