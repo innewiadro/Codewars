@@ -414,6 +414,7 @@ This is a place where I put my CodeWars solutions.
 |[Fix My Phone Numbers!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fix_my_phone_numbers)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/596343a24489a8b2a00000a2)|
 |[Javascript filter - 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Javascript_filter_-_1)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)|
 |[Powers of i](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Powers_of_i)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5a97387e5ee396e70a00016d)|
+|[Looking for a benefactor](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Looking_for_a_benefactor)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/569b5cec755dd3534d00000f)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
