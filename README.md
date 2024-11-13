@@ -415,6 +415,7 @@ This is a place where I put my CodeWars solutions.
 |[Javascript filter - 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Javascript_filter_-_1)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)|
 |[Powers of i](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Powers_of_i)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5a97387e5ee396e70a00016d)|
 |[Looking for a benefactor](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Looking_for_a_benefactor)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/569b5cec755dd3534d00000f)|
+|[How Green Is My Valley?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_green_is_my_valley)|`Fundamentals` |[Link](https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
