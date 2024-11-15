@@ -417,6 +417,7 @@ This is a place where I put my CodeWars solutions.
 |[Looking for a benefactor](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Looking_for_a_benefactor)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/569b5cec755dd3534d00000f)|
 |[How Green Is My Valley?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_green_is_my_valley)|`Fundamentals` |[Link](https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4)|
 |[L2: Triple X](https://github.com/innewiadro/Codewars/tree/master/kata_level7/L2_triple_x)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/568dc69683322417eb00002c)|
+|[Trimming a string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Trimming_a_string)|`Fundamentals` |[Link](https://www.codewars.com/kata/563fb342f47611dae800003c)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
