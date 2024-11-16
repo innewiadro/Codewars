@@ -418,6 +418,7 @@ This is a place where I put my CodeWars solutions.
 |[How Green Is My Valley?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_green_is_my_valley)|`Fundamentals` |[Link](https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4)|
 |[L2: Triple X](https://github.com/innewiadro/Codewars/tree/master/kata_level7/L2_triple_x)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/568dc69683322417eb00002c)|
 |[Trimming a string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Trimming_a_string)|`Fundamentals` |[Link](https://www.codewars.com/kata/563fb342f47611dae800003c)|
+|[Remove anchor from URL](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_anchor_from_url)|`Regular Expressions` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
