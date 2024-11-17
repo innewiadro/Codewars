@@ -419,6 +419,7 @@ This is a place where I put my CodeWars solutions.
 |[L2: Triple X](https://github.com/innewiadro/Codewars/tree/master/kata_level7/L2_triple_x)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/568dc69683322417eb00002c)|
 |[Trimming a string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Trimming_a_string)|`Fundamentals` |[Link](https://www.codewars.com/kata/563fb342f47611dae800003c)|
 |[Remove anchor from URL](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_anchor_from_url)|`Regular Expressions` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)|
+|[Selective fear of numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Selective_fear_of_numbers)|`Fundamentals` |[Link](https://www.codewars.com/kata/55b1fd84a24ad00b32000075)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
