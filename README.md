@@ -675,3 +675,4 @@ This is a place where I put my CodeWars solutions.
 |[Classy Classes](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Classy_classes)|`Fundamentals` `Object-Oriented Programming` |[Link](https://www.codewars.com/kata/55a144eff5124e546400005a)|
 |[Geometry Basics: Circle Circumference in 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Geometry_basics_circle_circumference_in_2d)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58e43389acfd3e81d5000a88)|
 |[Basic Training: Add item to an Array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_training_add_item_to_an_array)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/511f0fe64ae8683297000001)|
+|[Simple Fun #352: Reagent Formula](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_fun_#352_reagent_formula)|`Fundamentals` |[Link](https://www.codewars.com/kata/59c8b38423dacc7d95000008)|
