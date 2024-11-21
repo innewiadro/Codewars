@@ -422,6 +422,7 @@ This is a place where I put my CodeWars solutions.
 |[Selective fear of numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Selective_fear_of_numbers)|`Fundamentals` |[Link](https://www.codewars.com/kata/55b1fd84a24ad00b32000075)|
 |[Password maker](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Password_maker)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/5637b03c6be7e01d99000046)|
 |[Driving Licence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Driving_licence)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/586a1af1c66d18ad81000134)|
+|[Monotone travel](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Monotone_travel)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/54466996990c921f90000d61)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
