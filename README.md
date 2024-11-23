@@ -424,6 +424,7 @@ This is a place where I put my CodeWars solutions.
 |[Driving Licence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Driving_licence)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/586a1af1c66d18ad81000134)|
 |[Monotone travel](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Monotone_travel)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/54466996990c921f90000d61)|
 |[Find all non-consecutive numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_all_non-consecutive_numbers)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/58f8b35fda19c0c79400020f)|
+|[Hit Count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hit_count)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57b6f850a6fdc76523001162)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
