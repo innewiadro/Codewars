@@ -426,6 +426,7 @@ This is a place where I put my CodeWars solutions.
 |[Find all non-consecutive numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_all_non-consecutive_numbers)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/58f8b35fda19c0c79400020f)|
 |[Hit Count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hit_count)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57b6f850a6fdc76523001162)|
 |[The Pony Express](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_pony_express)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b18e9e06aefb52e1d0001e9)|
+|[GCD sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gcd_sum)|`Fundamentals` |[Link](https://www.codewars.com/kata/5dd259444228280032b1ed2a)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
