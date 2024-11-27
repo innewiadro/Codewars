@@ -428,6 +428,7 @@ This is a place where I put my CodeWars solutions.
 |[The Pony Express](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_pony_express)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b18e9e06aefb52e1d0001e9)|
 |[GCD sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gcd_sum)|`Fundamentals` |[Link](https://www.codewars.com/kata/5dd259444228280032b1ed2a)|
 |[Number Pairs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_pairs)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/563b1f55a5f2079dc100008a)|
+|[Making Copies](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Making_copies)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/53d2697b7152a5e13d000b82)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
