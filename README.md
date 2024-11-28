@@ -429,6 +429,7 @@ This is a place where I put my CodeWars solutions.
 |[GCD sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gcd_sum)|`Fundamentals` |[Link](https://www.codewars.com/kata/5dd259444228280032b1ed2a)|
 |[Number Pairs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_pairs)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/563b1f55a5f2079dc100008a)|
 |[Making Copies](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Making_copies)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/53d2697b7152a5e13d000b82)|
+|[Find sum of top-left to bottom-right diagonals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_sum_of_top-left_to_bottom-right_diagonals)|`Matrix` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5497a3c181dd7291ce000700)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
