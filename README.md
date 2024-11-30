@@ -431,6 +431,7 @@ This is a place where I put my CodeWars solutions.
 |[Making Copies](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Making_copies)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/53d2697b7152a5e13d000b82)|
 |[Find sum of top-left to bottom-right diagonals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_sum_of_top-left_to_bottom-right_diagonals)|`Matrix` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5497a3c181dd7291ce000700)|
 |[Over The Road](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Over_the_road)|`Fundamentals` `Mathematics` `Performance` |[Link](https://www.codewars.com/kata/5f0ed36164f2bc00283aed07)|
+|[Multiples!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Multiples)|`Fundamentals` |[Link](https://www.codewars.com/kata/55a8a36703fe4c45ed00005b)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
