@@ -434,6 +434,7 @@ This is a place where I put my CodeWars solutions.
 |[Multiples!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Multiples)|`Fundamentals` |[Link](https://www.codewars.com/kata/55a8a36703fe4c45ed00005b)|
 |[Remove All The Marked Elements of a List](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_all_the_marked_elements_of_a_list)|`Fundamentals` `Algorithms` `Data Structures` |[Link](https://www.codewars.com/kata/563089b9b7be03472d00002b)|
 |[Is every value in the array an array?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_every_value_in_the_array_an_array)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/582c81d982a0a65424000201)|
+|[Area of a Circle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Area_of_a_circle)|`Fundamentals` `Algorithms` `Geometry` `Mathematics` |[Link](https://www.codewars.com/kata/537baa6f8f4b300b5900106c)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
