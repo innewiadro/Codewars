@@ -437,6 +437,7 @@ This is a place where I put my CodeWars solutions.
 |[Area of a Circle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Area_of_a_circle)|`Fundamentals` `Algorithms` `Geometry` `Mathematics` |[Link](https://www.codewars.com/kata/537baa6f8f4b300b5900106c)|
 |[Replace all items](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Replace_all_items)|`Fundamentals` `Arrays` `Lists` `Regular Expressions` |[Link](https://www.codewars.com/kata/57ae18c6e298a7a6d5000c7a)|
 |[Reverser](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reverser)|`Recursion` `Fundamentals` |[Link](https://www.codewars.com/kata/58069e4cf3c13ef3a6000168)|
+|[Borrower Speak](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Borrower_speak)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57d2ba8095497e484e00002e)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
