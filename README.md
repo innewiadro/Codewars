@@ -439,6 +439,7 @@ This is a place where I put my CodeWars solutions.
 |[Reverser](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reverser)|`Recursion` `Fundamentals` |[Link](https://www.codewars.com/kata/58069e4cf3c13ef3a6000168)|
 |[Borrower Speak](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Borrower_speak)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57d2ba8095497e484e00002e)|
 |[Even odd disparity](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Even_odd_disparity)|`Fundamentals` |[Link](https://www.codewars.com/kata/59c62f1bdcc40560a2000060)|
+|[Digital cypher vol 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digital_cypher_vol_2)|`Fundamentals` `Ciphers` `Cryptography` |[Link](https://www.codewars.com/kata/592edfda5be407b9640000b2)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
