@@ -441,6 +441,7 @@ This is a place where I put my CodeWars solutions.
 |[Even odd disparity](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Even_odd_disparity)|`Fundamentals` |[Link](https://www.codewars.com/kata/59c62f1bdcc40560a2000060)|
 |[Digital cypher vol 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digital_cypher_vol_2)|`Fundamentals` `Ciphers` `Cryptography` |[Link](https://www.codewars.com/kata/592edfda5be407b9640000b2)|
 |[Filter Coffee](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Filter_coffee)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56069d0c4af7f633910000d3)|
+|[Test's results](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Test's_results)|`Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/599db0a227ca9f294b0000c8)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
