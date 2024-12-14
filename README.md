@@ -701,3 +701,5 @@ This is a place where I put my CodeWars solutions.
 |[Basic Training: Add item to an Array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_training_add_item_to_an_array)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/511f0fe64ae8683297000001)|
 |[Simple Fun #352: Reagent Formula](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_fun_#352_reagent_formula)|`Fundamentals` |[Link](https://www.codewars.com/kata/59c8b38423dacc7d95000008)|
 |[Total pressure calculation](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Total_pressure_calculation)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a)|
+|[Simple validation of a username with regex](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_validation_of_a_username_with_regex)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023)|
+|[Classic Hello World](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Classic_hello_world)|`Fundamentals` `Object-oriented Programming` |[Link](https://www.codewars.com/kata/57036f007fd72e3b77000023)|
