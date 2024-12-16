@@ -444,6 +444,8 @@ This is a place where I put my CodeWars solutions.
 |[Test's results](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Test's_results)|`Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/599db0a227ca9f294b0000c8)|
 |[Eliminate the intruders! Bit manipulation](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Eliminate_the_intruders_bit_manipulation)|`Bits` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5a0d38c9697598b67a000041)|
 |[Exclamation marks series #3: Remove all exclamation marks from sentence except at the end](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exclamation_marks_series_#3_remove_all_exclamation_marks_from_sentence_except_at_the_end)|`Fundamentals` |[Link](https://www.codewars.com/kata/57faefc42b531482d5000123)|
+|[filterEvenLengthWords](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Filterevenlengthwords)|`Fundamentals` |[Link](https://www.codewars.com/kata/59564f3bcc15b5591a00004a)|
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
