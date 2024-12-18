@@ -446,6 +446,7 @@ This is a place where I put my CodeWars solutions.
 |[Exclamation marks series #3: Remove all exclamation marks from sentence except at the end](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Exclamation_marks_series_#3_remove_all_exclamation_marks_from_sentence_except_at_the_end)|`Fundamentals` |[Link](https://www.codewars.com/kata/57faefc42b531482d5000123)|
 |[filterEvenLengthWords](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Filterevenlengthwords)|`Fundamentals` |[Link](https://www.codewars.com/kata/59564f3bcc15b5591a00004a)|
 |[Find the calculation type](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_calculation_type)|`Fundamentals` |[Link](https://www.codewars.com/kata/5aca48db188ab3558e0030fa)|
+|[String Reordering](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_reordering)|`Fundamentals` `Strings` `Lists` |[Link](https://www.codewars.com/kata/5b047875de4c7f9af800011b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
