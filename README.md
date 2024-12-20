@@ -448,6 +448,8 @@ This is a place where I put my CodeWars solutions.
 |[Find the calculation type](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_calculation_type)|`Fundamentals` |[Link](https://www.codewars.com/kata/5aca48db188ab3558e0030fa)|
 |[String Reordering](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_reordering)|`Fundamentals` `Strings` `Lists` |[Link](https://www.codewars.com/kata/5b047875de4c7f9af800011b)|
 |[Hungarian Vowel Harmony (easy)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hungarian_vowel_harmony_(easy))|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57fd696e26b06857eb0011e7)|
+|[Cryptanalysis Word Patterns](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cryptanalysis_word_patterns)|`Fundamentals` |[Link](https://www.codewars.com/kata/5f3142b3a28d9b002ef58f5e)|
+
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
