@@ -449,6 +449,7 @@ This is a place where I put my CodeWars solutions.
 |[String Reordering](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_reordering)|`Fundamentals` `Strings` `Lists` |[Link](https://www.codewars.com/kata/5b047875de4c7f9af800011b)|
 |[Hungarian Vowel Harmony (easy)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hungarian_vowel_harmony_(easy))|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57fd696e26b06857eb0011e7)|
 |[Cryptanalysis Word Patterns](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cryptanalysis_word_patterns)|`Fundamentals` |[Link](https://www.codewars.com/kata/5f3142b3a28d9b002ef58f5e)|
+|[Sum - Square Even, Root Odd](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_-_square_even_root_odd)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a4b16435f08299c7000274f)|
 
 
 ## Level 8 Katas
