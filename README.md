@@ -451,7 +451,7 @@ This is a place where I put my CodeWars solutions.
 |[Cryptanalysis Word Patterns](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cryptanalysis_word_patterns)|`Fundamentals` |[Link](https://www.codewars.com/kata/5f3142b3a28d9b002ef58f5e)|
 |[Sum - Square Even, Root Odd](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_-_square_even_root_odd)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a4b16435f08299c7000274f)|
 |[Two fighters, one winner.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_fighters_one_winner)|`Games` `Algorithms` `Logic` `Fundamentals` |[Link](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b)|
-
+|[Previous multiple of three](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Previous_multiple_of_three)|`Fundamentals` |[Link](https://www.codewars.com/kata/61123a6f2446320021db987d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
