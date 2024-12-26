@@ -452,7 +452,7 @@ This is a place where I put my CodeWars solutions.
 |[Sum - Square Even, Root Odd](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_-_square_even_root_odd)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a4b16435f08299c7000274f)|
 |[Two fighters, one winner.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_fighters_one_winner)|`Games` `Algorithms` `Logic` `Fundamentals` |[Link](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b)|
 |[Previous multiple of three](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Previous_multiple_of_three)|`Fundamentals` |[Link](https://www.codewars.com/kata/61123a6f2446320021db987d)|
-
+|[Are they square?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Are_they_square)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56853c44b295170b73000007)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
