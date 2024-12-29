@@ -455,6 +455,7 @@ This is a place where I put my CodeWars solutions.
 |[Are they square?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Are_they_square)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56853c44b295170b73000007)|
 |[Fruit string calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fruit_string_calculator)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/57b9fc5b8f5813384a000aa3)|
 |[Cartesian neighbors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cartesian_neighbors)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/58989a079c70093f3e00008d)|
+|[C.Wars](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cwars)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/55968ab32cf633c3f8000008)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
