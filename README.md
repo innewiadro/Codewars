@@ -457,6 +457,7 @@ This is a place where I put my CodeWars solutions.
 |[Cartesian neighbors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cartesian_neighbors)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/58989a079c70093f3e00008d)|
 |[C.Wars](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cwars)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/55968ab32cf633c3f8000008)|
 |[Odd Ones Out!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Odd_ones_out)|`Fundamentals` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5d376cdc9bcee7001fcb84c0)|
+|[The old switcheroo 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_old_switcheroo_2)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55d6a0e4ededb894be000005)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
