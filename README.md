@@ -458,6 +458,7 @@ This is a place where I put my CodeWars solutions.
 |[C.Wars](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cwars)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/55968ab32cf633c3f8000008)|
 |[Odd Ones Out!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Odd_ones_out)|`Fundamentals` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5d376cdc9bcee7001fcb84c0)|
 |[The old switcheroo 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_old_switcheroo_2)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55d6a0e4ededb894be000005)|
+|[Ghostbusters (whitespace removal)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ghostbusters_(whitespace_removal))|`Fundamentals` `Regular Expressions` `Strings` |[Link](https://www.codewars.com/kata/5668e3800636a6cd6a000018)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
