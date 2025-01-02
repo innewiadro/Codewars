@@ -459,6 +459,7 @@ This is a place where I put my CodeWars solutions.
 |[Odd Ones Out!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Odd_ones_out)|`Fundamentals` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5d376cdc9bcee7001fcb84c0)|
 |[The old switcheroo 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_old_switcheroo_2)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55d6a0e4ededb894be000005)|
 |[Ghostbusters (whitespace removal)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ghostbusters_(whitespace_removal))|`Fundamentals` `Regular Expressions` `Strings` |[Link](https://www.codewars.com/kata/5668e3800636a6cd6a000018)|
+|[The First Non Repeated Character In A String ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_first_non_repeated_character_in_a_string)|`Algorithms` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/570f6436b29c708a32000826)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
