@@ -462,6 +462,7 @@ This is a place where I put my CodeWars solutions.
 |[The First Non Repeated Character In A String ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_first_non_repeated_character_in_a_string)|`Algorithms` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/570f6436b29c708a32000826)|
 |[Possibilities Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Possibilities_array)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/59b710ed70a3b7dd8f000027)|
 |[The Lazy Startup Office](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_lazy_startup_office)|`Arrays` `Matrix` `Fundamentals` |[Link](https://www.codewars.com/kata/578fdcfc75ffd1112c0001a1)|
+|[Number to digit tiers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_to_digit_tiers)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/586bca7fa44cfc833e00005c)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
