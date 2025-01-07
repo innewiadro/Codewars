@@ -1,5 +1,6 @@
 import math
 
+
 def create_array_of_tiers(n):
     res = []
     for i in range(len(str(n))):
