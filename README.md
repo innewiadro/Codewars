@@ -464,6 +464,7 @@ This is a place where I put my CodeWars solutions.
 |[The Lazy Startup Office](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_lazy_startup_office)|`Arrays` `Matrix` `Fundamentals` |[Link](https://www.codewars.com/kata/578fdcfc75ffd1112c0001a1)|
 |[Number to digit tiers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_to_digit_tiers)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/586bca7fa44cfc833e00005c)|
 |[Complete Series](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Complete_series)|`Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/580a4001d6df740d61000301)|
+|[Make acronym](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Make_acronym)|`Fundamentals` |[Link](https://www.codewars.com/kata/57a60bad72292d3e93000a5a)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
