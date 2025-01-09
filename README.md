@@ -465,6 +465,7 @@ This is a place where I put my CodeWars solutions.
 |[Number to digit tiers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_to_digit_tiers)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/586bca7fa44cfc833e00005c)|
 |[Complete Series](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Complete_series)|`Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/580a4001d6df740d61000301)|
 |[Make acronym](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Make_acronym)|`Fundamentals` |[Link](https://www.codewars.com/kata/57a60bad72292d3e93000a5a)|
+|[Multiply Word in String](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Multiply_word_in_string)|`Strings` `Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5ace2d9f307eb29430000092)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
