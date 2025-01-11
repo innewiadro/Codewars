@@ -466,7 +466,8 @@ This is a place where I put my CodeWars solutions.
 |[Complete Series](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Complete_series)|`Lists` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/580a4001d6df740d61000301)|
 |[Make acronym](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Make_acronym)|`Fundamentals` |[Link](https://www.codewars.com/kata/57a60bad72292d3e93000a5a)|
 |[Multiply Word in String](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Multiply_word_in_string)|`Strings` `Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5ace2d9f307eb29430000092)|
-|[Mirror, mirror, on the wall...](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Mirror_mirror_on_the_wall)|`Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5f55ecd770692e001484af7d)|
+|[Mirror, mirror, on the wall...](htts://github.com/innewiadro/Codewars/tree/master/kata_level7/Mirror_mirror_on_the_wall)|`Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5f55ecd770692e001484af7d)|
+|[Combine objects](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Combine_objects)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                    | Subject | CW Link                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
