@@ -727,3 +727,4 @@ This is a place where I put my CodeWars solutions.
 |[Simple validation of a username with regex](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_validation_of_a_username_with_regex)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023)|
 |[Classic Hello World](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Classic_hello_world)|`Fundamentals` `Object-oriented Programming` |[Link](https://www.codewars.com/kata/57036f007fd72e3b77000023)|
 |[Online RPG: player to qualifying stage?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Online_rpg_player_to_qualifying_stage)|`Fundamentals` |[Link](https://www.codewars.com/kata/55849d76acd73f6cc4000087)|
+|[Enumerable Magic #2 - True for Any?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Enumerable_magic_#2_-_true_for_any)|`Fundamentals` |[Link](https://www.codewars.com/kata/54598e89cbae2ac001001135)|
