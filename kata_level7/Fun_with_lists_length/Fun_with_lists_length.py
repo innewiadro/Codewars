@@ -5,4 +5,3 @@ def length(head):
         count += 1
         current = current.next
     return count
-
