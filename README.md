@@ -469,6 +469,7 @@ This is a place where I put my CodeWars solutions.
 |[Mirror, mirror, on the wall...](htts://github.com/innewiadro/Codewars/tree/master/kata_level7/Mirror_mirror_on_the_wall)|`Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5f55ecd770692e001484af7d)|
 |[Combine objects](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Combine_objects)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819)|
 |[Sort the Vowels!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_the_vowels)|`Fundamentals` `Algorithms` `Strings` |[Link](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a)|
+|[Fun with lists: length](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fun_with_lists_length)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/581e476d5f59408553000a4b)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
