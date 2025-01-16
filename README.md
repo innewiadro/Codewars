@@ -471,6 +471,7 @@ This is a place where I put my CodeWars solutions.
 |[Sort the Vowels!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_the_vowels)|`Fundamentals` `Algorithms` `Strings` |[Link](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a)|
 |[Fun with lists: length](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fun_with_lists_length)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/581e476d5f59408553000a4b)|
 |[Scrolling Text](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Scrolling_text)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5a995c2aba1bb57f660001fd)|
+|[Rock Paper Scissors Lizard Spock](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Rock_paper_scissors_lizard_spock)|`Fundamentals` `Logic` |[Link](https://www.codewars.com/kata/57d29ccda56edb4187000052)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
