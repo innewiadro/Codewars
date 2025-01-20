@@ -474,6 +474,7 @@ This is a place where I put my CodeWars solutions.
 |[Rock Paper Scissors Lizard Spock](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Rock_paper_scissors_lizard_spock)|`Fundamentals` `Logic` |[Link](https://www.codewars.com/kata/57d29ccda56edb4187000052)|
 |[Sorting Dictionaries](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sorting_dictionaries)|`Sorting` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/53da6a7e112bd15cbc000012)|
 |[Thinkful - List and Loop Drills: Inverse Slicer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Thinkful_-_list_and_loop_drills_inverse_slicer)|`Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/586ec0b8d098206cce001141)|
+|[What's my golf score?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/What's_my_golf_score)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/59f7a0a77eb74bf96b00006a)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
