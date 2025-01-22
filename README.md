@@ -476,6 +476,7 @@ This is a place where I put my CodeWars solutions.
 |[Thinkful - List and Loop Drills: Inverse Slicer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Thinkful_-_list_and_loop_drills_inverse_slicer)|`Fundamentals` `Lists` |[Link](https://www.codewars.com/kata/586ec0b8d098206cce001141)|
 |[What's my golf score?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/What's_my_golf_score)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/59f7a0a77eb74bf96b00006a)|
 |[Difference between years. (Level 1)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Difference_between_years_(level_1))|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/588f5a38ec641b411200005b)|
+|[Password validator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Password_validator)|`Fundamentals` `Regular Expressions` `Algorithms` |[Link](https://www.codewars.com/kata/56a921fa8c5167d8e7000053)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
