@@ -477,6 +477,7 @@ This is a place where I put my CodeWars solutions.
 |[What's my golf score?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/What's_my_golf_score)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/59f7a0a77eb74bf96b00006a)|
 |[Difference between years. (Level 1)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Difference_between_years_(level_1))|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/588f5a38ec641b411200005b)|
 |[Password validator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Password_validator)|`Fundamentals` `Regular Expressions` `Algorithms` |[Link](https://www.codewars.com/kata/56a921fa8c5167d8e7000053)|
+|[Convert the score](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Convert_the_score)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
