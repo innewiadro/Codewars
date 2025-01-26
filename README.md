@@ -480,6 +480,7 @@ This is a place where I put my CodeWars solutions.
 |[Convert the score](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Convert_the_score)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d)|
 |[All Star Code Challenge #16](https://github.com/innewiadro/Codewars/tree/master/kata_level7/All_star_code_challenge_#16)|`Fundamentals` |[Link](https://www.codewars.com/kata/586566b773bd9cbe2b000013)|
 |[Help Suzuki rake his garden!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Help_suzuki_rake_his_garden)|`Fundamentals` |[Link](https://www.codewars.com/kata/571c1e847beb0a8f8900153d)|
+|[99 Problems, #1: last in list](https://github.com/innewiadro/Codewars/tree/master/kata_level7/99_problems_#1_last_in_list)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/57d86d3d3c3f961278000005)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
