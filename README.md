@@ -483,6 +483,7 @@ This is a place where I put my CodeWars solutions.
 |[99 Problems, #1: last in list](https://github.com/innewiadro/Codewars/tree/master/kata_level7/99_problems_#1_last_in_list)|`Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/57d86d3d3c3f961278000005)|
 |[Can Santa save Christmas?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Can_santa_save_christmas)|`Date Time` `Fundamentals` |[Link](https://www.codewars.com/kata/5857e8bb9948644aa1000246)|
 |[Ch4113ng3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ch4113ng3)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112)|
+|[Array Array Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_array_array)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eb936de1051801d500008a)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
