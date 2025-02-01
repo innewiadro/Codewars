@@ -485,6 +485,7 @@ This is a place where I put my CodeWars solutions.
 |[Ch4113ng3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ch4113ng3)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112)|
 |[Array Array Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_array_array)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57eb936de1051801d500008a)|
 |[Recursion  101](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Recursion_101)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b752a42b11814b09c00005d)|
+|[sPoNgEbOb MeMe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spongebob_meme)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5982619d2671576e90000017)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
