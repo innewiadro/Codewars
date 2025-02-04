@@ -488,6 +488,7 @@ This is a place where I put my CodeWars solutions.
 |[sPoNgEbOb MeMe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spongebob_meme)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5982619d2671576e90000017)|
 |[String Scramble](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_scramble)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/5822d89270ca28c85c0000f3)|
 |[No Loops 1 - Small enough?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/No_loops_1_-_small_enough)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2)|
+|[Password Hashes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Password_hashes)|`Security` `Fundamentals` |[Link](https://www.codewars.com/kata/54207f9677730acd490000d1)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
