@@ -490,6 +490,7 @@ This is a place where I put my CodeWars solutions.
 |[No Loops 1 - Small enough?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/No_loops_1_-_small_enough)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2)|
 |[Password Hashes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Password_hashes)|`Security` `Fundamentals` |[Link](https://www.codewars.com/kata/54207f9677730acd490000d1)|
 |[Geometric Progression Sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometric_progression_sequence)|`Fundamentals` |[Link](https://www.codewars.com/kata/55caef80d691f65cb6000040)|
+|[Array comparator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_comparator)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/561046a9f629a8aac000001d)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
