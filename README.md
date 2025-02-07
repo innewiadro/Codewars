@@ -491,6 +491,7 @@ This is a place where I put my CodeWars solutions.
 |[Password Hashes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Password_hashes)|`Security` `Fundamentals` |[Link](https://www.codewars.com/kata/54207f9677730acd490000d1)|
 |[Geometric Progression Sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometric_progression_sequence)|`Fundamentals` |[Link](https://www.codewars.com/kata/55caef80d691f65cb6000040)|
 |[Array comparator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_comparator)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/561046a9f629a8aac000001d)|
+|[String to integer conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_to_integer_conversion)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/54fdadc8762e2e51e400032c)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
