@@ -493,6 +493,7 @@ This is a place where I put my CodeWars solutions.
 |[Array comparator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_comparator)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/561046a9f629a8aac000001d)|
 |[String to integer conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_to_integer_conversion)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/54fdadc8762e2e51e400032c)|
 |[Double Trouble](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Double_trouble)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57f7796697d62fc93d0001b8)|
+|[Birthday I - Cake](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Birthday_i_-_cake)|`Fundamentals` `Arrays` `Mathematics` |[Link](https://www.codewars.com/kata/5805ed25c2799821cb000005)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
