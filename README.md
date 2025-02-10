@@ -494,6 +494,7 @@ This is a place where I put my CodeWars solutions.
 |[String to integer conversion](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_to_integer_conversion)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/54fdadc8762e2e51e400032c)|
 |[Double Trouble](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Double_trouble)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57f7796697d62fc93d0001b8)|
 |[Birthday I - Cake](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Birthday_i_-_cake)|`Fundamentals` `Arrays` `Mathematics` |[Link](https://www.codewars.com/kata/5805ed25c2799821cb000005)|
+|[Is There an Odd Bit?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_there_an_odd_bit)|`Bits` `Fundamentals` |[Link](https://www.codewars.com)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
