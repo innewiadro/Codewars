@@ -496,6 +496,7 @@ This is a place where I put my CodeWars solutions.
 |[Birthday I - Cake](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Birthday_i_-_cake)|`Fundamentals` `Arrays` `Mathematics` |[Link](https://www.codewars.com/kata/5805ed25c2799821cb000005)|
 |[Is There an Odd Bit?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_there_an_odd_bit)|`Bits` `Fundamentals` |[Link](https://www.codewars.com)|
 |[Beginner Series #5 Triangular Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Beginner_series_#5_triangular_numbers)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/56d0a591c6c8b466ca00118b)|
+|[Easy Time Convert](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Easy_time_convert)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a084a098ba9146690000969)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
