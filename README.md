@@ -497,6 +497,7 @@ This is a place where I put my CodeWars solutions.
 |[Is There an Odd Bit?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_there_an_odd_bit)|`Bits` `Fundamentals` |[Link](https://www.codewars.com)|
 |[Beginner Series #5 Triangular Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Beginner_series_#5_triangular_numbers)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/56d0a591c6c8b466ca00118b)|
 |[Easy Time Convert](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Easy_time_convert)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a084a098ba9146690000969)|
+|[Spraying trees](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spraying_trees)|`Fundamentals` |[Link](https://www.codewars.com/kata/5981a139f5471fd1b2000071)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
