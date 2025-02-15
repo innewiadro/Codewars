@@ -499,6 +499,7 @@ This is a place where I put my CodeWars solutions.
 |[Easy Time Convert](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Easy_time_convert)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a084a098ba9146690000969)|
 |[Spraying trees](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spraying_trees)|`Fundamentals` |[Link](https://www.codewars.com/kata/5981a139f5471fd1b2000071)|
 |[Santa's Naughty List](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Santa's_naughty_list)|`Lists` `Sorting` `Fundamentals` |[Link](https://www.codewars.com/kata/5a0b4dc2ffe75f72f70000ef)|
+|[Paul's Misery](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Paul's_misery)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57ee31c5e77282c24d000024)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
