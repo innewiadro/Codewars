@@ -501,6 +501,7 @@ This is a place where I put my CodeWars solutions.
 |[Santa's Naughty List](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Santa's_naughty_list)|`Lists` `Sorting` `Fundamentals` |[Link](https://www.codewars.com/kata/5a0b4dc2ffe75f72f70000ef)|
 |[Paul's Misery](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Paul's_misery)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57ee31c5e77282c24d000024)|
 |[Colour Association](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Colour_association)|`Fundamentals` |[Link](https://www.codewars.com/kata/56d6b7e43e8186c228000637)|
+|[Ironman Triathlon](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ironman_triathlon)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57d001b405c186ccb6000304)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
