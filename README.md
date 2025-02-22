@@ -506,6 +506,7 @@ This is a place where I put my CodeWars solutions.
 |[Arithmetic sequence -  sum of n elements](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Arithmetic_sequence_-_sum_of_n_elements)|`Fundamentals` |[Link](https://www.codewars.com/kata/55cb0597e12e896ab6000099)|
 |[Keep the Order](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Keep_the_order)|`Fundamentals` |[Link](https://www.codewars.com/kata/582aafca2d44a4a4560000e7)|
 |[Thinkful - List and Loop Drills: Lists of lists](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Thinkful_-_list_and_loop_drills_lists_of_lists)|`Fundamentals` |[Link](https://www.codewars.com/kata/586e1d458cb711f0a800033b)|
+|[Building blocks](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Building_blocks)|`Object-oriented Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/55b75fcf67e558d3750000a3)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
