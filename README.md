@@ -507,6 +507,7 @@ This is a place where I put my CodeWars solutions.
 |[Keep the Order](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Keep_the_order)|`Fundamentals` |[Link](https://www.codewars.com/kata/582aafca2d44a4a4560000e7)|
 |[Thinkful - List and Loop Drills: Lists of lists](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Thinkful_-_list_and_loop_drills_lists_of_lists)|`Fundamentals` |[Link](https://www.codewars.com/kata/586e1d458cb711f0a800033b)|
 |[Building blocks](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Building_blocks)|`Object-oriented Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/55b75fcf67e558d3750000a3)|
+|[Slaphead](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Slaphead)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57efab9acba9daa4d1000b30)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
