@@ -509,6 +509,7 @@ This is a place where I put my CodeWars solutions.
 |[Building blocks](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Building_blocks)|`Object-oriented Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/55b75fcf67e558d3750000a3)|
 |[Slaphead](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Slaphead)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57efab9acba9daa4d1000b30)|
 |[No ifs no buts](https://github.com/innewiadro/Codewars/tree/master/kata_level7/No_ifs_no_buts)|`Restricted` `Fundamentals` |[Link](https://www.codewars.com/kata/592915cc1fad49252f000006)|
+|[Ordering  the words!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ordering_the_words)|`Strings` `Sorting` `Fundamentals` |[Link](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
