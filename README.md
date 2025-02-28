@@ -511,6 +511,7 @@ This is a place where I put my CodeWars solutions.
 | [No ifs no buts](https://github.com/innewiadro/Codewars/tree/master/kata_level7/No_ifs_no_buts)                                                                                                                                                                  |`Restricted` `Fundamentals` |[Link](https://www.codewars.com/kata/592915cc1fad49252f000006)|
 | [Ordering  the words!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ordering_the_words2)                                                                                                                                                       |`Strings` `Sorting` `Fundamentals` |[Link](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070)|
 |[Scrabble Score](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Scrabble_score)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/558fa34727c2d274c10000ae)|
+|[Moves in squared strings (I)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Moves_in_squared_strings_(i))|`Fundamentals` `Algorithms` `Strings` |[Link](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
