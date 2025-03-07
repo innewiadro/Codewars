@@ -518,6 +518,7 @@ This is a place where I put my CodeWars solutions.
 |[First-Class Function Factory](https://github.com/innewiadro/Codewars/tree/master/kata_level7/First-class_function_factory)|`Fundamentals` `Functional Programming` `Arrays` |[Link](https://www.codewars.com/kata/563f879ecbb8fcab31000041)|
 |[Collinearity](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Collinearity)|`Fundamentals` `Geometry` `Mathematics` `Data Science` `Games` |[Link](https://www.codewars.com/kata/65ba420888906c1f86e1e680)|
 |[Dropcaps](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dropcaps)|`Arrays` `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/559e5b717dd758a3eb00005a)|
+|[Strings: starts with](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Strings_starts_with)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5803a6d8db07c59fff00015f)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
