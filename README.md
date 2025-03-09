@@ -520,6 +520,7 @@ This is a place where I put my CodeWars solutions.
 |[Dropcaps](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dropcaps)|`Arrays` `Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/559e5b717dd758a3eb00005a)|
 |[Strings: starts with](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Strings_starts_with)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5803a6d8db07c59fff00015f)|
 |[Do you speak retsec?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Do_you_speak_retsec)|`Fundamentals` |[Link](https://www.codewars.com/kata/5516ab668915478845000780)|
+|[Naughty or Nice?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Naughty_or_nice)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/52a6b34e43c2484ac10000cd)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
