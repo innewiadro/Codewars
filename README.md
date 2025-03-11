@@ -522,6 +522,7 @@ This is a place where I put my CodeWars solutions.
 |[Do you speak retsec?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Do_you_speak_retsec)|`Fundamentals` |[Link](https://www.codewars.com/kata/5516ab668915478845000780)|
 |[Naughty or Nice?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Naughty_or_nice)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/52a6b34e43c2484ac10000cd)|
 |[LinkedList -> Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Linkedlist_-_array)|`Data Structures` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/557dd2a061f099504a000088)|
+|[Move all vowels](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Move_all_vowels)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/56bf3287b5106eb10f000899)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
