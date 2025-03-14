@@ -525,6 +525,7 @@ This is a place where I put my CodeWars solutions.
 |[Move all vowels](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Move_all_vowels)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/56bf3287b5106eb10f000899)|
 |[You Got Change?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/You_got_change)|`Fundamentals` |[Link](https://www.codewars.com/kata/5966f6343c0702d1dc00004c)|
 |[Larger Product or Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Larger_product_or_sum)|`Fundamentals` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/5c4cb8fc3cf185147a5bdd02)|
+|[Search for letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Search_for_letters)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/52dbae61ca039685460001ae)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
