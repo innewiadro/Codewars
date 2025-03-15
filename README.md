@@ -788,3 +788,4 @@ This is a place where I put my CodeWars solutions.
 |[Online RPG: player to qualifying stage?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Online_rpg_player_to_qualifying_stage)|`Fundamentals` |[Link](https://www.codewars.com/kata/55849d76acd73f6cc4000087)|
 |[Enumerable Magic #2 - True for Any?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Enumerable_magic_#_-_true_for_any)|`Fundamentals` |[Link](https://www.codewars.com/kata/54598e89cbae2ac001001135)|
 |[Geometry Basics: Circle Area in 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Geometry_basics_circle_area_in_2d)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58e3f824a33b52c1dc0001c0)|
+|[Greek Sort](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Greek_sort)|`Fundamentals` `Sorting` |[Link](https://www.codewars.com/kata/56bc1acf66a2abc891000561)|
