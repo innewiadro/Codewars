@@ -528,6 +528,7 @@ This is a place where I put my CodeWars solutions.
 |[Search for letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Search_for_letters)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/52dbae61ca039685460001ae)|
 |[Word to binary](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Word_to_binary)|`Fundamentals` |[Link](https://www.codewars.com/kata/59859f435f5d18ede7000050)|
 |[Billiards triangle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Billiards_triangle)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5bb3e299484fcd5dbb002912)|
+|[Basic JS - Calculating averages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Basic_js_-_calculating_averages)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/529f32794a6db5d32a00071f)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
