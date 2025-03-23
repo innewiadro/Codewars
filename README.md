@@ -532,6 +532,7 @@ This is a place where I put my CodeWars solutions.
 |[Basic JS - Calculating averages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Basic_js_-_calculating_averages)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/529f32794a6db5d32a00071f)|
 |[Homogenous arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Homogenous_arrays)|`Arrays` `Fundamentals` `Functional Programming` |[Link](https://www.codewars.com/kata/57ef016a7b45ef647a00002d)|
 |[RaNDoM CAsE](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Random_case)|`Fundamentals` |[Link](https://www.codewars.com/kata/57073869924f34185100036d)|
+|[Product of Largest Pair](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Product_of_largest_pair)|`Fundamentals` `Arrays` `Algorithms` `Sorting` |[Link](https://www.codewars.com/kata/5784c89be5553370e000061b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
