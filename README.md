@@ -534,6 +534,7 @@ This is a place where I put my CodeWars solutions.
 |[RaNDoM CAsE](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Random_case)|`Fundamentals` |[Link](https://www.codewars.com/kata/57073869924f34185100036d)|
 |[Product of Largest Pair](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Product_of_largest_pair)|`Fundamentals` `Arrays` `Algorithms` `Sorting` |[Link](https://www.codewars.com/kata/5784c89be5553370e000061b)|
 |[Lottery machine](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Lottery_machine)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5832db03d5bafb7d96000107)|
+|[Count number of zeros from 1 to N](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_number_of_zeros_from_1_to_n)|`Algorithms` |[Link](https://www.codewars.com/kata/557cffec8c3e8e55cc00010f)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
