@@ -115,7 +115,7 @@ This is a place where I put my CodeWars solutions.
 | [N-th Fibonacci](https://github.com/innewiadro/Codewars/tree/master/kata_level6/N-th_fibonacci)                                                                                                            |`Algorithms` | [Link](https://www.codewars.com/kata/522551eee9abb932420004a0)              |
 |[Transform To Prime](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Transform_to_prime)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)|
 |[Consecutive strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consecutive_strings)|`Fundamentals` |[Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)|
-
+|[Interactive Dictionary](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Interactive_dictionary)|`Fundamentals` |[Link](https://www.codewars.com/kata/57a93f93bb9944516d0000c1)|
 
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                           | Subject | CW Link                                                                     
