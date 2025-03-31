@@ -537,6 +537,7 @@ This is a place where I put my CodeWars solutions.
 |[Count number of zeros from 1 to N](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_number_of_zeros_from_1_to_n)|`Algorithms` |[Link](https://www.codewars.com/kata/557cffec8c3e8e55cc00010f)|
 |[Turn any word into a beef taco](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Turn_any_word_into_a_beef_taco)|`Fundamentals` |[Link](https://www.codewars.com/kata/59414b46d040b7b8f7000021)|
 |[ASCII letters from Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ascii_letters_from_number)|`Fundamentals` |[Link](https://www.codewars.com/kata/589ebcb9926baae92e000001)|
+|[Counting in the  Amazon](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Counting_in_the_amazon)|`Puzzles` `Fundamentals` |[Link](https://www.codewars.com/kata/55b95c76e08bd5eef100001e)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
