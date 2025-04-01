@@ -538,6 +538,7 @@ This is a place where I put my CodeWars solutions.
 |[Turn any word into a beef taco](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Turn_any_word_into_a_beef_taco)|`Fundamentals` |[Link](https://www.codewars.com/kata/59414b46d040b7b8f7000021)|
 |[ASCII letters from Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ascii_letters_from_number)|`Fundamentals` |[Link](https://www.codewars.com/kata/589ebcb9926baae92e000001)|
 |[Counting in the  Amazon](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Counting_in_the_amazon)|`Puzzles` `Fundamentals` |[Link](https://www.codewars.com/kata/55b95c76e08bd5eef100001e)|
+|[Binary scORe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Binary_score)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/56cafdabc8cfcc3ad4000a2b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
