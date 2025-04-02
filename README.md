@@ -539,6 +539,7 @@ This is a place where I put my CodeWars solutions.
 |[ASCII letters from Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ascii_letters_from_number)|`Fundamentals` |[Link](https://www.codewars.com/kata/589ebcb9926baae92e000001)|
 |[Counting in the  Amazon](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Counting_in_the_amazon)|`Puzzles` `Fundamentals` |[Link](https://www.codewars.com/kata/55b95c76e08bd5eef100001e)|
 |[Binary scORe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Binary_score)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/56cafdabc8cfcc3ad4000a2b)|
+|[The Solar System - Planet Mnemonic](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_solar_system_-_planet_mnemonic)|`Lists` `Strings` |[Link](https://www.codewars.com/kata/67d4554cd94fdfdab4239cfa)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
