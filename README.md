@@ -541,6 +541,7 @@ This is a place where I put my CodeWars solutions.
 |[Binary scORe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Binary_score)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/56cafdabc8cfcc3ad4000a2b)|
 |[The Solar System - Planet Mnemonic](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_solar_system_-_planet_mnemonic)|`Lists` `Strings` |[Link](https://www.codewars.com/kata/67d4554cd94fdfdab4239cfa)|
 |[Genetic Algorithm Series - #1 Generate](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Genetic_algorithm_series_-_#1_generate)|`Strings` `Fundamentals` `Genetic Algorithms` `Algorithms` |[Link](https://www.codewars.com/kata/567d609f1c16d7369c000008)|
+|[Number climber](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_climber)|`Fundamentals` |[Link](https://www.codewars.com/kata/559760bae64c31556c00006b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
