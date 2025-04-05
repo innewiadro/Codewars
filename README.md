@@ -116,6 +116,7 @@ This is a place where I put my CodeWars solutions.
 |[Transform To Prime](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Transform_to_prime)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)|
 |[Consecutive strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consecutive_strings)|`Fundamentals` |[Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)|
 |[Interactive Dictionary](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Interactive_dictionary)|`Fundamentals` |[Link](https://www.codewars.com/kata/57a93f93bb9944516d0000c1)|
+|[8 towers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/8_towers)|`Algorithms` |[Link](https://www.codewars.com/kata/535bea76cdbf50281a00004c)|
 
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                           | Subject | CW Link                                                                     
