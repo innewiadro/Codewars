@@ -544,6 +544,7 @@ This is a place where I put my CodeWars solutions.
 |[The Solar System - Planet Mnemonic](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_solar_system_-_planet_mnemonic)|`Lists` `Strings` |[Link](https://www.codewars.com/kata/67d4554cd94fdfdab4239cfa)|
 |[Genetic Algorithm Series - #1 Generate](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Genetic_algorithm_series_-_#1_generate)|`Strings` `Fundamentals` `Genetic Algorithms` `Algorithms` |[Link](https://www.codewars.com/kata/567d609f1c16d7369c000008)|
 |[Number climber](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_climber)|`Fundamentals` |[Link](https://www.codewars.com/kata/559760bae64c31556c00006b)|
+|[Regexp Basics - is it a six bit unsigned number?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regexp_basics_-_is_it_a_six_bit_unsigned_number)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/567e8dbb9b6f4da558000030)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
