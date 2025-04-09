@@ -546,6 +546,7 @@ This is a place where I put my CodeWars solutions.
 |[Number climber](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_climber)|`Fundamentals` |[Link](https://www.codewars.com/kata/559760bae64c31556c00006b)|
 |[Regexp Basics - is it a six bit unsigned number?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regexp_basics_-_is_it_a_six_bit_unsigned_number)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/567e8dbb9b6f4da558000030)|
 |[Regexp basics - parsing prices](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regexp_basics_-_parsing_prices)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/56833b76371e86f8b6000015)|
+|[My Language Skills](https://github.com/innewiadro/Codewars/tree/master/kata_level7/My_language_skills)|`Sorting` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5b16490986b6d336c900007d)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
