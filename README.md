@@ -813,3 +813,4 @@ This is a place where I put my CodeWars solutions.
 |[Enumerable Magic #4 - True for None?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Enumerable_magic_#4_-_true_for_none)|`Fundamentals` |[Link](https://www.codewars.com/kata/545993ee52756d98ca0010e1)|
 |[String cleaning](https://github.com/innewiadro/Codewars/tree/master/kata_level8/String_cleaning)|`Regular Expressions` `Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57e1e61ba396b3727c000251)|
 |[BASIC: Making Six Toast.](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_making_six_toast)|`Algorithms` |[Link](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8)|
+|[Fix the loop!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fix_the_loop)|`Debugging` `Fundamentals` |[Link](https://www.codewars.com/kata/55ca43fb05c5f2f97f0000fd)|
