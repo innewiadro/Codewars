@@ -549,6 +549,7 @@ This is a place where I put my CodeWars solutions.
 |[My Language Skills](https://github.com/innewiadro/Codewars/tree/master/kata_level7/My_language_skills)|`Sorting` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5b16490986b6d336c900007d)|
 |[Loose Change!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Loose_change)|`Fundamentals` |[Link](https://www.codewars.com/kata/57e1857d333d8e0f76002169)|
 |[Fusion  Chamber Shutdown](https://github.com/innewiadro/Codewars/tree/master/kata_level7/fusion_chamber_shutdown)|`Fundamentals` |[Link](https://www.codewars.com/kata/5fde1ea66ba4060008ea5bd9)|
+|[Jumping  Kangaroos](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jumping_kangaroos)|`Fundamentals` |[Link](https://www.codewars.com/kata/5ae7e1522c5061beb7000051)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
