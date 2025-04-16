@@ -552,6 +552,7 @@ This is a place where I put my CodeWars solutions.
 |[Jumping  Kangaroos](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jumping_kangaroos)|`Fundamentals` |[Link](https://www.codewars.com/kata/5ae7e1522c5061beb7000051)|
 |[Sum of powers of 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_powers_of_2)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/5d9f95424a336600278a9632)|
 |[Sort rectangles and circles by area II](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_rectangles_and_circles_by_area_ii)|`Fundamentals` `Algorithms` `Sorting` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5)|
+|[Functional Addition](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Functional_addition)|`Functional Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/538835ae443aae6e03000547)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
