@@ -555,6 +555,7 @@ This is a place where I put my CodeWars solutions.
 |[Functional Addition](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Functional_addition)|`Functional Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/538835ae443aae6e03000547)|
 |[DNA GC-content](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dna_gc-content)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5747a9bbe2fab9a0c400012f)|
 |[regex  validation of 24 hours time.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Regex_validation_of_24_hours_time)|`Regular Expressions` `Date Time` `Fundamentals` |[Link](https://www.codewars.com/kata/56a4a3d4043c316002000042)|
+|[Radio DJ helper function](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Radio_dj_helper_function)|`Sorting` `Filtering` `Algorithms` |[Link](https://www.codewars.com/kata/561bbcb0fbbfb0f5010000ee)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
