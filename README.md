@@ -558,6 +558,7 @@ This is a place where I put my CodeWars solutions.
 |[Radio DJ helper function](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Radio_dj_helper_function)|`Sorting` `Filtering` `Algorithms` |[Link](https://www.codewars.com/kata/561bbcb0fbbfb0f5010000ee)|
 |[Share prices](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Share_prices)|`Logic` `Algorithms` |[Link](https://www.codewars.com/kata/5603a4dd3d96ef798f000068)|
 |[Operations With Sets](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Operations_with_sets)|`Fundamentals` `Data Structures` `Mathematics` |[Link](https://www.codewars.com/kata/5609fd5b44e602b2ff00003a)|
+|[Numbers Which Sum of Powers of Its Digits Is The Same Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_which_sum_of_powers_of_its_digits_is_the_same_number)|`Fundamentals` `Mathematics` `Data Structures` |[Link](https://www.codewars.com/kata/560a4962c0cc5c2a16000068)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
