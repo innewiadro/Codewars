@@ -561,6 +561,8 @@ This is a place where I put my CodeWars solutions.
 |[Numbers Which Sum of Powers of Its Digits Is The Same Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_which_sum_of_powers_of_its_digits_is_the_same_number)|`Fundamentals` `Mathematics` `Data Structures` |[Link](https://www.codewars.com/kata/560a4962c0cc5c2a16000068)|
 |[Print count and  numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Print_count_and_numbers)|`Fundamentals` |[Link](https://www.codewars.com/kata/559af787b4b8eac78b000022)|
 |[zero-balanced Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Zero-balanced_array)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/59c6fa6972851e8959000067)|
+|[Status Arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Status_arrays)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/601c18c1d92283000ec86f2b)|
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
