@@ -562,6 +562,7 @@ This is a place where I put my CodeWars solutions.
 |[Print count and  numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Print_count_and_numbers)|`Fundamentals` |[Link](https://www.codewars.com/kata/559af787b4b8eac78b000022)|
 |[zero-balanced Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Zero-balanced_array)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/59c6fa6972851e8959000067)|
 |[Status Arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Status_arrays)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/601c18c1d92283000ec86f2b)|
+|[Time Converter: hours, minutes, seconds and milliseconds](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Time_converter_hours_minutes_seconds_and_milliseconds)|`Date Time` `Parsing` `Refactoring` |[Link](https://www.codewars.com/kata/56b8b0ae1d36bb86b2000eaa)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
