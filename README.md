@@ -565,6 +565,7 @@ This is a place where I put my CodeWars solutions.
 |[Time Converter: hours, minutes, seconds and milliseconds](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Time_converter_hours_minutes_seconds_and_milliseconds)|`Date Time` `Parsing` `Refactoring` |[Link](https://www.codewars.com/kata/56b8b0ae1d36bb86b2000eaa)|
 |[Currying functions: multiply all elements in an array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Currying_functions_multiply_all_elements_in_an_array)|`Functional Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/586909e4c66d18dd1800009b)|
 |[Help Suzuki complete his chores!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Help_suzuki_complete_his_chores)|`Algorithms` |[Link](https://www.codewars.com/kata/584dc1b7766c2bb158000226)|
+|[Check whether a number is valid in a given numeral system](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_whether_a_number_is_valid_in_a_given_numeral_system)|`` |[Link](https://www.codewars.com/kata/67757660c552a3a7ef9aaceb)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
