@@ -568,6 +568,7 @@ This is a place where I put my CodeWars solutions.
 |[Check whether a number is valid in a given numeral system](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_whether_a_number_is_valid_in_a_given_numeral_system)|`` |[Link](https://www.codewars.com/kata/67757660c552a3a7ef9aaceb)|
 |[Calculate Julie's Age](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Calculate_julie's_age)|`Algebra` `Algorithms` |[Link](https://www.codewars.com/kata/558445a88826e1376b000011)|
 |[Katastrophe!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Katastrophe)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/55a3cb91d1c9ecaa2900001b)|
+|[Digits Average](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digits_average)|`Algorithms` |[Link](https://www.codewars.com/kata/5a32526ae1ce0ec0f10000b2)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
