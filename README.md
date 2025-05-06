@@ -571,6 +571,8 @@ This is a place where I put my CodeWars solutions.
 |[Digits Average](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digits_average)|`Algorithms` |[Link](https://www.codewars.com/kata/5a32526ae1ce0ec0f10000b2)|
 |[Simple Fun #190: Folding Paper](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#190_folding_paper)|`Puzzles` |[Link](https://www.codewars.com/kata/58bfa1ea43fadb41840000b4)|
 |[Weight of its Contents](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Weight_of_its_contents)|`Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/53921994d8f00b93df000bea)|
+|[Unpacking Arguments](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Unpacking_arguments)|`Functional Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/540de1f0716ab384b4000828)|
+
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
