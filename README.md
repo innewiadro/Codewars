@@ -572,7 +572,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Fun #190: Folding Paper](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#190_folding_paper)|`Puzzles` |[Link](https://www.codewars.com/kata/58bfa1ea43fadb41840000b4)|
 |[Weight of its Contents](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Weight_of_its_contents)|`Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/53921994d8f00b93df000bea)|
 |[Unpacking Arguments](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Unpacking_arguments)|`Functional Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/540de1f0716ab384b4000828)|
-
+|[String to list of integers.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_to_list_of_integers)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5727868888095bdf5c001d3d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
