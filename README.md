@@ -575,6 +575,7 @@ This is a place where I put my CodeWars solutions.
 |[String to list of integers.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_to_list_of_integers)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5727868888095bdf5c001d3d)|
 |[Bits Battle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Bits_battle)|`Fundamentals` `Binary` `Bits` |[Link](https://www.codewars.com/kata/58856a06760b85c4e6000055)|
 |[Inverting a Hash](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Inverting_a_hash)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b5604e26dc79e6832000101)|
+|[What comes after? ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/What_comes_after)|`Fundamentals` |[Link](https://www.codewars.com/kata/590f5b4a7bbb3e246000007d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
