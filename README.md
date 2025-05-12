@@ -577,6 +577,7 @@ This is a place where I put my CodeWars solutions.
 |[Inverting a Hash](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Inverting_a_hash)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b5604e26dc79e6832000101)|
 |[What comes after? ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/What_comes_after)|`Fundamentals` |[Link](https://www.codewars.com/kata/590f5b4a7bbb3e246000007d)|
 |[Zero Terminated Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Zero_terminated_sum)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a2d70a6f28b821ab4000004)|
+|[Decoding a message](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Decoding_a_message)|`Puzzles` `Algorithms` `Cryptography` `Security` `Games` |[Link](https://www.codewars.com/kata/565b9d6f8139573819000056)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
