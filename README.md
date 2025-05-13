@@ -847,3 +847,4 @@ This is a place where I put my CodeWars solutions.
 |[BASIC: Making Six Toast.](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_making_six_toast)|`Algorithms` |[Link](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8)|
 |[Fix the loop!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fix_the_loop)|`Debugging` `Fundamentals` |[Link](https://www.codewars.com/kata/55ca43fb05c5f2f97f0000fd)|
 |[Grasshopper - Terminal Game Turn Function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_terminal_game_turn_function)|`Fundamentals` |[Link](https://www.codewars.com/kata/56019d3b2c39ccde76000086)|
+|[Incorrect division method](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Incorrect_division_method)|`Debugging` |[Link](https://www.codewars.com/kata/54d1c59aba326343c80000e7)|
