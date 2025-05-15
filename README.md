@@ -119,6 +119,7 @@ This is a place where I put my CodeWars solutions.
 |[8 towers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/8_towers)|`Algorithms` |[Link](https://www.codewars.com/kata/535bea76cdbf50281a00004c)|
 |[Transposing a song](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Transposing_a_song)|`Fundamentals` `Algorithms` `Strings` `Lists` |[Link](https://www.codewars.com/kata/55b6a3a3c776ce185c000021)|
 |[The 'spiraling' box](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_'spiraling'_box)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)|
+|[Simple Fun #198: Cake Slice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#198_cake_slice)|`Puzzles` |[Link](https://www.codewars.com/kata/58c8a41bedb423240a000007)|
 
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                         | Subject | CW Link                                                                     
