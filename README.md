@@ -121,6 +121,7 @@ This is a place where I put my CodeWars solutions.
 |[The 'spiraling' box](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_'spiraling'_box)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)|
 |[Simple Fun #198: Cake Slice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#198_cake_slice)|`Puzzles` |[Link](https://www.codewars.com/kata/58c8a41bedb423240a000007)|
 |[Keypad horror](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Keypad_horror)|`Strings` |[Link](https://www.codewars.com/kata/5572392fee5b0180480001ae)|
+|[Shift Left](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shift_left)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bdc191306a8a678f6000187)|
 
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                         | Subject | CW Link                                                                     
