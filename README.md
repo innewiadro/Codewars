@@ -122,6 +122,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Fun #198: Cake Slice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#198_cake_slice)|`Puzzles` |[Link](https://www.codewars.com/kata/58c8a41bedb423240a000007)|
 |[Keypad horror](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Keypad_horror)|`Strings` |[Link](https://www.codewars.com/kata/5572392fee5b0180480001ae)|
 |[Shift Left](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shift_left)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bdc191306a8a678f6000187)|
+|[Credit Card Checker](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_checker)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/56d55dcdc87df58c81000605)|
 
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                         | Subject | CW Link                                                                     
