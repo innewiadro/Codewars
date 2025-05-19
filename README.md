@@ -123,6 +123,7 @@ This is a place where I put my CodeWars solutions.
 |[Keypad horror](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Keypad_horror)|`Strings` |[Link](https://www.codewars.com/kata/5572392fee5b0180480001ae)|
 |[Shift Left](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shift_left)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bdc191306a8a678f6000187)|
 |[Credit Card Checker](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_checker)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/56d55dcdc87df58c81000605)|
+|[All Nines](https://github.com/innewiadro/Codewars/tree/master/kata_level7/All_nines)|`Mathematics` |[Link](https://www.codewars.com/kata/664b9dd610985cc3b6784111)|
 
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                         | Subject | CW Link                                                                     
