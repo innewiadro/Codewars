@@ -126,6 +126,7 @@ This is a place where I put my CodeWars solutions.
 |[All Nines](https://github.com/innewiadro/Codewars/tree/master/kata_level7/All_nines)|`Mathematics` |[Link](https://www.codewars.com/kata/664b9dd610985cc3b6784111)|
 |[Lojban Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Lojban_numbers)|`Strings` `Algorithms` `Parsing` |[Link](https://www.codewars.com/kata/6584b7cac29ca91dd9124009)|
 |[Friday the 13th Part 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Friday_the_13th_part_1)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5925acf31a9825d616000e74)|
+|[White or Black?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/White_or_black)|`Algorithms` |[Link](https://www.codewars.com/kata/563319974612f4fa3f0000e0)|
 
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                         | Subject | CW Link                                                                     
