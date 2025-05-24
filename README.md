@@ -115,19 +115,8 @@ This is a place where I put my CodeWars solutions.
 | [N-th Fibonacci](https://github.com/innewiadro/Codewars/tree/master/kata_level6/N-th_fibonacci)                                                                                                            |`Algorithms` | [Link](https://www.codewars.com/kata/522551eee9abb932420004a0)              |
 |[Transform To Prime](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Transform_to_prime)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)|
 |[Consecutive strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consecutive_strings)|`Fundamentals` |[Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)|
-|[Interactive Dictionary](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Interactive_dictionary)|`Fundamentals` |[Link](https://www.codewars.com/kata/57a93f93bb9944516d0000c1)|
-|[8 towers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/8_towers)|`Algorithms` |[Link](https://www.codewars.com/kata/535bea76cdbf50281a00004c)|
-|[Transposing a song](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Transposing_a_song)|`Fundamentals` `Algorithms` `Strings` `Lists` |[Link](https://www.codewars.com/kata/55b6a3a3c776ce185c000021)|
-|[The 'spiraling' box](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_'spiraling'_box)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)|
-|[Simple Fun #198: Cake Slice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#198_cake_slice)|`Puzzles` |[Link](https://www.codewars.com/kata/58c8a41bedb423240a000007)|
-|[Keypad horror](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Keypad_horror)|`Strings` |[Link](https://www.codewars.com/kata/5572392fee5b0180480001ae)|
-|[Shift Left](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shift_left)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bdc191306a8a678f6000187)|
-|[Credit Card Checker](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_checker)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/56d55dcdc87df58c81000605)|
-|[All Nines](https://github.com/innewiadro/Codewars/tree/master/kata_level7/All_nines)|`Mathematics` |[Link](https://www.codewars.com/kata/664b9dd610985cc3b6784111)|
-|[Lojban Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Lojban_numbers)|`Strings` `Algorithms` `Parsing` |[Link](https://www.codewars.com/kata/6584b7cac29ca91dd9124009)|
-|[Friday the 13th Part 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Friday_the_13th_part_1)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5925acf31a9825d616000e74)|
-|[White or Black?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/White_or_black)|`Algorithms` |[Link](https://www.codewars.com/kata/563319974612f4fa3f0000e0)|
-|[Arithmetic List!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Arithmetic_list)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/541da001259d9ca85d000688)|
+|
+
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                         | Subject | CW Link                                                                     
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------------|
@@ -587,6 +576,19 @@ This is a place where I put my CodeWars solutions.
 |[What comes after? ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/What_comes_after)|`Fundamentals` |[Link](https://www.codewars.com/kata/590f5b4a7bbb3e246000007d)|
 |[Zero Terminated Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Zero_terminated_sum)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a2d70a6f28b821ab4000004)|
 |[Decoding a message](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Decoding_a_message)|`Puzzles` `Algorithms` `Cryptography` `Security` `Games` |[Link](https://www.codewars.com/kata/565b9d6f8139573819000056)|
+[Interactive Dictionary](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Interactive_dictionary)|`Fundamentals` |[Link](https://www.codewars.com/kata/57a93f93bb9944516d0000c1)|
+|[Transposing a song](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Transposing_a_song)|`Fundamentals` `Algorithms` `Strings` `Lists` |[Link](https://www.codewars.com/kata/55b6a3a3c776ce185c000021)|
+|[The 'spiraling' box](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_'spiraling'_box)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)|
+|[Simple Fun #198: Cake Slice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#198_cake_slice)|`Puzzles` |[Link](https://www.codewars.com/kata/58c8a41bedb423240a000007)|
+|[Keypad horror](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Keypad_horror)|`Strings` |[Link](https://www.codewars.com/kata/5572392fee5b0180480001ae)|
+|[Shift Left](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Shift_left)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bdc191306a8a678f6000187)|
+|[Credit Card Checker](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_checker)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/56d55dcdc87df58c81000605)|
+|[All Nines](https://github.com/innewiadro/Codewars/tree/master/kata_level7/All_nines)|`Mathematics` |[Link](https://www.codewars.com/kata/664b9dd610985cc3b6784111)|
+|[Lojban Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Lojban_numbers)|`Strings` `Algorithms` `Parsing` |[Link](https://www.codewars.com/kata/6584b7cac29ca91dd9124009)|
+|[Friday the 13th Part 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Friday_the_13th_part_1)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5925acf31a9825d616000e74)|
+|[White or Black?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/White_or_black)|`Algorithms` |[Link](https://www.codewars.com/kata/563319974612f4fa3f0000e0)|
+|[Arithmetic List!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Arithmetic_list)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/541da001259d9ca85d000688)|
+|[Geometric sequence -  sum of all elements](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometric_sequence_-_sum_of_all_elements)|`Fundamentals` |[Link](https://www.codewars.com/kata/55cb000321ca31039e00007d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
@@ -857,3 +859,4 @@ This is a place where I put my CodeWars solutions.
 |[Fix the loop!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fix_the_loop)|`Debugging` `Fundamentals` |[Link](https://www.codewars.com/kata/55ca43fb05c5f2f97f0000fd)|
 |[Grasshopper - Terminal Game Turn Function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_terminal_game_turn_function)|`Fundamentals` |[Link](https://www.codewars.com/kata/56019d3b2c39ccde76000086)|
 |[Incorrect division method](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Incorrect_division_method)|`Debugging` |[Link](https://www.codewars.com/kata/54d1c59aba326343c80000e7)|
+|[8 towers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/8_towers)|`Algorithms` |[Link](https://www.codewars.com/kata/535bea76cdbf50281a00004c)|
