@@ -589,6 +589,7 @@ This is a place where I put my CodeWars solutions.
 |[White or Black?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/White_or_black)|`Algorithms` |[Link](https://www.codewars.com/kata/563319974612f4fa3f0000e0)|
 |[Arithmetic List!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Arithmetic_list)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/541da001259d9ca85d000688)|
 |[Geometric sequence -  sum of all elements](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometric_sequence_-_sum_of_all_elements)|`Fundamentals` |[Link](https://www.codewars.com/kata/55cb000321ca31039e00007d)|
+|[Format to the 2nd](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Format_to_the_2nd)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/58311faba317216aad000168)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
