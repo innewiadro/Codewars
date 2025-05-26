@@ -590,6 +590,7 @@ This is a place where I put my CodeWars solutions.
 |[Arithmetic List!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Arithmetic_list)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/541da001259d9ca85d000688)|
 |[Geometric sequence -  sum of all elements](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometric_sequence_-_sum_of_all_elements)|`Fundamentals` |[Link](https://www.codewars.com/kata/55cb000321ca31039e00007d)|
 |[Format to the 2nd](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Format_to_the_2nd)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/58311faba317216aad000168)|
+|[Name Array Capping](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Name_array_capping)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5356ad2cbb858025d800111d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
