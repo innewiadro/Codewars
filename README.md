@@ -592,6 +592,8 @@ This is a place where I put my CodeWars solutions.
 |[Format to the 2nd](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Format_to_the_2nd)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/58311faba317216aad000168)|
 |[Name Array Capping](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Name_array_capping)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5356ad2cbb858025d800111d)|
 |[Chinese Zodiac](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Chinese_zodiac)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57a73e697cb1f31dd70000d2)|
+|[Replace every nth](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Replace_every_nth)|`Algorithms` `Strings` |[Link](https://www.codewars.com/kata/57fcaed83206fb15fd00027a)|
+
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
