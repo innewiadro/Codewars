@@ -593,6 +593,7 @@ This is a place where I put my CodeWars solutions.
 |[Name Array Capping](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Name_array_capping)|`Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5356ad2cbb858025d800111d)|
 |[Chinese Zodiac](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Chinese_zodiac)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/57a73e697cb1f31dd70000d2)|
 |[Replace every nth](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Replace_every_nth)|`Algorithms` `Strings` |[Link](https://www.codewars.com/kata/57fcaed83206fb15fd00027a)|
+|[Email Address Obfuscator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Email_address_obfuscator)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/562d8d4c434582007300004e)|
 
 
 ## Level 8 Katas
