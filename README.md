@@ -596,7 +596,7 @@ This is a place where I put my CodeWars solutions.
 |[Email Address Obfuscator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Email_address_obfuscator)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/562d8d4c434582007300004e)|
 |[Figure Out the Notes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Figure_out_the_notes)|`Algorithms` |[Link](https://www.codewars.com/kata/5602e85d255e3240c2000024)|
 |[Powers of 3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Powers_of_3)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/57be674b93687de78c0001d9)|
-
+|[Pluralization](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Pluralization)|`Algorithms` |[Link](https://www.codewars.com/kata/57fe7ea808d102a2ba000edd)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
