@@ -598,6 +598,7 @@ This is a place where I put my CodeWars solutions.
 |[Powers of 3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Powers_of_3)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/57be674b93687de78c0001d9)|
 |[Pluralization](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Pluralization)|`Algorithms` |[Link](https://www.codewars.com/kata/57fe7ea808d102a2ba000edd)|
 |[Minimum Percentage  of Visitors that Ate All Foods](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minimum_percentage_of_visitors_that_ate_all_foods)|`` |[Link](https://www.codewars.com/kata/657e578bdc80170abd4dca79)|
+|[Credit card issuer checking](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_issuer_checking)|`Algorithms` |[Link](https://www.codewars.com/kata/5701e43f86306a615c001868)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
