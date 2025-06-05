@@ -599,6 +599,7 @@ This is a place where I put my CodeWars solutions.
 |[Pluralization](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Pluralization)|`Algorithms` |[Link](https://www.codewars.com/kata/57fe7ea808d102a2ba000edd)|
 |[Minimum Percentage  of Visitors that Ate All Foods](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minimum_percentage_of_visitors_that_ate_all_foods)|`` |[Link](https://www.codewars.com/kata/657e578bdc80170abd4dca79)|
 |[Credit card issuer checking](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_issuer_checking)|`Algorithms` |[Link](https://www.codewars.com/kata/5701e43f86306a615c001868)|
+|[Stacked Balls - 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Stacked_balls_-_2d)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bb804397274c772b40000ca)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
