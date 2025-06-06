@@ -600,6 +600,7 @@ This is a place where I put my CodeWars solutions.
 |[Minimum Percentage  of Visitors that Ate All Foods](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minimum_percentage_of_visitors_that_ate_all_foods)|`` |[Link](https://www.codewars.com/kata/657e578bdc80170abd4dca79)|
 |[Credit card issuer checking](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_issuer_checking)|`Algorithms` |[Link](https://www.codewars.com/kata/5701e43f86306a615c001868)|
 |[Stacked Balls - 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Stacked_balls_-_2d)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bb804397274c772b40000ca)|
+|[80's Kids #2: Help ALF Find His Spaceship](https://github.com/innewiadro/Codewars/tree/master/kata_level7/80's_kids_#2_help_alf_find_his_spaceship)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5660aa3d5e011dfd6e000063)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
