@@ -601,6 +601,7 @@ This is a place where I put my CodeWars solutions.
 |[Credit card issuer checking](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Credit_card_issuer_checking)|`Algorithms` |[Link](https://www.codewars.com/kata/5701e43f86306a615c001868)|
 |[Stacked Balls - 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Stacked_balls_-_2d)|`Fundamentals` |[Link](https://www.codewars.com/kata/5bb804397274c772b40000ca)|
 |[80's Kids #2: Help ALF Find His Spaceship](https://github.com/innewiadro/Codewars/tree/master/kata_level7/80's_kids_#2_help_alf_find_his_spaceship)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5660aa3d5e011dfd6e000063)|
+|[Clean Nesting Tree](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Clean_nesting_tree)|`Lists` `Arrays` `Recursion` `Trees` |[Link](https://www.codewars.com/kata/67c9c1cdf96c66388eb35cd4)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
