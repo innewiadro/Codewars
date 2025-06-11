@@ -605,6 +605,7 @@ This is a place where I put my CodeWars solutions.
 |[Genetic Algorithm Series - #3 Crossover](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Genetic_algorithm_series_-_#3_crossover)|`Strings` `Algorithms` `Genetic Algorithms` |[Link](https://www.codewars.com/kata/567d71b93f8a50f461000019)|
 |[Magic Sum of 3s](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Magic_sum_of_3s)|`Fundamentals` |[Link](https://www.codewars.com/kata/57193a349906afdf67000f50)|
 |[Delta Bits](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Delta_bits)|`Bits` `Binary` `Algorithms` |[Link](https://www.codewars.com/kata/538948d4daea7dc4d200023f)|
+|[Volume of a cup](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Volume_of_a_cup)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/56a13035eb55c8436a000041)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
