@@ -606,6 +606,7 @@ This is a place where I put my CodeWars solutions.
 |[Magic Sum of 3s](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Magic_sum_of_3s)|`Fundamentals` |[Link](https://www.codewars.com/kata/57193a349906afdf67000f50)|
 |[Delta Bits](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Delta_bits)|`Bits` `Binary` `Algorithms` |[Link](https://www.codewars.com/kata/538948d4daea7dc4d200023f)|
 |[Volume of a cup](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Volume_of_a_cup)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/56a13035eb55c8436a000041)|
+|[Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#2_-_higher-order_functions_series_-_greet_developers)|`Data Structures` `Fundamentals` `Algorithms` `Strings` `Regular Expressions` `Arrays` `Functional Programming` |[Link](https://www.codewars.com)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
