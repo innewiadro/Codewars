@@ -607,6 +607,7 @@ This is a place where I put my CodeWars solutions.
 |[Delta Bits](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Delta_bits)|`Bits` `Binary` `Algorithms` |[Link](https://www.codewars.com/kata/538948d4daea7dc4d200023f)|
 |[Volume of a cup](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Volume_of_a_cup)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/56a13035eb55c8436a000041)|
 |[Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#2_-_higher-order_functions_series_-_greet_developers)|`Data Structures` `Fundamentals` `Algorithms` `Strings` `Regular Expressions` `Arrays` `Functional Programming` |[Link](https://www.codewars.com)|
+|[Orthogonal Vectors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Orthogonal_vectors)|`Physics` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/53670c5867e9f2222f000225)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
