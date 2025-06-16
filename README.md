@@ -610,6 +610,7 @@ This is a place where I put my CodeWars solutions.
 |[Orthogonal Vectors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Orthogonal_vectors)|`Physics` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/53670c5867e9f2222f000225)|
 |[Is it a vowel on this position?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_it_a_vowel_on_this_position)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a2b7edcb6486a856e00005b)|
 |[Count the Ones](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_ones)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/5519e930cd82ff8a9a000216)|
+|[Gigasecond](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gigasecond)|`Fundamentals` |[Link](https://www.codewars.com/kata/53f99455573c064ad200010b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
