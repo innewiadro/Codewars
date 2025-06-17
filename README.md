@@ -611,6 +611,7 @@ This is a place where I put my CodeWars solutions.
 |[Is it a vowel on this position?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_it_a_vowel_on_this_position)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a2b7edcb6486a856e00005b)|
 |[Count the Ones](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_ones)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/5519e930cd82ff8a9a000216)|
 |[Gigasecond](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gigasecond)|`Fundamentals` |[Link](https://www.codewars.com/kata/53f99455573c064ad200010b)|
+|[Array element parity](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_element_parity)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5a092d9e46d843b9db000064)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
