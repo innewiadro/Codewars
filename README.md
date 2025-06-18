@@ -612,6 +612,7 @@ This is a place where I put my CodeWars solutions.
 |[Count the Ones](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_ones)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/5519e930cd82ff8a9a000216)|
 |[Gigasecond](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gigasecond)|`Fundamentals` |[Link](https://www.codewars.com/kata/53f99455573c064ad200010b)|
 |[Array element parity](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Array_element_parity)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5a092d9e46d843b9db000064)|
+|[Greatest Common Divisor Bitcount](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Greatest_common_divisor_bitcount)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/54b45c37041df0caf800020f)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
