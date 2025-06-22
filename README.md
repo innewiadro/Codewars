@@ -616,6 +616,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple string reversal II](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_string_reversal_ii)|`Algorithms` |[Link](https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac)|
 |[Diagonals sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Diagonals_sum)|`Matrix` `Algorithms` |[Link](https://www.codewars.com/kata/5592fc599a7f40adac0000a8)|
 |[Mirroring cipher](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Mirroring_cipher)|`Strings` `Cryptography` `Security` `Algorithms` |[Link](https://www.codewars.com/kata/571af500196bb01cc70014fa)|
+|[Palindrome chain length](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Palindrome_chain_length)|`Algorithms` |[Link](https://www.codewars.com/kata/525f039017c7cd0e1a000a26)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
