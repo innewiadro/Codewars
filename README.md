@@ -617,6 +617,7 @@ This is a place where I put my CodeWars solutions.
 |[Diagonals sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Diagonals_sum)|`Matrix` `Algorithms` |[Link](https://www.codewars.com/kata/5592fc599a7f40adac0000a8)|
 |[Mirroring cipher](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Mirroring_cipher)|`Strings` `Cryptography` `Security` `Algorithms` |[Link](https://www.codewars.com/kata/571af500196bb01cc70014fa)|
 |[Palindrome chain length](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Palindrome_chain_length)|`Algorithms` |[Link](https://www.codewars.com/kata/525f039017c7cd0e1a000a26)|
+|[Hëävÿ Mëtäl Ümläüts](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hëävÿ_mëtäl_ümläüts)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57d4e99bec16701a67000033)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
