@@ -116,7 +116,7 @@ This is a place where I put my CodeWars solutions.
 |[Transform To Prime](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Transform_to_prime)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)|
 |[Consecutive strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consecutive_strings)|`Fundamentals` |[Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)|
 |[IPv4 to int32](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Ipv4_to_int32)|`Networks` `Algorithms` `Bits` `Binary` `Fundamentals` |[Link](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee)|
-
+|[Are the twins even?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Are_the_twins_even)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a9da7d07ce110fea1000638)|
 
 ## Level 7 Katas
 | Katas                                                                                                                                                                                                                                                         | Subject | CW Link                                                                     
