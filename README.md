@@ -119,6 +119,7 @@ This is a place where I put my CodeWars solutions.
 |[Are the twins even?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Are_the_twins_even)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a9da7d07ce110fea1000638)|
 |[Cogs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cogs)|`Fundamentals` |[Link](https://www.codewars.com/kata/59e1b9ce7997cbecb9000014)|
 |[From-To-Step Sequence Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/From-to-step_sequence_generator)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56459c0df289d97bd7000083)|
+|[Old Greg's Binary Fingers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Old_greg's_binary_fingers)|`Puzzles` |[Link](https://www.codewars.com/kata/565f1bd8f97d3e59c400014a)|
 
 
 ## Level 7 Katas
