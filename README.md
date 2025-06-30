@@ -120,6 +120,7 @@ This is a place where I put my CodeWars solutions.
 |[Cogs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cogs)|`Fundamentals` |[Link](https://www.codewars.com/kata/59e1b9ce7997cbecb9000014)|
 |[From-To-Step Sequence Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/From-to-step_sequence_generator)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56459c0df289d97bd7000083)|
 |[Old Greg's Binary Fingers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Old_greg's_binary_fingers)|`Puzzles` |[Link](https://www.codewars.com/kata/565f1bd8f97d3e59c400014a)|
+|[Squad number generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Squad_number_generator)|`Algorithms` |[Link](https://www.codewars.com/kata/5d62961d18198b000e2f22b3)|
 
 
 ## Level 7 Katas
