@@ -116,13 +116,7 @@ This is a place where I put my CodeWars solutions.
 |[Transform To Prime](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Transform_to_prime)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)|
 |[Consecutive strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consecutive_strings)|`Fundamentals` |[Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)|
 |[IPv4 to int32](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Ipv4_to_int32)|`Networks` `Algorithms` `Bits` `Binary` `Fundamentals` |[Link](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee)|
-|[Are the twins even?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Are_the_twins_even)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a9da7d07ce110fea1000638)|
-|[Cogs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cogs)|`Fundamentals` |[Link](https://www.codewars.com/kata/59e1b9ce7997cbecb9000014)|
-|[From-To-Step Sequence Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/From-to-step_sequence_generator)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56459c0df289d97bd7000083)|
-|[Old Greg's Binary Fingers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Old_greg's_binary_fingers)|`Puzzles` |[Link](https://www.codewars.com/kata/565f1bd8f97d3e59c400014a)|
-|[Squad number generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Squad_number_generator)|`Algorithms` |[Link](https://www.codewars.com/kata/5d62961d18198b000e2f22b3)|
-|[Case-sensitive!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Case-sensitive)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5a805631ba1bb55b0c0000b8)|
-|[Sliding windows](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sliding_windows)|`Lists` `Arrays` |[Link](https://www.codewars.com/kata/671fd30696d3f42285f7d1f1)|
+
 
 
 ## Level 7 Katas
@@ -627,6 +621,14 @@ This is a place where I put my CodeWars solutions.
 |[Palindrome chain length](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Palindrome_chain_length)|`Algorithms` |[Link](https://www.codewars.com/kata/525f039017c7cd0e1a000a26)|
 |[Hëävÿ Mëtäl Ümläüts](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hëävÿ_mëtäl_ümläüts)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57d4e99bec16701a67000033)|
 |[Most sales](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Most_sales)|`Fundamentals` |[Link](https://www.codewars.com/kata/5e16ffb7297fe00001114824)|
+|[Are the twins even?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Are_the_twins_even)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a9da7d07ce110fea1000638)|
+|[Cogs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cogs)|`Fundamentals` |[Link](https://www.codewars.com/kata/59e1b9ce7997cbecb9000014)|
+|[From-To-Step Sequence Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/From-to-step_sequence_generator)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56459c0df289d97bd7000083)|
+|[Old Greg's Binary Fingers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Old_greg's_binary_fingers)|`Puzzles` |[Link](https://www.codewars.com/kata/565f1bd8f97d3e59c400014a)|
+|[Squad number generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Squad_number_generator)|`Algorithms` |[Link](https://www.codewars.com/kata/5d62961d18198b000e2f22b3)|
+|[Case-sensitive!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Case-sensitive)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5a805631ba1bb55b0c0000b8)|
+|[Sliding windows](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sliding_windows)|`Lists` `Arrays` |[Link](https://www.codewars.com/kata/671fd30696d3f42285f7d1f1)|
+|[Finding Remainder Without Using '%' Operator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Finding_remainder_without_using_'%'_operator)|`Mathematics` `Restricted` `Algorithms` |[Link](https://www.codewars.com/kata/564f458b4d75e24fc9000041)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
