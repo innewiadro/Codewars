@@ -630,6 +630,7 @@ This is a place where I put my CodeWars solutions.
 |[Sliding windows](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sliding_windows)|`Lists` `Arrays` |[Link](https://www.codewars.com/kata/671fd30696d3f42285f7d1f1)|
 |[Finding Remainder Without Using '%' Operator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Finding_remainder_without_using_'%'_operator)|`Mathematics` `Restricted` `Algorithms` |[Link](https://www.codewars.com/kata/564f458b4d75e24fc9000041)|
 |[Check if  a triangle is an equable triangle!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_if_a_triangle_is_an_equable_triangle)|`Fundamentals` `Geometry` |[Link](https://www.codewars.com/kata/57d0089e05c186ccb600035e)|
+|[I before E except after C](https://github.com/innewiadro/Codewars/tree/master/kata_level7/I_before_e_except_after_c)|`Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/6834f1a80e0a48c2ea3feeb0)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
