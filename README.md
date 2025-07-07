@@ -632,6 +632,7 @@ This is a place where I put my CodeWars solutions.
 |[Check if  a triangle is an equable triangle!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Check_if_a_triangle_is_an_equable_triangle)|`Fundamentals` `Geometry` |[Link](https://www.codewars.com/kata/57d0089e05c186ccb600035e)|
 |[I before E except after C](https://github.com/innewiadro/Codewars/tree/master/kata_level7/I_before_e_except_after_c)|`Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/6834f1a80e0a48c2ea3feeb0)|
 |[String doubles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_doubles)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5a145ab08ba9148dd6000094)|
+|[Coding 3min: Bug in Apple](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_3min_bug_in_apple)|`Puzzles` `Games` |[Link](https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
