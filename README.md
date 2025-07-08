@@ -633,6 +633,7 @@ This is a place where I put my CodeWars solutions.
 |[I before E except after C](https://github.com/innewiadro/Codewars/tree/master/kata_level7/I_before_e_except_after_c)|`Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/6834f1a80e0a48c2ea3feeb0)|
 |[String doubles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_doubles)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5a145ab08ba9148dd6000094)|
 |[Coding 3min: Bug in Apple](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_3min_bug_in_apple)|`Puzzles` `Games` |[Link](https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9)|
+|[Count the Combinations ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_combinations)|`Fundamentals` |[Link](https://www.codewars.com/kata/58e67378fd2d897b8a000110)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
