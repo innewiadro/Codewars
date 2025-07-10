@@ -635,6 +635,7 @@ This is a place where I put my CodeWars solutions.
 |[Coding 3min: Bug in Apple](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_3min_bug_in_apple)|`Puzzles` `Games` |[Link](https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9)|
 |[Count the Combinations ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_combinations)|`Fundamentals` |[Link](https://www.codewars.com/kata/58e67378fd2d897b8a000110)|
 |[Balance the parentheses ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Balance_the_parentheses)|`Refactoring` |[Link](https://www.codewars.com/kata/5d8365b570a6f6001519ecc8)|
+|[String prefix and suffix](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_prefix_and_suffix)|`Fundamentals` |[Link](https://www.codewars.com/kata/5ce969ab07d4b7002dcaa7a1)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
