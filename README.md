@@ -636,6 +636,7 @@ This is a place where I put my CodeWars solutions.
 |[Count the Combinations ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_the_combinations)|`Fundamentals` |[Link](https://www.codewars.com/kata/58e67378fd2d897b8a000110)|
 |[Balance the parentheses ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Balance_the_parentheses)|`Refactoring` |[Link](https://www.codewars.com/kata/5d8365b570a6f6001519ecc8)|
 |[String prefix and suffix](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_prefix_and_suffix)|`Fundamentals` |[Link](https://www.codewars.com/kata/5ce969ab07d4b7002dcaa7a1)|
+|[Simple equation reversal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_equation_reversal)|`Algorithms` |[Link](https://www.codewars.com/kata/5aa3af22ba1bb5209f000037)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
