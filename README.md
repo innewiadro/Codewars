@@ -641,7 +641,7 @@ This is a place where I put my CodeWars solutions.
 |[Find the random seed ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_random_seed)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a106ce7ffe75f4c200000f7)|
 |[esrever esreveR!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Esrever_esrever)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57e0206335e198f82b00001d)|
 |[Pairs of integers from 0 to n](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Pairs_of_integers_from_0_to_n)|`Fundamentals` |[Link](https://www.codewars.com/kata/588e27b7d1140d31cb000060)|
-
+|[The reject() function](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_reject()_function)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/52988f3f7edba9839c00037d)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
