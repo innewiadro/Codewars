@@ -644,6 +644,7 @@ This is a place where I put my CodeWars solutions.
 |[The reject() function](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_reject()_function)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/52988f3f7edba9839c00037d)|
 |[Find the nth occurrence of a word in a string!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_nth_occurrence_of_a_word_in_a_string)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b1d1812b6989d61bd00004f)|
 |[How far will I go?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_far_will_i_go)|`Puzzles` |[Link](https://www.codewars.com/kata/56d46b8fda159582e100001b)|
+|[Square Pi's](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Square_pi's)|`Algorithms` |[Link](https://www.codewars.com/kata/5cd12646cf44af0020c727dd)|
 
 
 ## Level 8 Katas
