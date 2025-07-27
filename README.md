@@ -650,6 +650,7 @@ This is a place where I put my CodeWars solutions.
 |[The Skiponacci Sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_skiponacci_sequence)|`Puzzles` `Algorithms` |[Link](https://www.codewars.com/kata/580777ee2e14accd9f000165)|
 |[Linked Lists - Get Nth Node](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Linked_lists_-_get_nth_node)|`Linked Lists` `Data Structures` `Fundamentals` |[Link](https://www.codewars.com/kata/55befc42bfe4d13ab1000007)|
 |[Pull your words together, man!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Pull_your_words_together_man)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/59ad7d2e07157af687000070)|
+|[Jenny the youngest detective](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jenny_the_youngest_detective)|`Strings` `Arrays` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/58b972cae826b960a300003e)|
 
 
 ## Level 8 Katas
