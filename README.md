@@ -652,7 +652,8 @@ This is a place where I put my CodeWars solutions.
 |[Pull your words together, man!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Pull_your_words_together_man)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/59ad7d2e07157af687000070)|
 |[Jenny the youngest detective](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Jenny_the_youngest_detective)|`Strings` `Arrays` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/58b972cae826b960a300003e)|
 |[Changable Diagonal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Changable_diagonal)|`Matrix` `Algorithms` |[Link](https://www.codewars.com/kata/68508d8937ee53321e405d31)|
-|[Area of an arrow](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Area_of_an_arrow)|`Mathematics` |[Link](https://www.codewars.com/kata/589478160c0f8a40870000bc)|
+|[Area of an arrow](https://github.com/innewiadro/Codears/tree/master/kata_level7/Area_of_an_arrow)|`Mathematics` |[Link](https://www.codewars.com/kata/589478160c0f8a40870000bc)|
+|[Alternate Square Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alternate_square_sum)|`Fundamentals` `Arrays` `Lists` |[Link](https://www.codewars.com/kata/559d7951ce5e0da654000073)|
 
 
 ## Level 8 Katas
