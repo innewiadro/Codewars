@@ -654,6 +654,7 @@ This is a place where I put my CodeWars solutions.
 |[Changable Diagonal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Changable_diagonal)|`Matrix` `Algorithms` |[Link](https://www.codewars.com/kata/68508d8937ee53321e405d31)|
 |[Area of an arrow](https://github.com/innewiadro/Codears/tree/master/kata_level7/Area_of_an_arrow)|`Mathematics` |[Link](https://www.codewars.com/kata/589478160c0f8a40870000bc)|
 |[Alternate Square Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alternate_square_sum)|`Fundamentals` `Arrays` `Lists` |[Link](https://www.codewars.com/kata/559d7951ce5e0da654000073)|
+|[Find array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_array)|`Puzzles` |[Link](https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055)|
 
 
 ## Level 8 Katas
