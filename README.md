@@ -656,6 +656,7 @@ This is a place where I put my CodeWars solutions.
 |[Alternate Square Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alternate_square_sum)|`Fundamentals` `Arrays` `Lists` |[Link](https://www.codewars.com/kata/559d7951ce5e0da654000073)|
 |[Find array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_array)|`Puzzles` |[Link](https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055)|
 |[Count up the points for the 7 Wonders board game! Easy version](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_up_the_points_for_the_7_wonders_board_game_easy_version)|`Puzzles` |[Link](https://www.codewars.com/kata/5adadcb36edb07df5600092e)|
+|[SillyCASE](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sillycase)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/552ab0a4db0236ff1a00017a)|
 
 
 ## Level 8 Katas
