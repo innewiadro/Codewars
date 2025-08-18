@@ -658,7 +658,7 @@ This is a place where I put my CodeWars solutions.
 |[Count up the points for the 7 Wonders board game! Easy version](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Count_up_the_points_for_the_7_wonders_board_game_easy_version)|`Puzzles` |[Link](https://www.codewars.com/kata/5adadcb36edb07df5600092e)|
 |[SillyCASE](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sillycase)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/552ab0a4db0236ff1a00017a)|
 |[Excel sheet column numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Excel_sheet_column_numbers)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/55ee3ebff71e82a30000006a)|
-
+|[How many socks for a pair?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_socks_for_a_pair)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/6863033d9c452af74e0983b7)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
