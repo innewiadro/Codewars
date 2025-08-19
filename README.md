@@ -659,6 +659,7 @@ This is a place where I put my CodeWars solutions.
 |[SillyCASE](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sillycase)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/552ab0a4db0236ff1a00017a)|
 |[Excel sheet column numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Excel_sheet_column_numbers)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/55ee3ebff71e82a30000006a)|
 |[How many socks for a pair?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_socks_for_a_pair)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/6863033d9c452af74e0983b7)|
+|[CompoundArray](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Compoundarray)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56044de2aa75e28875000017)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
