@@ -662,6 +662,7 @@ This is a place where I put my CodeWars solutions.
 |[CompoundArray](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Compoundarray)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56044de2aa75e28875000017)|
 |[Least Larger](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Least_larger)|`Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)|
 
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
@@ -932,3 +933,4 @@ This is a place where I put my CodeWars solutions.
 |[Grasshopper - Terminal Game Turn Function](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_terminal_game_turn_function)|`Fundamentals` |[Link](https://www.codewars.com/kata/56019d3b2c39ccde76000086)|
 |[Incorrect division method](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Incorrect_division_method)|`Debugging` |[Link](https://www.codewars.com/kata/54d1c59aba326343c80000e7)|
 |[8 towers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/8_towers)|`Algorithms` |[Link](https://www.codewars.com/kata/535bea76cdbf50281a00004c)|
+|[Semi-Optional](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Semi-optional)|`Debugging` |[Link](https://www.codewars.com/kata/521cd52e790405a74800032c)|
