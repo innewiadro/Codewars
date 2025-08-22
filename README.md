@@ -661,6 +661,7 @@ This is a place where I put my CodeWars solutions.
 |[How many socks for a pair?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_socks_for_a_pair)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/6863033d9c452af74e0983b7)|
 |[CompoundArray](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Compoundarray)|`Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/56044de2aa75e28875000017)|
 |[Least Larger](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Least_larger)|`Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)|
+|[Binary sXORe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Binary_sxore)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/56d3e702fc231fdf72001779)|
 
 
 ## Level 8 Katas
