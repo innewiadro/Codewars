@@ -663,7 +663,7 @@ This is a place where I put my CodeWars solutions.
 |[Least Larger](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Least_larger)|`Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)|
 |[Binary sXORe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Binary_sxore)|`Binary` `Algorithms` |[Link](https://www.codewars.com/kata/56d3e702fc231fdf72001779)|
 |[Is valid identifier?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_valid_identifier)|`Fundamentals` `Regular Expressions` `Strings` |[Link](https://www.codewars.com/kata/563a8656d52a79f06c00001f)|
-
+|[Geometry Basics: Dot Product in  3D](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometry_basics_dot_product_in_3d)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58e3ea29a33b52c1dc0000c0)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
