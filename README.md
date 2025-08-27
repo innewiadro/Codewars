@@ -665,6 +665,7 @@ This is a place where I put my CodeWars solutions.
 |[Is valid identifier?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_valid_identifier)|`Fundamentals` `Regular Expressions` `Strings` |[Link](https://www.codewars.com/kata/563a8656d52a79f06c00001f)|
 |[Geometry Basics: Dot Product in  3D](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometry_basics_dot_product_in_3d)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58e3ea29a33b52c1dc0000c0)|
 |[Send in the Clones](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Send_in_the_clones)|`Algorithms` |[Link](https://www.codewars.com/kata/58ddffda929dfc2cae0000a5)|
+|[Loop Detector](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Loop_detector)|`` |[Link](https://www.codewars.com/kata/68851563123e161332d2a84b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
