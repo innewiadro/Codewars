@@ -666,6 +666,7 @@ This is a place where I put my CodeWars solutions.
 |[Geometry Basics: Dot Product in  3D](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometry_basics_dot_product_in_3d)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58e3ea29a33b52c1dc0000c0)|
 |[Send in the Clones](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Send_in_the_clones)|`Algorithms` |[Link](https://www.codewars.com/kata/58ddffda929dfc2cae0000a5)|
 |[Loop Detector](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Loop_detector)|`` |[Link](https://www.codewars.com/kata/68851563123e161332d2a84b)|
+|[Sums of consecutive integers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sums_of_consecutive_integers)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/55b54be931e9ce28bc0000d6)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
