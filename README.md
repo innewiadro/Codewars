@@ -668,6 +668,7 @@ This is a place where I put my CodeWars solutions.
 |[Loop Detector](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Loop_detector)|`` |[Link](https://www.codewars.com/kata/68851563123e161332d2a84b)|
 |[Sums of consecutive integers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sums_of_consecutive_integers)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/55b54be931e9ce28bc0000d6)|
 |[Tram Capacity](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tram_capacity)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/5b190aa7803388ec97000054)|
+|[Every archer has its arrows](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Every_archer_has_its_arrows)|`Fundamentals` |[Link](https://www.codewars.com/kata/559f89598c0d6c9b31000125)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
