@@ -669,6 +669,7 @@ This is a place where I put my CodeWars solutions.
 |[Sums of consecutive integers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sums_of_consecutive_integers)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/55b54be931e9ce28bc0000d6)|
 |[Tram Capacity](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tram_capacity)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/5b190aa7803388ec97000054)|
 |[Every archer has its arrows](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Every_archer_has_its_arrows)|`Fundamentals` |[Link](https://www.codewars.com/kata/559f89598c0d6c9b31000125)|
+|[Reduce My Fraction](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reduce_my_fraction)|`Fundamentals` `Recursion` `Algorithms` |[Link](https://www.codewars.com/kata/576400f2f716ca816d001614)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
