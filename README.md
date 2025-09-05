@@ -674,6 +674,7 @@ This is a place where I put my CodeWars solutions.
 |[Test Your Knowledge Of Function Scope](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Test_your_knowledge_of_function_scope)|`Fundamentals` |[Link](https://www.codewars.com/kata/56d344c7fd3a52566700124b)|
 |[reverseIt](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reverseit)|`Fundamentals` |[Link](https://www.codewars.com/kata/557a2c136b19113912000010)|
 |[Geometry Basics: Triangle Perimeter  in 2D](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Geometry_basics_triangle_perimeter_in_2d)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/58e3e62f20617b6d7700120a)|
+|[Easy Line](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Easy_line)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
