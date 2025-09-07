@@ -1,6 +1,6 @@
 def rounding(n, m):
     lower = (n // m) * m
-    upper = ((n + m - 1) // m) * m  # ceil alternative
+    upper = ((n + m - 1) // m) * m
 
     if n - lower == upper - n:
         return n
