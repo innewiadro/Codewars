@@ -677,6 +677,7 @@ This is a place where I put my CodeWars solutions.
 |[Easy Line](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Easy_line)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com)|
 |[Simple Fun #181: Rounding](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#181_rounding)|`Fundamentals` |[Link](https://www.codewars.com/kata/58bccdf56f25ff6b6d00002f)|
 |[Complete The Pattern #6 - Odd Ladder](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Complete_the_pattern_#6_-_odd_ladder)|`ASCII Art` `Fundamentals` |[Link](https://www.codewars.com/kata/5574940eae1cf7d520000076)|
+|[Every possible sum of two digits](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Every_possible_sum_of_two_digits)|`Algorithms` |[Link](https://www.codewars.com/kata/5b4e474305f04bea11000148)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
