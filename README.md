@@ -681,6 +681,7 @@ This is a place where I put my CodeWars solutions.
 |[Turn with a Compass](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Turn_with_a_compass)|`Algorithms` |[Link](https://www.codewars.com/kata/61a8c3a9e5a7b9004a48ccc2)|
 |[Thinking & Testing : Retention and discard](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Thinking_&_testing_retention_and_discard)|`Puzzles` `Games` |[Link](https://www.codewars.com/kata/56ee0448588cbb60740013b9)|
 |[Simple fibonacci strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fibonacci_strings)|`Algorithms` |[Link](https://www.codewars.com/kata/5aa39ba75084d7cf45000008)|
+|[Russian postal code checker](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Russian_postal_code_checker)|`Regular Expressions` `Strings` `Fundamentals` |[Link](https://www.codewars.com)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
