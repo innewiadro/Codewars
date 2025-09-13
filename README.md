@@ -682,6 +682,7 @@ This is a place where I put my CodeWars solutions.
 |[Thinking & Testing : Retention and discard](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Thinking_&_testing_retention_and_discard)|`Puzzles` `Games` |[Link](https://www.codewars.com/kata/56ee0448588cbb60740013b9)|
 |[Simple fibonacci strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fibonacci_strings)|`Algorithms` |[Link](https://www.codewars.com/kata/5aa39ba75084d7cf45000008)|
 |[Russian postal code checker](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Russian_postal_code_checker)|`Regular Expressions` `Strings` `Fundamentals` |[Link](https://www.codewars.com)|
+|[Simple Fun #101: Regular Months](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#101_regular_months)|`Puzzles` |[Link](https://www.codewars.com/kata/58981e716551af31b100063f)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
