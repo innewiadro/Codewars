@@ -685,6 +685,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Fun #101: Regular Months](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#101_regular_months)|`Puzzles` |[Link](https://www.codewars.com/kata/58981e716551af31b100063f)|
 |[Head, Tail, Init and Last](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Head_tail_init_and_last)|`Arrays` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/54592a5052756d5c5d0009c3)|
 |[Cinemas in 2020](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cinemas_in_2020)|`Arrays` `Logic` |[Link](https://www.codewars.com/kata/68b0064510c5854a66e6323a)|
+|[80's Kids #1: How Many Licks Does it Take?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/80's_kids_#1_how_many_licks_does_it_take)|`Algorithms` |[Link](https://www.codewars.com/kata/566091b73e119a073100003a)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
