@@ -687,6 +687,7 @@ This is a place where I put my CodeWars solutions.
 |[Cinemas in 2020](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cinemas_in_2020)|`Arrays` `Logic` |[Link](https://www.codewars.com/kata/68b0064510c5854a66e6323a)|
 |[80's Kids #1: How Many Licks Does it Take?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/80's_kids_#1_how_many_licks_does_it_take)|`Algorithms` |[Link](https://www.codewars.com/kata/566091b73e119a073100003a)|
 |[Find Your Villain Name](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_your_villain_name)|`Arrays` `Date Time` `Fundamentals` |[Link](https://www.codewars.com/kata/536c00e21da4dc0a0700128b)|
+|[Visible Dots On a Die](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Visible_dots_on_a_die)|`Algorithms` |[Link](https://www.codewars.com/kata/5a39724945ddce2223000800)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
