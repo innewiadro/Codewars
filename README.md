@@ -689,6 +689,7 @@ This is a place where I put my CodeWars solutions.
 |[Find Your Villain Name](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_your_villain_name)|`Arrays` `Date Time` `Fundamentals` |[Link](https://www.codewars.com/kata/536c00e21da4dc0a0700128b)|
 |[Visible Dots On a Die](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Visible_dots_on_a_die)|`Algorithms` |[Link](https://www.codewars.com/kata/5a39724945ddce2223000800)|
 |[Find the anonymous function](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_anonymous_function)|`Fundamentals` |[Link](https://www.codewars.com/kata/55a12bb8f0fac1ba340000aa)|
+|[Remove B M W](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_b_m_w)|`Fundamentals` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/59de795c289ef9197f000c48)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
