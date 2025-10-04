@@ -691,6 +691,7 @@ This is a place where I put my CodeWars solutions.
 |[Find the anonymous function](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_anonymous_function)|`Fundamentals` |[Link](https://www.codewars.com/kata/55a12bb8f0fac1ba340000aa)|
 |[Remove B M W](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_b_m_w)|`Fundamentals` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/59de795c289ef9197f000c48)|
 |[Alphabetical Sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabetical_sequence)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/5bd00c99dbc73908bb00057a)|
+|[Simple template](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_template)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/56ae72854d005c7447000023)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
