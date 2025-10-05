@@ -692,6 +692,7 @@ This is a place where I put my CodeWars solutions.
 |[Remove B M W](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_b_m_w)|`Fundamentals` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/59de795c289ef9197f000c48)|
 |[Alphabetical Sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabetical_sequence)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/5bd00c99dbc73908bb00057a)|
 |[Simple template](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_template)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/56ae72854d005c7447000023)|
+|[Gould's sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gould's_sequence)|`Lists` |[Link](https://www.codewars.com/kata/66c9186bb01defccbd40449d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
