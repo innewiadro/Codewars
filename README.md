@@ -965,3 +965,4 @@ This is a place where I put my CodeWars solutions.
 |[Incorrect division method](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Incorrect_division_method)|`Debugging` |[Link](https://www.codewars.com/kata/54d1c59aba326343c80000e7)|
 |[8 towers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/8_towers)|`Algorithms` |[Link](https://www.codewars.com/kata/535bea76cdbf50281a00004c)|
 |[Semi-Optional](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Semi-optional)|`Debugging` |[Link](https://www.codewars.com/kata/521cd52e790405a74800032c)|
+|[Decibel Scale](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Decibel_scale)|`Algorithms` |[Link](https://www.codewars.com/kata/5612a42e746aa62de100001a)|
