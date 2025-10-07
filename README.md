@@ -693,6 +693,7 @@ This is a place where I put my CodeWars solutions.
 |[Alphabetical Sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabetical_sequence)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/5bd00c99dbc73908bb00057a)|
 |[Simple template](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_template)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/56ae72854d005c7447000023)|
 |[Gould's sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gould's_sequence)|`Lists` |[Link](https://www.codewars.com/kata/66c9186bb01defccbd40449d)|
+|[Euclidean distance in n dimensions](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Euclidean_distance_in_n_dimensions)|`Mathematics` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/595877be60d17855980013d3)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
