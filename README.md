@@ -695,6 +695,7 @@ This is a place where I put my CodeWars solutions.
 |[Gould's sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Gould's_sequence)|`Lists` |[Link](https://www.codewars.com/kata/66c9186bb01defccbd40449d)|
 |[Euclidean distance in n dimensions](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Euclidean_distance_in_n_dimensions)|`Mathematics` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/595877be60d17855980013d3)|
 |[Naughty or Nice?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Naughty_or_nice)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/585eaef9851516fcae00004d)|
+|[Histogram - H1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Histogram_-_h1)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/57d532d2164a67cded0001c7)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
