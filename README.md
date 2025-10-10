@@ -696,6 +696,7 @@ This is a place where I put my CodeWars solutions.
 |[Euclidean distance in n dimensions](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Euclidean_distance_in_n_dimensions)|`Mathematics` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/595877be60d17855980013d3)|
 |[Naughty or Nice?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Naughty_or_nice)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/585eaef9851516fcae00004d)|
 |[Histogram - H1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Histogram_-_h1)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/57d532d2164a67cded0001c7)|
+|[Pizza Payments](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Pizza_payments)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b043e3886d0752685000009)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
