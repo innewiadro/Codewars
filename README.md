@@ -702,6 +702,7 @@ This is a place where I put my CodeWars solutions.
 |[Resistor Color Codes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Resistor_color_codes)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57cf3dad05c186ba22000348)|
 |[Bus mastering - Who has priority ? ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Bus_mastering_-_who_has_priority)|`Strings` `Fundamentals` `Bits` |[Link](https://www.codewars.com/kata/5a0366f12b651dbfa300000c)|
 |[Cartesian coordinates from degree angle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cartesian_coordinates_from_degree_angle)|`Algorithms` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/555f43d8140a6df1dd00012b)|
+|[Simple directions reversal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_directions_reversal)|`Algorithms` |[Link](https://www.codewars.com/kata/5b94d7eb1d5ed297680000ca)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
