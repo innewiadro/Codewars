@@ -704,7 +704,6 @@ This is a place where I put my CodeWars solutions.
 |[Cartesian coordinates from degree angle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cartesian_coordinates_from_degree_angle)|`Algorithms` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/555f43d8140a6df1dd00012b)|
 |[Simple directions reversal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_directions_reversal)|`Algorithms` |[Link](https://www.codewars.com/kata/5b94d7eb1d5ed297680000ca)|
 |[Distance from the average](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Distance_from_the_average)|`Arrays` `Lists` `Statistics` `Fundamentals` `Data Science` |[Link](https://www.codewars.com/kata/568ff914fc7a40a18500005c)|
-
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
@@ -977,3 +976,4 @@ This is a place where I put my CodeWars solutions.
 |[8 towers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/8_towers)|`Algorithms` |[Link](https://www.codewars.com/kata/535bea76cdbf50281a00004c)|
 |[Semi-Optional](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Semi-optional)|`Debugging` |[Link](https://www.codewars.com/kata/521cd52e790405a74800032c)|
 |[Decibel Scale](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Decibel_scale)|`Algorithms` |[Link](https://www.codewars.com/kata/5612a42e746aa62de100001a)|
+|[Never visit a . . . !?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Never_visit_a)|`Puzzles` `Strings` `Number Theory` `Mathematics` |[Link](https://www.codewars.com/kata/56c5847f27be2c3db20009c3)|
