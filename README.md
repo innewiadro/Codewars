@@ -977,3 +977,4 @@ This is a place where I put my CodeWars solutions.
 |[Semi-Optional](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Semi-optional)|`Debugging` |[Link](https://www.codewars.com/kata/521cd52e790405a74800032c)|
 |[Decibel Scale](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Decibel_scale)|`Algorithms` |[Link](https://www.codewars.com/kata/5612a42e746aa62de100001a)|
 |[Never visit a . . . !?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Never_visit_a)|`Puzzles` `Strings` `Number Theory` `Mathematics` |[Link](https://www.codewars.com/kata/56c5847f27be2c3db20009c3)|
+|[Circles in Polygons](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Circles_in_polygons)|`Mathematics` `Puzzles` |[Link](https://www.codewars.com/kata/5a026a9cffe75fbace00007f)|
