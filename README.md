@@ -704,6 +704,7 @@ This is a place where I put my CodeWars solutions.
 |[Cartesian coordinates from degree angle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cartesian_coordinates_from_degree_angle)|`Algorithms` `Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/555f43d8140a6df1dd00012b)|
 |[Simple directions reversal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_directions_reversal)|`Algorithms` |[Link](https://www.codewars.com/kata/5b94d7eb1d5ed297680000ca)|
 |[Distance from the average](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Distance_from_the_average)|`Arrays` `Lists` `Statistics` `Fundamentals` `Data Science` |[Link](https://www.codewars.com/kata/568ff914fc7a40a18500005c)|
+|[Boxlines](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Boxlines)|`Fundamentals` `Geometry` `Mathematics` |[Link](https://www.codewars.com)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
