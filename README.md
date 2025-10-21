@@ -117,6 +117,7 @@ This is a place where I put my CodeWars solutions.
 |[Consecutive strings](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Consecutive_strings)|`Fundamentals` |[Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)|
 |[IPv4 to int32](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Ipv4_to_int32)|`Networks` `Algorithms` `Bits` `Binary` `Fundamentals` |[Link](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee)|
 |[Help the bookseller !](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Help_the_bookseller)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/54dc6f5a224c26032800005c)|
+|[Round by 0.5 steps](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Round_by_05_steps)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/51f1342c76b586046800002a)|
 
 
 ## Level 7 Katas
