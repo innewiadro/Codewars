@@ -706,6 +706,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple directions reversal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_directions_reversal)|`Algorithms` |[Link](https://www.codewars.com/kata/5b94d7eb1d5ed297680000ca)|
 |[Distance from the average](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Distance_from_the_average)|`Arrays` `Lists` `Statistics` `Fundamentals` `Data Science` |[Link](https://www.codewars.com/kata/568ff914fc7a40a18500005c)|
 |[Boxlines](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Boxlines)|`Fundamentals` `Geometry` `Mathematics` |[Link](https://www.codewars.com)|
+|[99 Bottles of Beer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/99_bottles_of_beer)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52a723508a4d96c6c90005ba)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
