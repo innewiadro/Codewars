@@ -707,6 +707,7 @@ This is a place where I put my CodeWars solutions.
 |[Distance from the average](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Distance_from_the_average)|`Arrays` `Lists` `Statistics` `Fundamentals` `Data Science` |[Link](https://www.codewars.com/kata/568ff914fc7a40a18500005c)|
 |[Boxlines](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Boxlines)|`Fundamentals` `Geometry` `Mathematics` |[Link](https://www.codewars.com)|
 |[99 Bottles of Beer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/99_bottles_of_beer)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52a723508a4d96c6c90005ba)|
+|[Spinning Rings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spinning_rings)|`Fundamentals` |[Link](https://www.codewars.com/kata/59afff65f1c8274f270020f5)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
