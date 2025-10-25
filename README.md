@@ -709,6 +709,7 @@ This is a place where I put my CodeWars solutions.
 |[99 Bottles of Beer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/99_bottles_of_beer)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52a723508a4d96c6c90005ba)|
 |[Spinning Rings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spinning_rings)|`Fundamentals` |[Link](https://www.codewars.com/kata/59afff65f1c8274f270020f5)|
 |[Find Fibonacci last digit](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_fibonacci_last_digit)|`Algorithms` |[Link](https://www.codewars.com/kata/56b7251b81290caf76000978)|
+|[Convert between radians and degrees](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Convert_between_radians_and_degrees)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/544e2c60908f2da03600022a)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
