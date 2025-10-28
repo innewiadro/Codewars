@@ -712,6 +712,7 @@ This is a place where I put my CodeWars solutions.
 |[Convert between radians and degrees](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Convert_between_radians_and_degrees)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/544e2c60908f2da03600022a)|
 |[Life Predictor](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Life_predictor)|`Date Time` |[Link](https://www.codewars.com/kata/633a870b198a4c00286ad2b7)|
 |[Training Time](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Training_time)|`Fundamentals` `Tutorials` |[Link](https://www.codewars.com/kata/572ab0cfa3af384df7000ff8)|
+|[Sum of array singles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_array_singles)|`Algorithms` |[Link](https://www.codewars.com/kata/59f11118a5e129e591000134)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
