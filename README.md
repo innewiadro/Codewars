@@ -713,6 +713,7 @@ This is a place where I put my CodeWars solutions.
 |[Life Predictor](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Life_predictor)|`Date Time` |[Link](https://www.codewars.com/kata/633a870b198a4c00286ad2b7)|
 |[Training Time](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Training_time)|`Fundamentals` `Tutorials` |[Link](https://www.codewars.com/kata/572ab0cfa3af384df7000ff8)|
 |[Sum of array singles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_array_singles)|`Algorithms` |[Link](https://www.codewars.com/kata/59f11118a5e129e591000134)|
+|[This Number is not a Palindrome... or is it?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/This_number_is_not_a_palindrome_or_is_it)|`Puzzles` `Mathematics` |[Link](https://www.codewars.com/kata/68c7c3cb12252d313dc9fd8b)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
