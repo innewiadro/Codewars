@@ -715,6 +715,7 @@ This is a place where I put my CodeWars solutions.
 |[Sum of array singles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_array_singles)|`Algorithms` |[Link](https://www.codewars.com/kata/59f11118a5e129e591000134)|
 |[This Number is not a Palindrome... or is it?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/This_number_is_not_a_palindrome_or_is_it)|`Puzzles` `Mathematics` |[Link](https://www.codewars.com/kata/68c7c3cb12252d313dc9fd8b)|
 |[Most common first](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Most_common_first)|`Fundamentals` |[Link](https://www.codewars.com/kata/59824f384df1741e05000913)|
+|[Average Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Average_array)|`Fundamentals` |[Link](https://www.codewars.com/kata/596f6385e7cd727fff0000d6)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
