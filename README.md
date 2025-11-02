@@ -717,6 +717,8 @@ This is a place where I put my CodeWars solutions.
 |[Most common first](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Most_common_first)|`Fundamentals` |[Link](https://www.codewars.com/kata/59824f384df1741e05000913)|
 |[Average Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Average_array)|`Fundamentals` |[Link](https://www.codewars.com/kata/596f6385e7cd727fff0000d6)|
 |[Sum Array with different bases](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_array_with_different_bases)|`Binary` `Arrays` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/5a005f4fba2a14897f000086)|
+|[Character Counter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Character_counter)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/56786a687e9a88d1cf00005d)|
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
