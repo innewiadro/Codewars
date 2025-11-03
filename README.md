@@ -993,3 +993,4 @@ This is a place where I put my CodeWars solutions.
 |[Decibel Scale](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Decibel_scale)|`Algorithms` |[Link](https://www.codewars.com/kata/5612a42e746aa62de100001a)|
 |[Never visit a . . . !?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Never_visit_a)|`Puzzles` `Strings` `Number Theory` `Mathematics` |[Link](https://www.codewars.com/kata/56c5847f27be2c3db20009c3)|
 |[Circles in Polygons](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Circles_in_polygons)|`Mathematics` `Puzzles` |[Link](https://www.codewars.com/kata/5a026a9cffe75fbace00007f)|
+|[The falling speed of petals](https://github.com/innewiadro/Codewars/tree/master/kata_level8/The_falling_speed_of_petals)|`Algorithms` |[Link](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b)|
