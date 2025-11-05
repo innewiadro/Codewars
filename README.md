@@ -719,6 +719,7 @@ This is a place where I put my CodeWars solutions.
 |[Sum Array with different bases](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_array_with_different_bases)|`Binary` `Arrays` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/5a005f4fba2a14897f000086)|
 |[Character Counter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Character_counter)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/56786a687e9a88d1cf00005d)|
 |[Airport itinerary](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Airport_itinerary)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57a72cb872292dc43100000c)|
+|[Consecutive Vowels in a String](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Consecutive_vowels_in_a_string)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/62a933d6d6deb7001093de16)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
