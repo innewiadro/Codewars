@@ -720,7 +720,7 @@ This is a place where I put my CodeWars solutions.
 |[Character Counter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Character_counter)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/56786a687e9a88d1cf00005d)|
 |[Airport itinerary](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Airport_itinerary)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/57a72cb872292dc43100000c)|
 |[Consecutive Vowels in a String](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Consecutive_vowels_in_a_string)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/62a933d6d6deb7001093de16)|
-
+|[Waiting room](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Waiting_room)|`Sorting` `Puzzles` `Algorithms` |[Link](https://www.codewars.com/kata/542f0c36d002f8cd8a0005e5)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
