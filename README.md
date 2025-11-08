@@ -722,6 +722,7 @@ This is a place where I put my CodeWars solutions.
 |[Consecutive Vowels in a String](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Consecutive_vowels_in_a_string)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/62a933d6d6deb7001093de16)|
 |[Waiting room](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Waiting_room)|`Sorting` `Puzzles` `Algorithms` |[Link](https://www.codewars.com/kata/542f0c36d002f8cd8a0005e5)|
 |[HTML Generator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Html_generator)|`Functional Programming` `Puzzles` |[Link](https://www.codewars.com/kata/54eecc187f9142cc4600119e)|
+|[Recycle!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Recycle)|`Fundamentals` |[Link](https://www.codewars.com/kata/59fb783bab11f89202001083)|
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                   | Subject | CW Link                                                               
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |-----------------------------------------------------------------------|
