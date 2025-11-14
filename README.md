@@ -727,6 +727,7 @@ This is a place where I put my CodeWars solutions.
 |[Elapsed Seconds](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Elapsed_seconds)|`Date Time` `Fundamentals` |[Link](https://www.codewars.com/kata/517b25a48557c200b800000c)|
 |[Find an employees role in the company](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_an_employees_role_in_the_company)|`Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/55c9fb1b407024afe6000055)|
 |[Zebulan's Nightmare](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Zebulan's_nightmare)|`Fundamentals` |[Link](https://www.codewars.com/kata/570fd7ad34e6130455001835)|
+|[Bubblesort Once](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Bubblesort_once)|`Algorithms` `Tutorials` `Sorting` |[Link](https://www.codewars.com/kata/56b97b776ffcea598a0006f2)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
