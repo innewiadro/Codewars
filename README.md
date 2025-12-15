@@ -1035,3 +1035,4 @@ This is a place where I put my CodeWars solutions.
 |[Be Concise I - The Ternary Operator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Be_concise_i_-_the_ternary_operator)|`Fundamentals` `Refactoring` |[Link](https://www.codewars.com/kata/56f3f6a82010832b02000f38)|
 |[Was the package received before it was sent? (Simplified)](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Was_the_package_received_before_it_was_sent_(simplified))|`Date Time` |[Link](https://www.codewars.com/kata/6707688c0f597511f6649270)|
 |[Multiplication table for number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Multiplication_table_for_number)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)|
+|[Smallest unused ID](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Smallest_unused_id)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/55eea63119278d571d00006a)|
