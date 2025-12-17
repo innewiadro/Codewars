@@ -755,6 +755,7 @@ This is a place where I put my CodeWars solutions.
 |[Capitals first!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Capitals_first)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55c353487fe3cc80660001d4)|
 |[Negation of a Value](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Negation_of_a_value)|`Logic` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/58f6f87a55d759439b000073)|
 |[Simple Interest and Compound Interest](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_interest_and_compound_interest)|`Fundamentals` |[Link](https://www.codewars.com/kata/59cd0535328801336e000649)|
+|[Dee, The Generous Tipper](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dee_the_generous_tipper)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/568c3498e48a0231d200001f)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
