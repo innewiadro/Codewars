@@ -758,6 +758,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Interest and Compound Interest](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_interest_and_compound_interest)|`Fundamentals` |[Link](https://www.codewars.com/kata/59cd0535328801336e000649)|
 |[Dee, The Generous Tipper](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dee_the_generous_tipper)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/568c3498e48a0231d200001f)|
 |[Stones on the Table](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Stones_on_the_table)|`Fundamentals` |[Link](https://www.codewars.com/kata/5f70e4cce10f9e0001c8995a)|
+|[Area of a Polygon (Easy)](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Area_of_a_polygon_(easy))|`Geometry` |[Link](https://www.codewars.com/kata/574758e396b130b63e00069b)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
