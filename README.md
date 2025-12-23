@@ -761,6 +761,7 @@ This is a place where I put my CodeWars solutions.
 |[Area of a Polygon (Easy)](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Area_of_a_polygon_(easy))|`Geometry` |[Link](https://www.codewars.com/kata/574758e396b130b63e00069b)|
 |[Uno Match Play](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Uno_match_play)|`Games` |[Link](https://www.codewars.com/kata/687dd1e199ab3955339b8071)|
 |[Quadratic Enumerator ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Quadratic_enumerator)|`Fundamentals` |[Link](https://www.codewars.com/kata/5aee96e22c5061ee90000024)|
+|[nova polynomial  4. derivative](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nova_polynomial_4_derivative)|`Algorithms` `Recursion` `Arrays` |[Link](https://www.codewars.com/kata/571a2e2df24bdfd4e20001f5)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
