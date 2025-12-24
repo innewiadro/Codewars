@@ -762,6 +762,7 @@ This is a place where I put my CodeWars solutions.
 |[Uno Match Play](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Uno_match_play)|`Games` |[Link](https://www.codewars.com/kata/687dd1e199ab3955339b8071)|
 |[Quadratic Enumerator ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Quadratic_enumerator)|`Fundamentals` |[Link](https://www.codewars.com/kata/5aee96e22c5061ee90000024)|
 |[nova polynomial  4. derivative](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nova_polynomial_4_derivative)|`Algorithms` `Recursion` `Arrays` |[Link](https://www.codewars.com/kata/571a2e2df24bdfd4e20001f5)|
+|[Spanish DNI Validation Algorithm](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spanish_dni_validation_algorithm)|`Algorithms` `Regular Expressions` |[Link](https://www.codewars.com/kata/67f186c91c59535d5dbd4f2d)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
