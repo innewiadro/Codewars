@@ -764,6 +764,7 @@ This is a place where I put my CodeWars solutions.
 |[nova polynomial  4. derivative](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nova_polynomial_4_derivative)|`Algorithms` `Recursion` `Arrays` |[Link](https://www.codewars.com/kata/571a2e2df24bdfd4e20001f5)|
 |[Spanish DNI Validation Algorithm](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spanish_dni_validation_algorithm)|`Algorithms` `Regular Expressions` |[Link](https://www.codewars.com/kata/67f186c91c59535d5dbd4f2d)|
 |[MinMaxMin: Bounded Nums](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minmaxmin_bounded_nums)|`Arrays` |[Link](https://www.codewars.com/kata/58d3487a643a3f6aa20000ff)|
+|[No yelling!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/No_yelling)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/587a75dbcaf9670c32000292)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
