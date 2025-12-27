@@ -765,6 +765,7 @@ This is a place where I put my CodeWars solutions.
 |[Spanish DNI Validation Algorithm](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spanish_dni_validation_algorithm)|`Algorithms` `Regular Expressions` |[Link](https://www.codewars.com/kata/67f186c91c59535d5dbd4f2d)|
 |[MinMaxMin: Bounded Nums](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minmaxmin_bounded_nums)|`Arrays` |[Link](https://www.codewars.com/kata/58d3487a643a3f6aa20000ff)|
 |[No yelling!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/No_yelling)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/587a75dbcaf9670c32000292)|
+|[2 DNAs sequences, coding for same protein? ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/2_dnas_sequences_coding_for_same_protein)|`Strings` `Algorithms` `Arrays` |[Link](https://www.codewars.com/kata/57cbb9e240e3024aae000b26)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
