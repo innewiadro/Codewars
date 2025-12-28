@@ -1047,4 +1047,5 @@ This is a place where I put my CodeWars solutions.
 |[Was the package received before it was sent? (Simplified)](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Was_the_package_received_before_it_was_sent_(simplified))|`Date Time` |[Link](https://www.codewars.com/kata/6707688c0f597511f6649270)|
 |[Multiplication table for number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Multiplication_table_for_number)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)|
 |[Smallest unused ID](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Smallest_unused_id)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/55eea63119278d571d00006a)|
-|[Stringy Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Stringy_strings)|`Strings` `Binary` `Algorithms` |[Link](https://www.codewars.com/kata/563b74ddd19a3ad462000054)|
+|[Stringy Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Stringy_strings)|`Strings` `Binary` `Algorithms` |[Link](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
+|[Job Matching #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Job_matching_#1)|`Algorithms` |[Link](https://www.codewars.com/kata/56c22c5ae8b139416c00175d)|
