@@ -1051,3 +1051,4 @@ This is a place where I put my CodeWars solutions.
 |[Job Matching #1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Job_matching_#1)|`Algorithms` |[Link](https://www.codewars.com/kata/56c22c5ae8b139416c00175d)|
 |[Closest elevator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Closest_elevator)|`Algorithms` |[Link](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a)|
 |[Be Concise IV - Index of an element in an array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Be_concise_iv_-_index_of_an_element_in_an_array)|`Refactoring` `Restricted` |[Link](https://www.codewars.com/kata/5703c093022cd1aae90012c9)|
+|[Count the number of cubes with paint on](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_the_number_of_cubes_with_paint_on)|`Puzzles` |[Link](https://www.codewars.com/kata/5763bb0af716cad8fb000580)|
