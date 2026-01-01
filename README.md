@@ -1052,3 +1052,4 @@ This is a place where I put my CodeWars solutions.
 |[Closest elevator](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Closest_elevator)|`Algorithms` |[Link](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a)|
 |[Be Concise IV - Index of an element in an array](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Be_concise_iv_-_index_of_an_element_in_an_array)|`Refactoring` `Restricted` |[Link](https://www.codewars.com/kata/5703c093022cd1aae90012c9)|
 |[Count the number of cubes with paint on](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_the_number_of_cubes_with_paint_on)|`Puzzles` |[Link](https://www.codewars.com/kata/5763bb0af716cad8fb000580)|
+|[How do I compare numbers?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_do_i_compare_numbers)|`Fundamentals` `Debugging` |[Link](https://www.codewars.com/kata/55d8618adfda93c89600012e)|
