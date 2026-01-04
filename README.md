@@ -1054,3 +1054,4 @@ This is a place where I put my CodeWars solutions.
 |[Count the number of cubes with paint on](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Count_the_number_of_cubes_with_paint_on)|`Puzzles` |[Link](https://www.codewars.com/kata/5763bb0af716cad8fb000580)|
 |[How do I compare numbers?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/How_do_i_compare_numbers)|`Fundamentals` `Debugging` |[Link](https://www.codewars.com/kata/55d8618adfda93c89600012e)|
 |[Grasshopper - If/else syntax debug](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_ifelse_syntax_debug)|`Debugging` |[Link](https://www.codewars.com/kata/57089707fe2d01529f00024a)|
+|[Counting Characters](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Counting_characters)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55f1b763dd670651620000ce)|
