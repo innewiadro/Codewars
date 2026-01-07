@@ -1057,3 +1057,4 @@ This is a place where I put my CodeWars solutions.
 |[Counting Characters](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Counting_characters)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55f1b763dd670651620000ce)|
 |[Unexpected parsing](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Unexpected_parsing)|`Debugging` |[Link](https://www.codewars.com/kata/54fdaa4a50f167b5c000005f)|
 |[Filtering even numbers (Bug Fixes)](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Filtering_even_numbers_(bug_fixes))|`Fundamentals` `Debugging` |[Link](https://www.codewars.com/kata/566dc566f6ea9a14b500007b)|
+|[Is the date today](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_the_date_today)|`Date Time` `Puzzles` |[Link](https://www.codewars.com/kata/563c13853b07a8f17c000022)|
