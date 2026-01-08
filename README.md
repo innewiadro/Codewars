@@ -1058,3 +1058,4 @@ This is a place where I put my CodeWars solutions.
 |[Unexpected parsing](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Unexpected_parsing)|`Debugging` |[Link](https://www.codewars.com/kata/54fdaa4a50f167b5c000005f)|
 |[Filtering even numbers (Bug Fixes)](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Filtering_even_numbers_(bug_fixes))|`Fundamentals` `Debugging` |[Link](https://www.codewars.com/kata/566dc566f6ea9a14b500007b)|
 |[Is the date today](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_the_date_today)|`Date Time` `Puzzles` |[Link](https://www.codewars.com/kata/563c13853b07a8f17c000022)|
+|[Is this my tail?](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Is_this_my_tail)|`Debugging` |[Link](https://www.codewars.com/kata/56f695399400f5d9ef000af5)|
