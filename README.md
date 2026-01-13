@@ -1063,3 +1063,4 @@ This is a place where I put my CodeWars solutions.
 |[Heads and Legs](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Heads_and_legs)|`Algebra` `Logic` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/574c5075d27783851800169e)|
 |[Dollars and Cents](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Dollars_and_cents)|`Functional Programming` `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/55902c5eaa8069a5b4000083)|
 |[Generate range of integers](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Generate_range_of_integers)|`Algorithms` |[Link](https://www.codewars.com/kata/55eca815d0d20962e1000106)|
+|[Duck Duck Goose](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Duck_duck_goose)|`Arrays` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/582e0e592029ea10530009ce)|
