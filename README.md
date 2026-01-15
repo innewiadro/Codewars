@@ -1065,3 +1065,4 @@ This is a place where I put my CodeWars solutions.
 |[Generate range of integers](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Generate_range_of_integers)|`Algorithms` |[Link](https://www.codewars.com/kata/55eca815d0d20962e1000106)|
 |[Duck Duck Goose](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Duck_duck_goose)|`Arrays` `Lists` `Fundamentals` |[Link](https://www.codewars.com/kata/582e0e592029ea10530009ce)|
 |[My head is at the wrong end!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/My_head_is_at_the_wrong_end)|`Arrays` `Lists` `Algorithms` |[Link](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)|
+|[Get Nth Even Number](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Get_nth_even_number)|`Mathematics` `Puzzles` `Algorithms` |[Link](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)|
