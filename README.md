@@ -1069,3 +1069,4 @@ This is a place where I put my CodeWars solutions.
 |[Basic variable assignment](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Basic_variable_assignment)|`Debugging` |[Link](https://www.codewars.com/kata/50ee6b0bdeab583673000025)|
 |[FIXME: Replace all dots](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fixme_replace_all_dots)|`Debugging` `Regular Expressions` |[Link](https://www.codewars.com/kata/596c6eb85b0f515834000049)|
 |[Gravity Flip](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Gravity_flip)|`Puzzles` `Arrays` |[Link](https://www.codewars.com)|
+|[Capitalization and Mutability](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Capitalization_and_mutability)|`Strings` `Debugging` |[Link](https://www.codewars.com/kata/595970246c9b8fa0a8000086)|
