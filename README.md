@@ -1072,3 +1072,4 @@ This is a place where I put my CodeWars solutions.
 |[Capitalization and Mutability](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Capitalization_and_mutability)|`Strings` `Debugging` |[Link](https://www.codewars.com/kata/595970246c9b8fa0a8000086)|
 |[Grasshopper - Debug](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Grasshopper_-_debug)|`Debugging` |[Link](https://www.codewars.com/kata/55cb854deb36f11f130000e1)|
 |[Miles per gallon to kilometers per liter](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Miles_per_gallon_to_kilometers_per_liter)|`Algorithms` |[Link](https://www.codewars.com/kata/557b5e0bddf29d861400005d)|
+|[Enumerable Magic #30 - Split that Array!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Enumerable_magic_#30_-_split_that_array)|`Fundamentals` |[Link](https://www.codewars.com/kata/545b342082e55dc9da000051)|
