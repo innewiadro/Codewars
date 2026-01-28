@@ -1078,3 +1078,4 @@ This is a place where I put my CodeWars solutions.
 |[Enumerable Magic #30 - Split that Array!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Enumerable_magic_#30_-_split_that_array)|`Fundamentals` |[Link](https://www.codewars.com/kata/545b342082e55dc9da000051)|
 |[Find the force of gravity between two objects](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_force_of_gravity_between_two_objects)|`Algorithms` |[Link](https://www.codewars.com/kata/5b609ebc8f47bd595e000627)|
 |[For Twins: 2. Math operations](https://github.com/innewiadro/Codewars/tree/master/kata_level8/For_twins_2_math_operations)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/59c287b16bddd291c700009a)|
+|[Simple Fun #1: Seats in Theater](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_fun_#1_seats_in_theater)|`Puzzles` `Mathematics` |[Link](https://www.codewars.com/kata/588417e576933b0ec9000045)|
