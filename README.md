@@ -771,6 +771,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple beads count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_beads_count)|`Fundamentals` |[Link](https://www.codewars.com/kata/58712dfa5c538b6fc7000569)|
 |[Halving Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Halving_sum)|`Algorithms` |[Link](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d)|
 
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------------|
@@ -1080,3 +1081,4 @@ This is a place where I put my CodeWars solutions.
 |[Find the force of gravity between two objects](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Find_the_force_of_gravity_between_two_objects)|`Algorithms` |[Link](https://www.codewars.com/kata/5b609ebc8f47bd595e000627)|
 |[For Twins: 2. Math operations](https://github.com/innewiadro/Codewars/tree/master/kata_level8/For_twins_2_math_operations)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/59c287b16bddd291c700009a)|
 |[Simple Fun #1: Seats in Theater](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_fun_#1_seats_in_theater)|`Puzzles` `Mathematics` |[Link](https://www.codewars.com/kata/588417e576933b0ec9000045)|
+|[String Templates - Bug Fixing #5](https://github.com/innewiadro/Codewars/tree/master/kata_level8/String_templates_-_bug_fixing_#5)|`Strings` `Debugging` |[Link](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f)|
