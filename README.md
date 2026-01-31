@@ -770,6 +770,7 @@ This is a place where I put my CodeWars solutions.
 |[Remove duplicate words](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_duplicate_words)|`Strings` `Regular Expressions` `Algorithms` |[Link](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)|
 |[Simple beads count](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_beads_count)|`Fundamentals` |[Link](https://www.codewars.com/kata/58712dfa5c538b6fc7000569)|
 |[Halving Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Halving_sum)|`Algorithms` |[Link](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d)|
+|[Fizz Buzz](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fizz_buzz)|`Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5300901726d12b80e8000498)|
 
 
 ## Level 8 Katas
