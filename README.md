@@ -772,6 +772,7 @@ This is a place where I put my CodeWars solutions.
 |[Halving Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Halving_sum)|`Algorithms` |[Link](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d)|
 |[Fizz Buzz](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fizz_buzz)|`Algorithms` `Fundamentals` `Arrays` |[Link](https://www.codewars.com/kata/5300901726d12b80e8000498)|
 |[Reverse a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reverse_a_number)|`Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5)|
+|[Sum even numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_even_numbers)|`Filtering` `Algorithms` |[Link](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)|
 
 
 ## Level 8 Katas
