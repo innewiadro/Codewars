@@ -774,6 +774,7 @@ This is a place where I put my CodeWars solutions.
 |[Reverse a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reverse_a_number)|`Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5)|
 |[Sum even numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_even_numbers)|`Filtering` `Algorithms` |[Link](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)|
 |[Boiled Eggs](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Boiled_eggs)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/52b5247074ea613a09000164)|
+|[Lost number in number sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Lost_number_in_number_sequence)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/595aa94353e43a8746000120)|
 
 
 ## Level 8 Katas
