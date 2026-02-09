@@ -1,0 +1,4 @@
+def solution(first, second):
+    while second - first <= first:
+        first, second = second - first, first
+    return first, second

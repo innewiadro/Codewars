@@ -777,6 +777,7 @@ This is a place where I put my CodeWars solutions.
 |[Lost number in number sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Lost_number_in_number_sequence)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/595aa94353e43a8746000120)|
 |[Alphabetical Addition](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Alphabetical_addition)|`Algorithms` |[Link](https://www.codewars.com/kata/5d50e3914861a500121e1958)|
 |[Averages of numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Averages_of_numbers)|`Fundamentals` `Logic` `Algorithms` |[Link](https://www.codewars.com/kata/57d2807295497e652b000139)|
+|[First Fibonacci](https://github.com/innewiadro/Codewars/tree/master/kata_level7/First_fibonacci)|`Mathematics` |[Link](https://www.codewars.com/kata/6965d769930fb2eff921668f)|
 
 
 ## Level 8 Katas
