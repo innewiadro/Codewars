@@ -780,6 +780,7 @@ This is a place where I put my CodeWars solutions.
 |[First Fibonacci](https://github.com/innewiadro/Codewars/tree/master/kata_level7/First_fibonacci)|`Mathematics` |[Link](https://www.codewars.com/kata/6965d769930fb2eff921668f)|
 |[Make Equal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Make_equal)|`Fundamentals` |[Link](https://www.codewars.com/kata/5d1e1560c193ae0015b601a2)|
 |[Translate anything into French !](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Translate_anything_into_french)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57238e345b21bb8c4b0000fc)|
+|[Simple Fun #152: Invite More Women?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#152_invite_more_women)|`Puzzles` |[Link](https://www.codewars.com/kata/58acfe4ae0201e1708000075)|
 
 
 ## Level 8 Katas
