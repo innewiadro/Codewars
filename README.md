@@ -782,6 +782,7 @@ This is a place where I put my CodeWars solutions.
 |[Translate anything into French !](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Translate_anything_into_french)|`Fundamentals` `Strings` `Arrays` |[Link](https://www.codewars.com/kata/57238e345b21bb8c4b0000fc)|
 |[Simple Fun #152: Invite More Women?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#152_invite_more_women)|`Puzzles` |[Link](https://www.codewars.com/kata/58acfe4ae0201e1708000075)|
 |[Coloured Triangles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coloured_triangles)|`Logic` `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111)|
+|[Complete The  Pattern #1 ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Complete_the_pattern_#1)|`Strings` `ASCII Art` `Puzzles` |[Link](https://www.codewars.com/kata/5572f7c346eb58ae9c000047)|
 
 
 ## Level 8 Katas
