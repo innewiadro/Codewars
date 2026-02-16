@@ -784,6 +784,7 @@ This is a place where I put my CodeWars solutions.
 |[Coloured Triangles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coloured_triangles)|`Logic` `Strings` `Algorithms` |[Link](https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111)|
 |[Complete The  Pattern #1 ](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Complete_the_pattern_#1)|`Strings` `ASCII Art` `Puzzles` |[Link](https://www.codewars.com/kata/5572f7c346eb58ae9c000047)|
 |[Perimeter sequence](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Perimeter_sequence)|`Mathematics` `Puzzles` |[Link](https://www.codewars.com/kata/589519d1f0902e01af000054)|
+|[How much coffee do you need?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_much_coffee_do_you_need)|`Arrays` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/57de78848a8b8df8f10005b1)|
 
 
 ## Level 8 Katas
