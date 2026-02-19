@@ -787,6 +787,7 @@ This is a place where I put my CodeWars solutions.
 |[How much coffee do you need?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_much_coffee_do_you_need)|`Arrays` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/57de78848a8b8df8f10005b1)|
 |[Tube strike options calculator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tube_strike_options_calculator)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/568ade64cfd7a55d9300003e)|
 |[Toggle, Set, and Clear Bits (Bit Manipulation Basics)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Toggle_set_and_clear_bits_(bit_manipulation_basics))|`Bits` |[Link](https://www.codewars.com/kata/696eacb39271f8aa43b61841)|
+|[Quicksum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Quicksum)|`Fundamentals` |[Link](https://www.codewars.com/kata/569924899aa8541eb200003f)|
 
 
 ## Level 8 Katas
