@@ -789,6 +789,7 @@ This is a place where I put my CodeWars solutions.
 |[Toggle, Set, and Clear Bits (Bit Manipulation Basics)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Toggle_set_and_clear_bits_(bit_manipulation_basics))|`Bits` |[Link](https://www.codewars.com/kata/696eacb39271f8aa43b61841)|
 |[Quicksum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Quicksum)|`Fundamentals` |[Link](https://www.codewars.com/kata/569924899aa8541eb200003f)|
 |[16+18=214](https://github.com/innewiadro/Codewars/tree/master/kata_level7/16+18=214)|`Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/5effa412233ac3002a9e471d)|
+|[Identify Case](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Identify_case)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/5819a6fdc929bae4f5000a33)|
 
 
 ## Level 8 Katas
