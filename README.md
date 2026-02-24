@@ -792,6 +792,7 @@ This is a place where I put my CodeWars solutions.
 | [Identify Case](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Identify_case)                                                                                                                                                                    |`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/5819a6fdc929bae4f5000a33)|
 | [String to list of integers.](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_to_list_of_integers2)                                                                                                                                        |`Strings` `Algorithms` |[Link](https://www.codewars.com/kata)|
 |[Simple Fun #74: Growing Plant](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#74_growing_plant)|`Algorithms` |[Link](https://www.codewars.com/kata/58941fec8afa3618c9000184)|
+|[Numbers in strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_in_strings)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014)|
 
 
 
