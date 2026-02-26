@@ -794,6 +794,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Fun #74: Growing Plant](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#74_growing_plant)|`Algorithms` |[Link](https://www.codewars.com/kata/58941fec8afa3618c9000184)|
 |[Numbers in strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_in_strings)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014)|
 |[Simple Fun #18: Candles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#18_candles)|`Puzzles` |[Link](https://www.codewars.com/kata/5884731139a9b4b7a8000002)|
+|[String matchup](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_matchup)|`Algorithms` |[Link](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4)|
 
 
 
