@@ -795,6 +795,7 @@ This is a place where I put my CodeWars solutions.
 |[Numbers in strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_in_strings)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014)|
 |[Simple Fun #18: Candles](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#18_candles)|`Puzzles` |[Link](https://www.codewars.com/kata/5884731139a9b4b7a8000002)|
 |[String matchup](https://github.com/innewiadro/Codewars/tree/master/kata_level7/String_matchup)|`Algorithms` |[Link](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4)|
+|[Greatest common divisor](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Greatest_common_divisor)|`Algorithms` `Fundamentals` `Recursion` |[Link](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)|
 
 
 
