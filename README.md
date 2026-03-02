@@ -798,6 +798,7 @@ This is a place where I put my CodeWars solutions.
 |[Greatest common divisor](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Greatest_common_divisor)|`Algorithms` `Fundamentals` `Recursion` |[Link](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)|
 |[Green Glass Door](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Green_glass_door)|`Strings` `Fundamentals` `Puzzles` |[Link](https://www.codewars.com/kata/5642bf07a586135a6f000004)|
 |[Digitize](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Digitize)|`Lists` `Algorithms` |[Link](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)|
+|[Find the Missing Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_missing_number)|`Algorithms` |[Link](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d)|
 
 
 
