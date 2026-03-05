@@ -801,6 +801,7 @@ This is a place where I put my CodeWars solutions.
 |[Find the Missing Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_missing_number)|`Algorithms` |[Link](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d)|
 |[Hello World - Without Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hello_world_-_without_strings)|`Strings` `Restricted` `Puzzles` |[Link](https://www.codewars.com/kata/584c7b1e2cb5e1a727000047)|
 |[The wheat/rice and chessboard problem](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_wheatrice_and_chessboard_problem)|`Mathematics` `Recursion` `Puzzles` |[Link](https://www.codewars.com/kata/5b0d67c1cb35dfa10b0022c7)|
+|[Guess the Word: Count Matching Letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Guess_the_word_count_matching_letters)|`Strings` `Games` `Puzzles` |[Link](https://www.codewars.com/kata/5912ded3f9f87fd271000120)|
 
 
 
