@@ -802,6 +802,7 @@ This is a place where I put my CodeWars solutions.
 |[Hello World - Without Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Hello_world_-_without_strings)|`Strings` `Restricted` `Puzzles` |[Link](https://www.codewars.com/kata/584c7b1e2cb5e1a727000047)|
 |[The wheat/rice and chessboard problem](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_wheatrice_and_chessboard_problem)|`Mathematics` `Recursion` `Puzzles` |[Link](https://www.codewars.com/kata/5b0d67c1cb35dfa10b0022c7)|
 |[Guess the Word: Count Matching Letters](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Guess_the_word_count_matching_letters)|`Strings` `Games` `Puzzles` |[Link](https://www.codewars.com/kata/5912ded3f9f87fd271000120)|
+|[Numbers with this digit inside](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_with_this_digit_inside)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039)|
 
 
 
