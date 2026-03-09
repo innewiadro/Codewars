@@ -805,6 +805,7 @@ This is a place where I put my CodeWars solutions.
 |[Numbers with this digit inside](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Numbers_with_this_digit_inside)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039)|
 |[Stalin Sort](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Stalin_sort)|`Arrays` |[Link](https://www.codewars.com/kata/699af631058f5c12b04f4efe)|
 |[Two Glorious Rascals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_glorious_rascals)|`Puzzles` `Mathematics` `Probability` `Game Solvers` |[Link](https://www.codewars.com/kata/6755744942b3aa2fc21f0b64)|
+|[Find heavy ball - level: novice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_heavy_ball_-_level_novice)|`Puzzles` `Logic` `Riddles` |[Link](https://www.codewars.com/kata/544047f0cf362503e000036e)|
 
 
 
