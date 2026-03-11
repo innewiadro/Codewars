@@ -807,6 +807,7 @@ This is a place where I put my CodeWars solutions.
 |[Two Glorious Rascals](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Two_glorious_rascals)|`Puzzles` `Mathematics` `Probability` `Game Solvers` |[Link](https://www.codewars.com/kata/6755744942b3aa2fc21f0b64)|
 |[Find heavy ball - level: novice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_heavy_ball_-_level_novice)|`Puzzles` `Logic` `Riddles` |[Link](https://www.codewars.com/kata/544047f0cf362503e000036e)|
 |[Change two-dimensional array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Change_two-dimensional_array)|`Arrays` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/581214d54624a8232100005f)|
+|[Not all but sometimes all](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Not_all_but_sometimes_all)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/564ab935de55a747d7000040)|
 
 
 
