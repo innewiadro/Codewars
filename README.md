@@ -808,6 +808,7 @@ This is a place where I put my CodeWars solutions.
 |[Find heavy ball - level: novice](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_heavy_ball_-_level_novice)|`Puzzles` `Logic` `Riddles` |[Link](https://www.codewars.com/kata/544047f0cf362503e000036e)|
 |[Change two-dimensional array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Change_two-dimensional_array)|`Arrays` `Algorithms` `Fundamentals` |[Link](https://www.codewars.com/kata/581214d54624a8232100005f)|
 |[Not all but sometimes all](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Not_all_but_sometimes_all)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/564ab935de55a747d7000040)|
+|[Player Contact Manager](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Player_contact_manager)|`Arrays` |[Link](https://www.codewars.com/kata/5b203de891c7469b520000b4)|
 
 
 
