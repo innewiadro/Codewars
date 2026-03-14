@@ -810,6 +810,7 @@ This is a place where I put my CodeWars solutions.
 |[Not all but sometimes all](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Not_all_but_sometimes_all)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/564ab935de55a747d7000040)|
 |[Player Contact Manager](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Player_contact_manager)|`Arrays` |[Link](https://www.codewars.com/kata/5b203de891c7469b520000b4)|
 |[Failed Filter - Bug Fixing #3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Failed_filter_-_bug_fixing_#3)|`Strings` `Debugging` |[Link](https://www.codewars.com/kata/55c606e6babfc5b2c500007c)|
+|[Sequence to 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sequence_to_1)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a05fe8a06d5b6208e00010b)|
 
 
 
