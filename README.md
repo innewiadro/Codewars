@@ -119,6 +119,7 @@ This is a place where I put my CodeWars solutions.
 | [Help the bookseller !](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Help_the_bookseller)                                                                                                | `Fundamentals` `Algorithms`                                          | [Link](https://www.codewars.com/kata/54dc6f5a224c26032800005c)              |
 | [Round by 0.5 steps](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Round_by_05_steps)                                                                                                     | `Mathematics` `Fundamentals`                                         | [Link](https://www.codewars.com/kata/51f1342c76b586046800002a)              |
 |[Unary function chainer](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Unary_function_chainer)|`Functional Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/54ca3e777120b56cb6000710)|
+|[Ho Ho Ho with Functions!](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Ho_ho_ho_with_functions)|`Algorithms` |[Link](https://www.codewars.com/kata/52af1f150fcae8d33d0009bc)|
 
 
 ## Level 7 Katas
@@ -811,6 +812,7 @@ This is a place where I put my CodeWars solutions.
 |[Player Contact Manager](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Player_contact_manager)|`Arrays` |[Link](https://www.codewars.com/kata/5b203de891c7469b520000b4)|
 |[Failed Filter - Bug Fixing #3](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Failed_filter_-_bug_fixing_#3)|`Strings` `Debugging` |[Link](https://www.codewars.com/kata/55c606e6babfc5b2c500007c)|
 |[Sequence to 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sequence_to_1)|`Fundamentals` |[Link](https://www.codewars.com/kata/5a05fe8a06d5b6208e00010b)|
+
 
 
 
