@@ -815,6 +815,7 @@ This is a place where I put my CodeWars solutions.
 |[Minimum Perimeter of a Rectangle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Minimum_perimeter_of_a_rectangle)|`Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/5826f54cc60c7e5266000baf)|
 |[Adaptive Security System](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Adaptive_security_system)|`Arrays` `Fundamentals` `Simulation` `Logic` |[Link](https://www.codewars.com/kata/69b58aaee8f1deef7ece7d0e)|
 |[Merge overlapping strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Merge_overlapping_strings)|`Algorithms` `Strings` |[Link](https://www.codewars.com/kata/61c78b57ee4be50035d28d42)|
+|[Width-Height Ratio](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Width-height_ratio)|`Algorithms` |[Link](https://www.codewars.com/kata/55486cb94c9d3251560000ff)|
 
 
 
