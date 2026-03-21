@@ -120,6 +120,7 @@ This is a place where I put my CodeWars solutions.
 | [Round by 0.5 steps](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Round_by_05_steps)                                                                                                     | `Mathematics` `Fundamentals`                                         | [Link](https://www.codewars.com/kata/51f1342c76b586046800002a)              |
 |[Unary function chainer](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Unary_function_chainer)|`Functional Programming` `Fundamentals` |[Link](https://www.codewars.com/kata/54ca3e777120b56cb6000710)|
 |[Ho Ho Ho with Functions!](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Ho_ho_ho_with_functions)|`Algorithms` |[Link](https://www.codewars.com/kata/52af1f150fcae8d33d0009bc)|
+|[Tank Truck](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Tank_truck)|`Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad)|
 
 
 ## Level 7 Katas
