@@ -822,6 +822,7 @@ This is a place where I put my CodeWars solutions.
 
 
 
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------------|
@@ -1134,3 +1135,4 @@ This is a place where I put my CodeWars solutions.
 |[String Templates - Bug Fixing #5](https://github.com/innewiadro/Codewars/tree/master/kata_level8/String_templates_-_bug_fixing_#5)|`Strings` `Debugging` |[Link](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f)|
 |[Simple Fun #261: Whose Move](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_fun_#261_whose_move)|`Puzzles` |[Link](https://www.codewars.com/kata/59126992f9f87fd31600009b)|
 |[101 Dalmatians - squash the bugs, not the dogs!](https://github.com/innewiadro/Codewars/tree/master/kata_level8/101_dalmatians_-_squash_the_bugs_not_the_dogs)|`Debugging` `Fundamentals` |[Link](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)|
+|[Collatz Conjecture (3n+1)](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Collatz_conjecture_(3n+1))|`Fundamentals` `Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/577a6e90d48e51c55e000217)|
