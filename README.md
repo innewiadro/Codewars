@@ -819,6 +819,7 @@ This is a place where I put my CodeWars solutions.
 |[Width-Height Ratio](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Width-height_ratio)|`Algorithms` |[Link](https://www.codewars.com/kata/55486cb94c9d3251560000ff)|
 |[Multiples By Permutations II](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Multiples_by_permutations_ii)|`Fundamentals` `Data Structures` `Strings` `Mathematics` `Algebra` `Sorting` `Combinatorics` |[Link](https://www.codewars.com/kata/5ba178be875de960a6000187)|
 |[Knight position](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Knight_position)|`Fundamentals` |[Link](https://www.codewars.com/kata/5b5736abf1d553f844000050)|
+|[Floating-point Approximation (III)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Floating-point_approximation_(iii))|`Fundamentals` |[Link](https://www.codewars.com/kata/5b0c0ec907756ffcff00006e)|
 
 
 
