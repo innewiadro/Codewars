@@ -824,6 +824,7 @@ This is a place where I put my CodeWars solutions.
 |[Sum squares of numbers in list that may contain more lists](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_squares_of_numbers_in_list_that_may_contain_more_lists)|`Fundamentals` `Recursion` |[Link](https://www.codewars.com/kata/57882daf90b2f375280000ad)|
 |[Is Sator Square?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Is_sator_square)|`Arrays` `Data Structures` `Algorithms` |[Link](https://www.codewars.com/kata/5cb7baa989b1c50014a53333)|
 |[FIXME:  Get Full Name](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fixme_get_full_name)|`Debugging` |[Link](https://www.codewars.com/kata/597c684822bc9388f600010f)|
+|[Sort by binary ones](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_by_binary_ones)|`Arrays` `Lists` `Algorithms` `Sorting` `Binary` `Bits` |[Link](https://www.codewars.com/kata/59eb28fb0a2bffafbb0000d6)|
 
 
 
