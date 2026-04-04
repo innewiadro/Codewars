@@ -826,6 +826,7 @@ This is a place where I put my CodeWars solutions.
 |[FIXME:  Get Full Name](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fixme_get_full_name)|`Debugging` |[Link](https://www.codewars.com/kata/597c684822bc9388f600010f)|
 |[Sort by binary ones](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sort_by_binary_ones)|`Arrays` `Lists` `Algorithms` `Sorting` `Binary` `Bits` |[Link](https://www.codewars.com/kata/59eb28fb0a2bffafbb0000d6)|
 |[Ship of Theseus](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Ship_of_theseus)|`Arrays` `Algorithms` `Logic` `Matrix` |[Link](https://www.codewars.com/kata/69b83710b26939b35fd10429)|
+|[Suitcase packing](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Suitcase_packing)|`Puzzles` |[Link](https://www.codewars.com/kata/5c556845d7e0334c74698706)|
 
 
 
