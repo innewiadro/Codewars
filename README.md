@@ -830,6 +830,7 @@ This is a place where I put my CodeWars solutions.
 |[Suitcase packing](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Suitcase_packing)|`Puzzles` |[Link](https://www.codewars.com/kata/5c556845d7e0334c74698706)|
 |[Likes Vs Dislikes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Likes_vs_dislikes)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/62ad72443809a4006998218a)|
 |[Binary to string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Binary_to_string)|`Binary` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5ab3495595df9ec78f0000b4)|
+|[Happy Birthday, Darling!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Happy_birthday_darling)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5e96332d18ac870032eb735f)|
 
 
 
