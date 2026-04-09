@@ -831,6 +831,7 @@ This is a place where I put my CodeWars solutions.
 |[Likes Vs Dislikes](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Likes_vs_dislikes)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/62ad72443809a4006998218a)|
 |[Binary to string](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Binary_to_string)|`Binary` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5ab3495595df9ec78f0000b4)|
 |[Happy Birthday, Darling!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Happy_birthday_darling)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/5e96332d18ac870032eb735f)|
+|[Raffle Run: What Are the Odds?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Raffle_run_what_are_the_odds)|`Fundamentals` `Mathematics` `Arrays` |[Link](https://www.codewars.com/kata/69d1b72f7b4d8ac09b1eb17a)|
 
 
 
