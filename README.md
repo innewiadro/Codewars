@@ -122,6 +122,7 @@ This is a place where I put my CodeWars solutions.
 |[Ho Ho Ho with Functions!](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Ho_ho_ho_with_functions)|`Algorithms` |[Link](https://www.codewars.com/kata/52af1f150fcae8d33d0009bc)|
 |[Tank Truck](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Tank_truck)|`Mathematics` `Geometry` |[Link](https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad)|
 |[longest_palindrome](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Longest_palindrome)|`Fundamentals` |[Link](https://www.codewars.com/kata/54bb6f887e5a80180900046b)|
+|[Equal Sides Of An Array](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Equal_sides_of_an_array)|`Algorithms` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)|
 
 
 ## Level 7 Katas
