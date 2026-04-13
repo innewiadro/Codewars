@@ -835,6 +835,7 @@ This is a place where I put my CodeWars solutions.
 |[Raffle Run: What Are the Odds?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Raffle_run_what_are_the_odds)|`Fundamentals` `Mathematics` `Arrays` |[Link](https://www.codewars.com/kata/69d1b72f7b4d8ac09b1eb17a)|
 |[Dad is Commatose](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dad_is_commatose)|`Fundamentals` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata)|
 |[Sum Factorial](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_factorial)|`Algorithms` |[Link](https://www.codewars.com/kata/56b0f6243196b9d42d000034)|
+|[Class conundrum - Bug Fixing #7](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Class_conundrum_-_bug_fixing_#7)|`Debugging` |[Link](https://www.codewars.com/kata/55cd4ce59382498cbd000080)|
 
 
 
