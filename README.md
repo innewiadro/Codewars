@@ -837,6 +837,7 @@ This is a place where I put my CodeWars solutions.
 |[Dad is Commatose](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Dad_is_commatose)|`Fundamentals` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata)|
 |[Sum Factorial](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_factorial)|`Algorithms` |[Link](https://www.codewars.com/kata/56b0f6243196b9d42d000034)|
 |[Class conundrum - Bug Fixing #7](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Class_conundrum_-_bug_fixing_#7)|`Debugging` |[Link](https://www.codewars.com/kata/55cd4ce59382498cbd000080)|
+|[Debug Sum of Digits of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Debug_sum_of_digits_of_a_number)|`Debugging` `Fundamentals` |[Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)|
 
 
 
