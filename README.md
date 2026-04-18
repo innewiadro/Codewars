@@ -125,6 +125,7 @@ This is a place where I put my CodeWars solutions.
 |[Equal Sides Of An Array](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Equal_sides_of_an_array)|`Algorithms` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)|
 |[Count the smiley faces!](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Count_the_smiley_faces)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com)|
 |[PI approximation ](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pi_approximation)|`Arrays` `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/550527b108b86f700000073f)|
+|[Valid Braces](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Valid_braces)|`Algorithms` |[Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)|
 
 
 ## Level 7 Katas
