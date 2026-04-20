@@ -841,6 +841,7 @@ This is a place where I put my CodeWars solutions.
 |[Class conundrum - Bug Fixing #7](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Class_conundrum_-_bug_fixing_#7)|`Debugging` |[Link](https://www.codewars.com/kata/55cd4ce59382498cbd000080)|
 |[Debug Sum of Digits of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Debug_sum_of_digits_of_a_number)|`Debugging` `Fundamentals` |[Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)|
 |[Return the closest number multiple of 10](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_the_closest_number_multiple_of_10)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/58249d08b81f70a2fc0001a4)|
+|[Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup)|`Data Structures` `Fundamentals` `Algorithms` `Strings` `Regular Expressions` `Arrays` `Functional Programming` |[Link](https://www.codewars.com/kata/582746fa14b3892727000c4f)|
 
 
 
