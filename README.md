@@ -842,6 +842,7 @@ This is a place where I put my CodeWars solutions.
 |[Debug Sum of Digits of a Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Debug_sum_of_digits_of_a_number)|`Debugging` `Fundamentals` |[Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)|
 |[Return the closest number multiple of 10](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_the_closest_number_multiple_of_10)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/58249d08b81f70a2fc0001a4)|
 |[Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup)|`Data Structures` `Fundamentals` `Algorithms` `Strings` `Regular Expressions` `Arrays` `Functional Programming` |[Link](https://www.codewars.com/kata/582746fa14b3892727000c4f)|
+|[How Many Lonely Letters?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_lonely_letters)|`Strings` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/69cda5b85599f307742ce70a)|
 
 
 
