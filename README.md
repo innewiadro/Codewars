@@ -845,6 +845,7 @@ This is a place where I put my CodeWars solutions.
 |[How Many Lonely Letters?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_lonely_letters)|`Strings` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/69cda5b85599f307742ce70a)|
 |[Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#4_-_higher-order_functions_series_-_find_the_first_python_developer)|`Functional Programming` `Data Structures` `Arrays` `Fundamentals` `Algorithms` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/5827bc50f524dd029d0005f2)|
 |[getNames()](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Getnames())|`Debugging` |[Link](https://www.codewars.com/kata/514a677421607afc99000002)|
+|[Who Started the Rumor?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Who_started_the_rumor)|`Fundamentals` |[Link](https://www.codewars.com/kata/69e8cd7f48dd4ffb1d25ef2f)|
 
 
 
