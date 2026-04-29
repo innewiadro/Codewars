@@ -850,6 +850,7 @@ This is a place where I put my CodeWars solutions.
 |[Nth power rules them all!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Nth_power_rules_them_all)|`Fundamentals` `Mathematics` `Algorithms` `Algebra` |[Link](https://www.codewars.com/kata/58aed2cafab8faca1d000e20)|
 |[Will you survive the zombie onslaught?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Will_you_survive_the_zombie_onslaught)|`Games` `Fundamentals` |[Link](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74)|
 |[Wrapping Paper](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Wrapping_paper)|`` |[Link](https://www.codewars.com/kata/69ea4c6708b1c58c36ac735a)|
+|[Cats and shelves](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cats_and_shelves)|`Algorithms` |[Link](https://www.codewars.com/kata/62c93765cef6f10030dfa92b)|
 
 
 
