@@ -851,6 +851,7 @@ This is a place where I put my CodeWars solutions.
 |[Will you survive the zombie onslaught?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Will_you_survive_the_zombie_onslaught)|`Games` `Fundamentals` |[Link](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74)|
 |[Wrapping Paper](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Wrapping_paper)|`` |[Link](https://www.codewars.com/kata/69ea4c6708b1c58c36ac735a)|
 |[Cats and shelves](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cats_and_shelves)|`Algorithms` |[Link](https://www.codewars.com/kata/62c93765cef6f10030dfa92b)|
+|[Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#3)|`Data Structures` `Fundamentals` `Algorithms` `Strings` `Regular Expressions` `Arrays` `Functional Programming` |[Link](https://www.codewars.com/kata/5827acd5f524dd029d0005a4)|
 
 
 
