@@ -853,6 +853,7 @@ This is a place where I put my CodeWars solutions.
 |[Cats and shelves](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cats_and_shelves)|`Algorithms` |[Link](https://www.codewars.com/kata/62c93765cef6f10030dfa92b)|
 |[Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#3)|`Data Structures` `Fundamentals` `Algorithms` `Strings` `Regular Expressions` `Arrays` `Functional Programming` |[Link](https://www.codewars.com/kata/5827acd5f524dd029d0005a4)|
 |[Sum of Array Averages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_array_averages)|`Arrays` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/56d5166ec87df55dbe000063)|
+|[Remove consecutive duplicate words](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_consecutive_duplicate_words)|`Strings` `Regular Expressions` `Algorithms` |[Link](https://www.codewars.com/kata/5b39e91ee7a2c103300018b3)|
 
 
 
