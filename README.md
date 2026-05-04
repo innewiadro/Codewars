@@ -855,6 +855,7 @@ This is a place where I put my CodeWars solutions.
 |[Sum of Array Averages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_array_averages)|`Arrays` `Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/56d5166ec87df55dbe000063)|
 |[Remove consecutive duplicate words](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Remove_consecutive_duplicate_words)|`Strings` `Regular Expressions` `Algorithms` |[Link](https://www.codewars.com/kata/5b39e91ee7a2c103300018b3)|
 |[Take GCD until one of the piles is empty](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Take_gcd_until_one_of_the_piles_is_empty)|`Fundamentals` |[Link](https://www.codewars.com/kata/697db03827139de6d1e919f3)|
+|[Find the Middle of the Product](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_middle_of_the_product)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5ac54bcbb925d9b437000001)|
 
 
 
