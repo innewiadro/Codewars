@@ -857,6 +857,7 @@ This is a place where I put my CodeWars solutions.
 |[Take GCD until one of the piles is empty](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Take_gcd_until_one_of_the_piles_is_empty)|`Fundamentals` |[Link](https://www.codewars.com/kata/697db03827139de6d1e919f3)|
 |[Find the Middle of the Product](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_middle_of_the_product)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5ac54bcbb925d9b437000001)|
 |[Combining  Ratios](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Combining_ratios)|`` |[Link](https://www.codewars.com/kata/69e3d400196a47ceacde554f)|
+|[Failed Sort - Bug Fixing #4](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Failed_sort_-_bug_fixing_#4)|`Debugging` `Sorting` |[Link](https://www.codewars.com/kata/55c7f90ac8025ebee1000062)|
 
 
 
