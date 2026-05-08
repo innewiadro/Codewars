@@ -126,6 +126,7 @@ This is a place where I put my CodeWars solutions.
 |[Count the smiley faces!](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Count_the_smiley_faces)|`Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com)|
 |[PI approximation ](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pi_approximation)|`Arrays` `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/550527b108b86f700000073f)|
 |[Valid Braces](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Valid_braces)|`Algorithms` |[Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)|
+|[WeIrD StRiNg CaSe](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Weird_string_case)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52b757663a95b11b3d00062d)|
 
 
 ## Level 7 Katas
@@ -858,7 +859,8 @@ This is a place where I put my CodeWars solutions.
 |[Find the Middle of the Product](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_middle_of_the_product)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5ac54bcbb925d9b437000001)|
 |[Combining  Ratios](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Combining_ratios)|`` |[Link](https://www.codewars.com/kata/69e3d400196a47ceacde554f)|
 |[Failed Sort - Bug Fixing #4](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Failed_sort_-_bug_fixing_#4)|`Debugging` `Sorting` |[Link](https://www.codewars.com/kata/55c7f90ac8025ebee1000062)|
-|[Centroid I](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Centroid_i)|`Algorithms` |[Link](https://www.codewars.com/kata/58811e9cfd05cb5aed0000a4)|
+|[Centroid I](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Centroid_i)|`Algorithms` |[Link](https://www.codewars.com/kata/58811e9cfd05cb5aed0000a4)
+
 
 
 
