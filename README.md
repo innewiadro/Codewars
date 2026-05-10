@@ -127,6 +127,7 @@ This is a place where I put my CodeWars solutions.
 |[PI approximation ](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Pi_approximation)|`Arrays` `Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/550527b108b86f700000073f)|
 |[Valid Braces](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Valid_braces)|`Algorithms` |[Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)|
 |[WeIrD StRiNg CaSe](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Weird_string_case)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52b757663a95b11b3d00062d)|
+|[Simple Fun #2: Circle of Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#2_circle_of_numbers)|`Puzzles` |[Link](https://www.codewars.com/kata/58841cb52a077503c4000015)|
 
 
 ## Level 7 Katas
