@@ -865,6 +865,7 @@ This is a place where I put my CodeWars solutions.
 
 
 
+
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                  | Subject                                           | CW Link                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------------|
@@ -1182,3 +1183,4 @@ This is a place where I put my CodeWars solutions.
 |[Floating point comparison](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Floating_point_comparison)|`Fundamentals` `Mathematics` `Debugging` |[Link](https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8)|
 |[Pole Vault Starting Marks](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Pole_vault_starting_marks)|`Fundamentals` `Mathematics` `Puzzles` |[Link](https://www.codewars.com/kata/5786f8404c4709148f0006bf)|
 |[Simple Change Machine ](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Simple_change_machine)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/57238766214e4b04b8000011)|
+|[Aspect Ratio Cropping - Part 1](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Aspect_ratio_cropping_-_part_1)|`Mathematics` `Fundamentals` |[Link](https://www.codewars.com/kata/596e4ef7b61e25981200009f)|
