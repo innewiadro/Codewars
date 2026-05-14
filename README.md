@@ -864,6 +864,7 @@ This is a place where I put my CodeWars solutions.
 |[Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#6_-_higher-order_functions_series_-_can_they_code_in_the_same_language)|`Functional Programming` `Data Structures` `Arrays` `Fundamentals` `Algorithms` `Strings` |[Link](https://www.codewars.com/kata/58287977ef8d4451f90001a0)|
 |[Collatz Conjecture Length](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Collatz_conjecture_length)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/54fb963d3fe32351f2000102)|
 |[Number of Folds](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_folds)|`Puzzles` `Restricted` |[Link](https://www.codewars.com/kata/59cfe5b023daccfd07000048)|
+|[Cogs 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cogs_2)|`Fundamentals` |[Link](https://www.codewars.com/kata/59e72bdcfc3c4974190000d9)|
 
 
 
