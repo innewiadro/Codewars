@@ -865,7 +865,7 @@ This is a place where I put my CodeWars solutions.
 |[Collatz Conjecture Length](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Collatz_conjecture_length)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/54fb963d3fe32351f2000102)|
 |[Number of Folds](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_folds)|`Puzzles` `Restricted` |[Link](https://www.codewars.com/kata/59cfe5b023daccfd07000048)|
 |[Cogs 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cogs_2)|`Fundamentals` |[Link](https://www.codewars.com/kata/59e72bdcfc3c4974190000d9)|
-
+|[Fix the Bugs (Syntax) - My First Kata](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fix_the_bugs_(syntax)_-_my_first_kata)|`Debugging` |[Link](https://www.codewars.com/kata/56aed32a154d33a1f3000018)|
 
 
 
