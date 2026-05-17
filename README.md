@@ -867,6 +867,7 @@ This is a place where I put my CodeWars solutions.
 |[Cogs 2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cogs_2)|`Fundamentals` |[Link](https://www.codewars.com/kata/59e72bdcfc3c4974190000d9)|
 |[Fix the Bugs (Syntax) - My First Kata](https://github.com/innewiadro/Codewars/tree/master/kata_level8/Fix_the_bugs_(syntax)_-_my_first_kata)|`Debugging` |[Link](https://www.codewars.com/kata/56aed32a154d33a1f3000018)|
 |[Simple Fun #87: Shuffled Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#87_shuffled_array)|`Puzzles` |[Link](https://www.codewars.com/kata/589573e3f0902e8919000109)|
+|[Return pyramids](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_pyramids)|`Strings` `Algorithms` `ASCII Art` `Puzzles` |[Link](https://www.codewars.com)|
 
 
 
