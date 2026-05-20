@@ -869,6 +869,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Fun #87: Shuffled Array](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#87_shuffled_array)|`Puzzles` |[Link](https://www.codewars.com/kata/589573e3f0902e8919000109)|
 |[Return pyramids](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_pyramids)|`Strings` `Algorithms` `ASCII Art` `Puzzles` |[Link](https://www.codewars.com)|
 |[Four/Seven](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fourseven)|`Puzzles` |[Link](https://www.codewars.com/kata/5ff50f64c0afc50008861bf0)|
+|[How Many Unique Consonants?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_unique_consonants)|`Strings` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/5a19226646d843de9000007d)|
 
 
 
