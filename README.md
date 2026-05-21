@@ -870,6 +870,7 @@ This is a place where I put my CodeWars solutions.
 |[Return pyramids](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Return_pyramids)|`Strings` `Algorithms` `ASCII Art` `Puzzles` |[Link](https://www.codewars.com)|
 |[Four/Seven](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Fourseven)|`Puzzles` |[Link](https://www.codewars.com/kata/5ff50f64c0afc50008861bf0)|
 |[How Many Unique Consonants?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/How_many_unique_consonants)|`Strings` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/5a19226646d843de9000007d)|
+|[Simple Fun #384: Is Turing's Equation?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#384_is_turing's_equation)|`Fundamentals` `Strings` `Mathematics` |[Link](https://www.codewars.com/kata/5a1e6323ffe75f71ae000026)|
 
 
 
