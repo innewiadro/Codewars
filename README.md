@@ -874,6 +874,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Fun #384: Is Turing's Equation?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#384_is_turing's_equation)|`Fundamentals` `Strings` `Mathematics` |[Link](https://www.codewars.com/kata/5a1e6323ffe75f71ae000026)|
 |[Thinkful - Object Drills: Vectors](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Thinkful_-_object_drills_vectors)|`Fundamentals` `Object-oriented Programming` |[Link](https://www.codewars.com/kata/587f1e1f39d444cee6000ad4)|
 |[Functions of Integers on Cartesian Plane](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Functions_of_integers_on_cartesian_plane)|`Fundamentals` `Mathematics` |[Link](https://www.codewars.com/kata/559e3224324a2b6e66000046)|
+|[UVB-76 Message Validator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Uvb-76_message_validator)|`Algorithms` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/56445cc2e5747d513c000033)|
 
 
 
