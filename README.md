@@ -877,6 +877,7 @@ This is a place where I put my CodeWars solutions.
 |[UVB-76 Message Validator](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Uvb-76_message_validator)|`Algorithms` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/56445cc2e5747d513c000033)|
 |[Figurate Numbers #2 - Pronic Number](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Figurate_numbers_#2_-_pronic_number)|`Mathematics` `Algorithms` |[Link](https://www.codewars.com/kata/55b1e5c4cbe09e46b3000034)|
 |[Table tennis: Who's serving?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Table_tennis_who's_serving)|`Mathematics` |[Link](https://www.codewars.com/kata/679e3754cb041c0685865dde)|
+|[Convert Decimal Degrees to Degrees, Minutes, Seconds](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Convert_decimal_degrees_to_degrees_minutes_seconds)|`Fundamentals` |[Link](https://www.codewars.com/kata/590ac6b9be4dff49b0000042)|
 
 
 
