@@ -879,6 +879,7 @@ This is a place where I put my CodeWars solutions.
 |[Table tennis: Who's serving?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Table_tennis_who's_serving)|`Mathematics` |[Link](https://www.codewars.com/kata/679e3754cb041c0685865dde)|
 |[Convert Decimal Degrees to Degrees, Minutes, Seconds](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Convert_decimal_degrees_to_degrees_minutes_seconds)|`Fundamentals` |[Link](https://www.codewars.com/kata/590ac6b9be4dff49b0000042)|
 |[The dropWhile Function](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_dropwhile_function)|`Functional Programming` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/54f9c37106098647f400080a)|
+|[Simple Fun #334: Two Beggars And Gold](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#334_two_beggars_and_gold)|`Fundamentals` |[Link](https://www.codewars.com/kata/59547688d8e005759e000092)|
 
 
 
