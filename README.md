@@ -881,7 +881,7 @@ This is a place where I put my CodeWars solutions.
 |[The dropWhile Function](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_dropwhile_function)|`Functional Programming` `Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/54f9c37106098647f400080a)|
 |[Simple Fun #334: Two Beggars And Gold](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#334_two_beggars_and_gold)|`Fundamentals` |[Link](https://www.codewars.com/kata/59547688d8e005759e000092)|
 |[Reducing Problems - Bug Fixing #8](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reducing_problems_-_bug_fixing_#8)|`Debugging` `Arrays` |[Link](https://www.codewars.com/kata/55d2603d506a40e162000056)|
-
+|[Apparently-Modifying Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Apparently-modifying_strings)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5b049d57de4c7f6a6c0001d7)|
 
 
 
