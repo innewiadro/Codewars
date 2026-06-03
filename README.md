@@ -883,6 +883,7 @@ This is a place where I put my CodeWars solutions.
 |[Reducing Problems - Bug Fixing #8](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reducing_problems_-_bug_fixing_#8)|`Debugging` `Arrays` |[Link](https://www.codewars.com/kata/55d2603d506a40e162000056)|
 |[Apparently-Modifying Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Apparently-modifying_strings)|`Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5b049d57de4c7f6a6c0001d7)|
 |[Type Of Relation](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Type_of_relation)|`Mathematics` `Set Theory` |[Link](https://www.codewars.com/kata/64915dc9d40f96004319379a)|
+|[Round to nearest 0 or 5](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Round_to_nearest_0_or_5)|`Algorithms` |[Link](https://www.codewars.com/kata/582f52208278c6be55000067)|
 
 
 
