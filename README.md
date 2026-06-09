@@ -888,6 +888,7 @@ This is a place where I put my CodeWars solutions.
 |[Refactored Greeting](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Refactored_greeting)|`Object-oriented Programming` `Refactoring` |[Link](https://www.codewars.com/kata/5121303128ef4b495f000001)|
 |[You Complete Me](https://github.com/innewiadro/Codewars/tree/master/kata_level7/You_complete_me)|`Strings` `Algorithms` `Fundamentals` `Logic` |[Link](https://www.codewars.com/kata/63967eb85e54bd00237d2201)|
 |[The Jumbler](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_jumbler)|`Fundamentals` `Algorithms` `Data Structures` |[Link](https://www.codewars.com/kata/69269262ced9e95dc63abd1e)|
+|[Simple Fun #320: Scratch lottery I](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#320_scratch_lottery_i)|`Puzzles` `Regular Expressions` |[Link](https://www.codewars.com/kata/594a1822a2db9e93bd0001d4)|
 
 
 ## Level 8 Katas
