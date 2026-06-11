@@ -890,6 +890,7 @@ This is a place where I put my CodeWars solutions.
 |[The Jumbler](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_jumbler)|`Fundamentals` `Algorithms` `Data Structures` |[Link](https://www.codewars.com/kata/69269262ced9e95dc63abd1e)|
 |[Simple Fun #320: Scratch lottery I](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#320_scratch_lottery_i)|`Puzzles` `Regular Expressions` |[Link](https://www.codewars.com/kata/594a1822a2db9e93bd0001d4)|
 |[TIY-FizzBuzz](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tiy-fizzbuzz)|`Fundamentals` |[Link](https://www.codewars.com/kata/5889177bf148eddd150002cc)|
+|[Covfefe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Covfefe)|`Strings` |[Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)|
 
 
 ## Level 8 Katas
