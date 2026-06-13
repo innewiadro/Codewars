@@ -892,6 +892,7 @@ This is a place where I put my CodeWars solutions.
 |[TIY-FizzBuzz](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Tiy-fizzbuzz)|`Fundamentals` |[Link](https://www.codewars.com/kata/5889177bf148eddd150002cc)|
 |[Covfefe](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Covfefe)|`Strings` |[Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)|
 |[Sum of a Beach](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_a_beach)|`Fundamentals` `Algorithms` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/5b37a50642b27ebf2e000010)|
+|[Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#5_-_higher-order_functions_series_-_prepare_the_count_of_languages)|`Functional Programming` `Data Structures` `Arrays` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/5828713ed04efde70e000346)|
 
 
 ## Level 8 Katas
