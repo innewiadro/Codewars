@@ -894,6 +894,7 @@ This is a place where I put my CodeWars solutions.
 |[Sum of a Beach](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Sum_of_a_beach)|`Fundamentals` `Algorithms` `Strings` `Regular Expressions` |[Link](https://www.codewars.com/kata/5b37a50642b27ebf2e000010)|
 |[Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#5_-_higher-order_functions_series_-_prepare_the_count_of_languages)|`Functional Programming` `Data Structures` `Arrays` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/5828713ed04efde70e000346)|
 |[Simple Fun #37:  House Numbers Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#37_house_numbers_sum)|`Puzzles` |[Link](https://www.codewars.com/kata/58880c6e79a0a3e459000004)|
+|[Complete The Pattern #2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Complete_the_pattern_#2)|`ASCII Art` `Puzzles` |[Link](https://www.codewars.com/kata/55733d3ef7c43f8b0700007c)|
 
 
 ## Level 8 Katas
