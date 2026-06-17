@@ -896,6 +896,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Fun #37:  House Numbers Sum](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#37_house_numbers_sum)|`Puzzles` |[Link](https://www.codewars.com/kata/58880c6e79a0a3e459000004)|
 |[Complete The Pattern #2](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Complete_the_pattern_#2)|`ASCII Art` `Puzzles` |[Link](https://www.codewars.com/kata/55733d3ef7c43f8b0700007c)|
 |[Find The Duplicated Number in a Consecutive Unsorted List](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_duplicated_number_in_a_consecutive_unsorted_list)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/558dd9a1b3f79dc88e000001)|
+|[Simple Fun #10: Range Bit Counting](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#10_range_bit_counting)|`Bits` `Binary` `Algorithms` |[Link](https://www.codewars.com/kata/58845748bd5733f1b300001f)|
 
 
 ## Level 8 Katas
