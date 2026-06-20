@@ -899,6 +899,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple Fun #10: Range Bit Counting](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#10_range_bit_counting)|`Bits` `Binary` `Algorithms` |[Link](https://www.codewars.com/kata/58845748bd5733f1b300001f)|
 |[Thinkful - String Drills: Quotable](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Thinkful_-_string_drills_quotable)|`Debugging` |[Link](https://www.codewars.com/kata/5859c82bd41fc6207900007a)|
 |[Simple string reversal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_string_reversal)|`Algorithms` |[Link](https://www.codewars.com/kata/5a71939d373c2e634200008e)|
+|[Evaluate a Polynomial Efficiently](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Evaluate_a_polynomial_efficiently)|`Mathematics` |[Link](https://www.codewars.com/kata/6a2c623fb42a4ee098b2c36b)|
 
 
 ## Level 8 Katas
