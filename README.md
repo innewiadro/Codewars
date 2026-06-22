@@ -901,6 +901,7 @@ This is a place where I put my CodeWars solutions.
 |[Simple string reversal](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_string_reversal)|`Algorithms` |[Link](https://www.codewars.com/kata/5a71939d373c2e634200008e)|
 |[Evaluate a Polynomial Efficiently](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Evaluate_a_polynomial_efficiently)|`Mathematics` |[Link](https://www.codewars.com/kata/6a2c623fb42a4ee098b2c36b)|
 |[Spoonerize Me](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Spoonerize_me)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/56b8903933dbe5831e000c76)|
+|[Coding Meetup #11 - Higher-Order Functions Series - Find the average age](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#11_-_higher-order_functions_series_-_find_the_average_age)|`Functional Programming` `Data Structures` `Arrays` `Fundamentals` `Algorithms` `Strings` |[Link](https://www.codewars.com/kata/582ba36cc1901399a70005fc)|
 
 
 ## Level 8 Katas
