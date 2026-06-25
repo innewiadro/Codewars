@@ -904,6 +904,8 @@ This is a place where I put my CodeWars solutions.
 |[Coding Meetup #11 - Higher-Order Functions Series - Find the average age](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_meetup_#11_-_higher-order_functions_series_-_find_the_average_age)|`Functional Programming` `Data Structures` `Arrays` `Fundamentals` `Algorithms` `Strings` |[Link](https://www.codewars.com/kata/582ba36cc1901399a70005fc)|
 |[Smallest Transform](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Smallest_transform)|`Algorithms` `Mathematics` |[Link](https://www.codewars.com/kata/64cf34314e8a905162e32ff5)|
 |[The fusc function  -- Part 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_fusc_function_--_part_1)|`Algorithms` |[Link](https://www.codewars.com/kata/570409d3d80ec699af001bf9)|
+|[Find how many times did a team from a given country win the Champions League?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_how_many_times_did_a_team_from_a_given_country_win_the_champions_league)|`Strings` `Arrays` `Data Structures` `Algorithms` |[Link](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9)|
+
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
