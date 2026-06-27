@@ -906,6 +906,7 @@ This is a place where I put my CodeWars solutions.
 |[The fusc function  -- Part 1](https://github.com/innewiadro/Codewars/tree/master/kata_level7/The_fusc_function_--_part_1)|`Algorithms` |[Link](https://www.codewars.com/kata/570409d3d80ec699af001bf9)|
 |[Find how many times did a team from a given country win the Champions League?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_how_many_times_did_a_team_from_a_given_country_win_the_champions_league)|`Strings` `Arrays` `Data Structures` `Algorithms` |[Link](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9)|
 |[Find twins](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_twins)|`Algorithms` |[Link](https://www.codewars.com/kata/5834315e06f227a6ac000099)|
+|[From A to Z](https://github.com/innewiadro/Codewars/tree/master/kata_level7/From_a_to_z)|`Algorithms` `Strings` |[Link](https://www.codewars.com/kata/6512b3775bf8500baea77663)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
