@@ -907,6 +907,7 @@ This is a place where I put my CodeWars solutions.
 |[Find how many times did a team from a given country win the Champions League?](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_how_many_times_did_a_team_from_a_given_country_win_the_champions_league)|`Strings` `Arrays` `Data Structures` `Algorithms` |[Link](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9)|
 |[Find twins](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_twins)|`Algorithms` |[Link](https://www.codewars.com/kata/5834315e06f227a6ac000099)|
 |[From A to Z](https://github.com/innewiadro/Codewars/tree/master/kata_level7/From_a_to_z)|`Algorithms` `Strings` |[Link](https://www.codewars.com/kata/6512b3775bf8500baea77663)|
+|[Battle of the characters (Easy)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Battle_of_the_characters_(easy))|`Algorithms` |[Link](https://www.codewars.com/kata/595519279be6c575b5000016)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
