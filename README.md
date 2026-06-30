@@ -909,6 +909,7 @@ This is a place where I put my CodeWars solutions.
 |[From A to Z](https://github.com/innewiadro/Codewars/tree/master/kata_level7/From_a_to_z)|`Algorithms` `Strings` |[Link](https://www.codewars.com/kata/6512b3775bf8500baea77663)|
 |[Battle of the characters (Easy)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Battle_of_the_characters_(easy))|`Algorithms` |[Link](https://www.codewars.com/kata/595519279be6c575b5000016)|
 |[Ce*s*r*d Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cesrd_strings)|`Puzzles` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5ff6060ed14f4100106d8e6f)|
+|[Reducing by steps](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Reducing_by_steps)|`Mathematics` `Arrays` `Functional Programming` `Lists` `Data Structures` |[Link](https://www.codewars.com/kata/56efab15740d301ab40002ee)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
