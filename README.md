@@ -911,6 +911,7 @@ This is a place where I put my CodeWars solutions.
 |[Ce*s*r*d Strings](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Cesrd_strings)|`Puzzles` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/5ff6060ed14f4100106d8e6f)|
 |[Reducing by steps](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Reducing_by_steps)|`Mathematics` `Arrays` `Functional Programming` `Lists` `Data Structures` |[Link](https://www.codewars.com/kata/56efab15740d301ab40002ee)|
 |[Moser Streaming](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Moser_streaming)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/6a19ce85283166ed5c3dda8c)|
+|[Find the missing element between two arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_missing_element_between_two_arrays)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5a5915b8d39ec5aa18000030)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
