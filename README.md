@@ -913,6 +913,7 @@ This is a place where I put my CodeWars solutions.
 |[Moser Streaming](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Moser_streaming)|`Geometry` `Fundamentals` |[Link](https://www.codewars.com/kata/6a19ce85283166ed5c3dda8c)|
 |[Find the missing element between two arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_missing_element_between_two_arrays)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5a5915b8d39ec5aa18000030)|
 |[Turn with a Compass](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Turn_with_a_compass)|`Algorithms` |[Link](https://www.codewars.com/kata)|
+|[Find the longest  gap!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_longest_gap)|`Regular Expressions` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55b86beb1417eab500000051)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
