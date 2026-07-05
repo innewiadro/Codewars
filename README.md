@@ -129,6 +129,7 @@ This is a place where I put my CodeWars solutions.
 |[WeIrD StRiNg CaSe](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Weird_string_case)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/52b757663a95b11b3d00062d)|
 |[Simple Fun #2: Circle of Numbers](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#2_circle_of_numbers)|`Puzzles` |[Link](https://www.codewars.com/kata/58841cb52a077503c4000015)|
 |[String subpattern recognition II](https://github.com/innewiadro/Codewars/tree/master/kata_level6/String_subpattern_recognition_ii)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/5a4a391ad8e145cdee0000c4)|
+|[Ball Upwards](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Ball_upwards)|`Fundamentals` |[Link](https://www.codewars.com/kata/566be96bb3174e155300001b)|
 
 
 ## Level 7 Katas
