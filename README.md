@@ -916,6 +916,7 @@ This is a place where I put my CodeWars solutions.
 |[Find the missing element between two arrays](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_missing_element_between_two_arrays)|`Arrays` `Algorithms` |[Link](https://www.codewars.com/kata/5a5915b8d39ec5aa18000030)|
 |[Turn with a Compass](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Turn_with_a_compass)|`Algorithms` |[Link](https://www.codewars.com/kata)|
 |[Find the longest  gap!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_longest_gap)|`Regular Expressions` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55b86beb1417eab500000051)|
+~~|[Simple Fun #3: Late Ride](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#3_late_ride)|`Puzzles` |[Link](https://www.codewars.com/kata/588422ba4e8efb583d00007d)|~~
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
