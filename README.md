@@ -917,6 +917,7 @@ This is a place where I put my CodeWars solutions.
 |[Turn with a Compass](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Turn_with_a_compass)|`Algorithms` |[Link](https://www.codewars.com/kata)|
 |[Find the longest  gap!](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Find_the_longest_gap)|`Regular Expressions` `Strings` `Fundamentals` |[Link](https://www.codewars.com/kata/55b86beb1417eab500000051)|
 ~~|[Simple Fun #3: Late Ride](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#3_late_ride)|`Puzzles` |[Link](https://www.codewars.com/kata/588422ba4e8efb583d00007d)|~~
+|[Kooka-Counter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Kooka-counter)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/58e8cad9fd89ea0c6c000258)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
