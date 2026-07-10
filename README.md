@@ -131,6 +131,7 @@ This is a place where I put my CodeWars solutions.
 |[String subpattern recognition II](https://github.com/innewiadro/Codewars/tree/master/kata_level6/String_subpattern_recognition_ii)|`Strings` `Regular Expressions` `Fundamentals` |[Link](https://www.codewars.com/kata/5a4a391ad8e145cdee0000c4)|
 |[Ball Upwards](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Ball_upwards)|`Fundamentals` |[Link](https://www.codewars.com/kata/566be96bb3174e155300001b)|
 |[Simple Encryption #1 - Alternating Split](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Simple_encryption_#1_-_alternating_split)|`Cryptography` `Algorithms` `Strings` `Arrays` `Fundamentals` |[Link](https://www.codewars.com/kata/57814d79a56c88e3e0000786)|
+|[Moves in squared strings (III)](https://github.com/innewiadro/Codewars/tree/master/kata_level6/Moves_in_squared_strings_(iii))|`Algorithms` `Strings` |[Link](https://www.codewars.com/kata/56dbeec613c2f63be4000be6)|
 
 
 ## Level 7 Katas
