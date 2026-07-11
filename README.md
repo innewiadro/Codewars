@@ -920,6 +920,7 @@ This is a place where I put my CodeWars solutions.
 ~~|[Simple Fun #3: Late Ride](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Simple_fun_#3_late_ride)|`Puzzles` |[Link](https://www.codewars.com/kata/588422ba4e8efb583d00007d)|~~
 |[Kooka-Counter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Kooka-counter)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/58e8cad9fd89ea0c6c000258)|
 |[Maxie and Minnie](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maxie_and_minnie)|`Puzzles` `Mathematics` |[Link](https://www.codewars.com/kata/6a35c1e3e4e955fbc49dec03)|
+|[Coding 3min : A*B=C](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_3min_ab=c)|`Puzzles` `Games` |[Link](https://www.codewars.com/kata/5714803d2817ffce17000a35)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
