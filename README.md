@@ -921,6 +921,7 @@ This is a place where I put my CodeWars solutions.
 |[Kooka-Counter](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Kooka-counter)|`Strings` `Algorithms` |[Link](https://www.codewars.com/kata/58e8cad9fd89ea0c6c000258)|
 |[Maxie and Minnie](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Maxie_and_minnie)|`Puzzles` `Mathematics` |[Link](https://www.codewars.com/kata/6a35c1e3e4e955fbc49dec03)|
 |[Coding 3min : A*B=C](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_3min_ab=c)|`Puzzles` `Games` |[Link](https://www.codewars.com/kata/5714803d2817ffce17000a35)|
+|[Largest Square Inside A Circle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_square_inside_a_circle)|`Geometry` `Algorithms` |[Link](https://www.codewars.com/kata/5887a6fe0cfe64850800161c)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
