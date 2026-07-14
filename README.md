@@ -923,6 +923,7 @@ This is a place where I put my CodeWars solutions.
 |[Coding 3min : A*B=C](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Coding_3min_ab=c)|`Puzzles` `Games` |[Link](https://www.codewars.com/kata/5714803d2817ffce17000a35)|
 |[Largest Square Inside A Circle](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Largest_square_inside_a_circle)|`Geometry` `Algorithms` |[Link](https://www.codewars.com/kata/5887a6fe0cfe64850800161c)|
 |[Number of Divisions](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_divisions)|`Algorithms` |[Link](https://www.codewars.com/kata/5913152be0b295cf99000001)|
+|[Reversed Message](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reversed_message)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a0efbb7c374cb69970000cf)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
