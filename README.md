@@ -925,6 +925,7 @@ This is a place where I put my CodeWars solutions.
 |[Number of Divisions](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Number_of_divisions)|`Algorithms` |[Link](https://www.codewars.com/kata/5913152be0b295cf99000001)|
 |[Reversed Message](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reversed_message)|`Fundamentals` `Strings` |[Link](https://www.codewars.com/kata/5a0efbb7c374cb69970000cf)|
 |[Binary Tree Search (not BST)](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Binary_tree_search_(not_bst))|`Binary Trees` `Fundamentals` |[Link](https://www.codewars.com/kata/5acc79efc6fde7838a0000a0)|
+|[Reversing Fun](https://github.com/innewiadro/Codewars/tree/master/kata_level7/Reversing_fun)|`Strings` `Fundamentals` `Algorithms` |[Link](https://www.codewars.com/kata/566efcfbf521a3cfd2000056)|
 
 ## Level 8 Katas
 | Katas                                                                                                                                                                                                                                                                                                                | Subject                                           | CW Link                                                               |
